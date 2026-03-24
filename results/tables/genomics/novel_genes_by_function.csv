@@ -1,0 +1,16 @@
+Functional_category,Count,In_novel_region,Representative_annotations
+other,233,156,SLH domain-containing protein; NERD domain-containing protein; ATPase associated with various cellular activities family protein; Mobilization protein; tartrate dehydratase
+hypothetical_DUF,201,105,DUF5704 domain-containing protein; DUF554 domain-containing protein; DUF3991 domain-containing protein; DUF4411 domain-containing protein; DUF3849 domain-containing protein
+metabolism_enzyme,88,57,SDR family NAD(P)-dependent oxidoreductase; Bacterial transferase hexapeptide family protein; 3'-phosphoadenosine 5'-phosphosulfate sulfotransferase; cAMP-binding domain of CRP or a regulatory subunit of cAMP-dependent protein kinases; histidine kinase
+IS_transposase,44,24,PD-(D/E)XK nuclease transposase family protein; transposase; IS110 family transposase; IS4 family transposase; Mu transposase C-terminal domain-containing protein
+regulatory,40,26,helix-turn-helix transcriptional regulator; MmcQ/YjbR family DNA-binding protein; MerR family transcriptional regulator; DNA-binding response regulator; MarR family transcriptional regulator
+transport,37,30,Sugar ABC transporter ATP-binding protein; Putative permease family protein; MFS-type transporter YcnB; Branched-chain amino acid transport system / permease component family protein; ABC transporter transmembrane region family protein
+phage,31,15,Bacteriophage SP-beta YorD domain-containing protein; putative phage tail protein; Phage minor structural N-terminal region domain protein; Major capsid protein; phage portal protein
+CRISPR,15,15,CRISPR-associated helicase Cas3'; CRISPR-associated endonuclease Cas2; type I-C CRISPR-associated protein Cas7/Csd2; type I-B CRISPR-associated protein Cas8b1/Cst1; CRISPR-associated endonuclease Cas3-HD
+conjugation_ICE,12,12,Conjugal transfer protein; TrbL/VirB6 plasmid conjugal transfer protein; VirD4-like conjugal transfer protein CD1115 family; Relaxase/mobilization nuclease domain protein; MobA/VirD2-like nuclease domain-containing protein
+integrase_recombinase,8,8,Recombinase; Integrase; DNA integrase; site-specific integrase; recombinase zinc beta ribbon domain-containing protein
+cell_envelope_motility,7,2,LysM peptidoglycan-binding domain-containing protein; Methyl-accepting chemotaxis protein; Putative membrane protein; methyl-accepting chemotaxis protein
+toxin_antitoxin,7,6,HicB-like antitoxin of toxin-antitoxin system domain-containing protein; Antitoxin; HicA toxin of toxin-antitoxin; Toxin-antitoxin system HicB family antitoxin; HicB family toxin-antitoxin system
+sporulation,6,5,Spo0E like sporulation regulatory family protein; Spore germination protein KB; Spore germination GerAC-like C-terminal domain-containing protein; Sporulation protein Cse60; Spore germination protein KA
+ribosomal_translation,5,3,Glutamyl-tRNA amidotransferase; 30S ribosomal protein S14; 50S ribosomal protein L33; Translation-disabling ACNase RloC; Seryl-tRNA synthetase
+drug_efflux,2,2,Drug resistance MFS transporter drug:H+ antiporter-2 family protein; MATE efflux family protein

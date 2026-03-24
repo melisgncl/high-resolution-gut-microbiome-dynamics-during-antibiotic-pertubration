@@ -1,0 +1,48 @@
+Start	Stop	Size_kb	N_CDS	N_IS	N_hypothetical	AMR_keyword_hits
+1285651	1393969	106.6	98	6	10	NKFIDM_01118:ABC transporter permease; NKFIDM_01119:ABC transporter permease; NKFIDM_01129:Recombinase; NKFIDM_01130:TipAS antibiotic-recognition domain-containing pro; NKFIDM_01137:Antitoxin; NKFIDM_01138:Plasmid stabilization protein; NKFIDM_01140:Relaxase/mobilization nuclease domain protein; NKFIDM_01144:VirD4-like conjugal transfer protein, CD1115 famil; NKFIDM_01146:TrbL/VirB6 plasmid conjugal transfer protein; NKFIDM_01151:VirB4-like conjugal transfer ATPase, CD1110 family; NKFIDM_01172:MFS-type transporter YcnB; NKFIDM_01174:HicB-like antitoxin of toxin-antitoxin system doma; NKFIDM_01175:HicB family toxin-antitoxin system; NKFIDM_01200:Conjugal transfer protein; NKFIDM_01201:Putative conjugative transposon recombinase; NKFIDM_01202:recombinase zinc beta ribbon domain-containing pro
+6766334	6825514	59.2	90	1	38	NKFIDM_06031:MarR family transcriptional regulator; NKFIDM_06041:Phage minor structural, N-terminal region domain p; NKFIDM_06044:Bacteriophage SP-beta YorD domain-containing prote; NKFIDM_06046:Podophage GP4 fiber I protein gp80; NKFIDM_06047:Phage tail protein; NKFIDM_06051:Phage tail protein; NKFIDM_06055:Phage tail protein; NKFIDM_06056:Phage gp6-like head-tail connector protein; NKFIDM_06060:phage portal protein; NKFIDM_06065:Toxin-antitoxin system HicB family antitoxin; NKFIDM_06066:HicA toxin of toxin-antitoxin; NKFIDM_06076:Phage protein; NKFIDM_06098:Phage protein; NKFIDM_06110:ABC transporter permease; NKFIDM_06111:Plasmid-partitioning protein; NKFIDM_06117:Recombinase family protein
+5322917	5371421	48.5	36	0	7	NKFIDM_04704:DNA integrase; NKFIDM_04707:Tyr recombinase domain-containing protein; NKFIDM_04708:Integrase; NKFIDM_04709:site-specific integrase; NKFIDM_04736:Plasmid pRiA4b Orf3-like domain-containing protein; NKFIDM_04737:Type II toxin-antitoxin system VapC family toxin
+345498	377216	28.8	25	0	2	NKFIDM_00327:MerR regulatory family protein; NKFIDM_00329:Sugar ABC transporter ATP-binding protein
+2911705	2936697	26.0	33	0	2	NKFIDM_02506:Conjugal transfer protein; NKFIDM_02509:MobA/VirD2-like nuclease domain-containing protein; NKFIDM_02511:GNAT family N-acetyltransferase; NKFIDM_02519:VirB4-like conjugal transfer ATPase, CD1110 family; NKFIDM_02524:TrbL/VirB6 plasmid conjugal transfer protein; NKFIDM_02525:Conjugal transfer protein; NKFIDM_02526:VirD4-like conjugal transfer protein, CD1115 famil; NKFIDM_02529:MarR family transcriptional regulator; NKFIDM_02531:Antirestriction protein
+5297204	5322425	22.3	23	0	2	NKFIDM_04694:Phosphopantetheine attachment site family protein; NKFIDM_04702:ABC transporter family protein
+5577608	5596327	18.7	17	0	1	NKFIDM_04900:Acetyltransferase domain protein; NKFIDM_04901:ABC transporter family protein; NKFIDM_04902:ABC transporter family protein; NKFIDM_04903:nickel transporter permease; NKFIDM_04904:nickel ABC transporter permease; NKFIDM_04905:nickel ABC transporter substrate-binding protein; NKFIDM_04910:Sugar (And other) transporter family protein; NKFIDM_04912:ABC transporter family protein; NKFIDM_04916:ABC transporter substrate-binding protein
+2546997	2565301	18.2	13	0	0	none
+7180257	7192022	11.7	10	0	0	NKFIDM_06425:ABC transporter family protein; NKFIDM_06430:ABC transporter family protein
+5599526	5609082	9.8	10	0	1	NKFIDM_04924:Drug resistance MFS transporter, drug:H+ antiporte; NKFIDM_04926:Lysine transporter LysE
+1628088	1639189	9.8	8	0	0	none
+299286	308904	9.5	9	0	2	NKFIDM_00281:ABC transporter family protein; NKFIDM_00288:ABC transporter family protein
+6506042	6526207	7.8	18	0	0	none
+5110792	5125421	6.7	13	2	1	NKFIDM_04526:ABC transporter transmembrane region family protei; NKFIDM_04533:Lantibiotic
+1435354	1442904	6.7	4	0	0	NKFIDM_01244:Sugar (Glycoside-Pentoside-Hexuronide) transporter
+6082114	6089927	5.6	7	0	2	NKFIDM_05389:Phage late control D family protein
+1394089	1403720	5.4	12	2	0	none
+3715424	3723528	4.0	8	0	1	NKFIDM_03224:GNAT family N-acetyltransferase
+7143819	7145824	2.0	2	0	0	none
+5294004	5295810	2.0	1	0	1	none
+5100227	5100236	1.9	0	0	0	none
+1768878	1770763	1.9	1	0	0	none
+6262407	6264206	1.8	2	1	1	none
+2128875	2130519	1.6	1	1	0	none
+7146264	7147875	1.6	1	0	0	none
+818058	819620	1.6	2	2	0	none
+6733680	6735243	1.6	2	2	0	none
+2600644	2602202	1.6	4	2	1	none
+2871687	2873253	1.6	2	2	0	none
+2999348	3000914	1.6	4	2	2	none
+4133445	4135011	1.6	2	2	0	none
+6925711	6927225	1.5	1	1	0	none
+1045040	1046496	1.5	1	0	0	NKFIDM_00903:MATE efflux family protein
+1624096	1625668	1.4	1	0	1	none
+2442561	2444519	1.3	3	0	0	NKFIDM_02099:putative multidrug resistance protein NorM
+1420710	1421891	1.2	1	0	0	none
+7340761	7341907	1.1	1	0	0	none
+6495843	6497248	1.1	2	0	2	none
+3819754	3820831	1.1	2	0	1	none
+7051868	7053121	1.1	2	0	1	none
+4058016	4059014	1.0	1	0	0	none
+4428117	4429134	1.0	1	0	0	none
+3745750	3746776	1.0	2	0	0	NKFIDM_03252:MerR regulatory family protein
+3732417	3733554	0.9	3	0	0	none
+843284	844141	0.9	1	0	0	none
+476661	477543	0.7	3	0	0	none
+5109093	5109805	0.6	1	0	0	NKFIDM_04523:ABC transporter family protein

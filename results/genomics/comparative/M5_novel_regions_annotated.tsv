@@ -1,0 +1,11 @@
+region	size_kb	net_extra_kb	GC%	n_CDS	n_IS_internal	IS_flanked	tRNA_flanked	left_IS	right_IS	tRNA
+1285651-1393969	108	106	49.4	96	6	False	False			
+6766334-6825514	59	59	44.1	89	1	False	False			
+5322917-5371421	48	48	44.8	34	0	False	False			
+345498-377216	31	28	47.6	24	0	False	False			
+2911705-2936697	24	25	47.7	32	0	False	False			
+5297204-5322425	25	22	33.8	21	0	False	False			
+5577608-5596327	18	18	50.9	17	0	False	False			
+2546997-2565301	18	18	49.9	13	0	False	False			
+7180257-7192022	11	11	40.1	10	0	False	False			
+5599526-5609082	9	9	46.6	10	0	False	False			

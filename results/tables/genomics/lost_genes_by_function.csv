@@ -1,0 +1,12 @@
+Functional_category,Count,Representative_annotations
+hypothetical_DUF,89,DUF5643 domain-containing protein; DUF4179 domain-containing protein; DUF1788 domain-containing protein; DUF6809 family protein; DUF2808 domain-containing protein
+other,68,ankyrin repeat domain-containing protein; condensation domain-containing protein; VOC family protein; potassium channel protein; AAA family ATPase
+metabolism_enzyme,53,SDR family NAD(P)-dependent oxidoreductase; glycosyltransferase family 2 protein; class I SAM-dependent methyltransferase; metallophosphoesterase; cache domain-containing sensor histidine kinase
+transport,45,carbohydrate ABC transporter permease; MFS transporter; PTS sugar transporter subunit IIA; heme ABC transporter substrate-binding protein IsdE; ABC transporter ATP-binding protein
+regulatory,21,helix-turn-helix transcriptional regulator; MmcQ/YjbR family DNA-binding protein; MerR family transcriptional regulator; PadR family transcriptional regulator; MarR family transcriptional regulator
+CRISPR,15,CRISPR-associated helicase Cas3'; type I-C CRISPR-associated protein Cas7/Csd2; CRISPR-associated endonuclease Cas2; CRISPR-associated protein Cas4; type I-C CRISPR-associated protein Cas5c
+IS_transposase,12,IS110 family transposase; Rpn family recombination-promoting nuclease/putative transposase; transposase
+sporulation,2,spore gernimation protein GerPD; spore germination protein GerPB
+toxin_antitoxin,2,Fic/DOC family protein; type II toxin-antitoxin system prevent-host-death family antitoxin
+phage,1,putative holin-like toxin
+integrase_recombinase,1,tyrosine-type recombinase/integrase

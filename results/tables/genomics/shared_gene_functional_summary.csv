@@ -1,0 +1,16 @@
+Functional_category,Core,Novel,Lost,Pct_of_novel,Enriched_in
+CRISPR,7,15,15,2.0%,novel
+IS_transposase,78,44,12,6.0%,novel
+cell_envelope_motility,113,7,0,1.0%,core
+conjugation_ICE,9,12,0,1.6%,novel
+drug_efflux,39,2,0,0.3%,core
+hypothetical_DUF,674,201,89,27.3%,novel
+integrase_recombinase,7,8,1,1.1%,novel
+metabolism_enzyme,1493,88,53,12.0%,core
+other,2039,233,68,31.7%,neither
+phage,51,31,1,4.2%,novel
+regulatory,375,40,21,5.4%,neither
+ribosomal_translation,150,5,0,0.7%,core
+sporulation,157,6,2,0.8%,core
+toxin_antitoxin,20,7,2,1.0%,novel
+transport,613,37,45,5.0%,core

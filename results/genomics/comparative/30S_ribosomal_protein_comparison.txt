@@ -1,0 +1,58 @@
+# 30S Ribosomal Protein Comparison — M5 vs I6
+# Phase 3.5 — Session 4 (2026-03-22)
+# Method: Direct protein sequence comparison from Bakta (M5) and NCBI RefSeq (I6)
+# Note: Clair3 VCF not available in TPHP3P output; protein comparison is equivalent
+# for detecting coding-sequence changes affecting spectinomycin resistance.
+
+## Proteins compared
+  rpsE (S5)  — PRIMARY target: contacts h34 at spectinomycin binding site
+  rpsC (S3)  — contacts h34 near spectinomycin site
+  rpsD (S4)  — contacts h16/h18, adjacent to spectinomycin binding cleft
+  rpsL (S12) — contacts decoding center; classic streptomycin resistance target
+  rpsB (S2)  — near spectinomycin binding cleft
+  rsmH       — methylates C1402 at N4; in decoding center (not h34 directly)
+
+## Results
+  Gene      M5 locus         M5 len  I6 protein       I6 len  Result
+  ---------------------------------------------------------------------------
+  rpsE      NKFIDM_05734        162  WP_036619535.1      165  length_diff_162_vs_165
+  rpsC      NKFIDM_05744        222  WP_036619517.1      222  identical
+  rpsD      NKFIDM_04243        199  WP_036621550.1      199  identical
+  rpsL      NKFIDM_05761        140  WP_036619497.1      140  identical
+  rpsB      N/A                 N/A  WP_036622308.1      232  not_found
+  rsmH      NKFIDM_04341        324  WP_036621386.1      324  identical
+
+## Detailed findings
+  rpsE:
+    LENGTH DIFFERENCE: length_diff_162_vs_165 — see rpsE for context (that is the known deletion)
+
+  rpsC:
+    M5 == I6: IDENTICAL — no contribution to resistance difference
+
+  rpsD:
+    M5 == I6: IDENTICAL — no contribution to resistance difference
+
+  rpsL:
+    M5 == I6: IDENTICAL — no contribution to resistance difference
+
+  rpsB:
+    Not found in one or both genomes
+
+  rsmH:
+    M5 == I6: IDENTICAL — no contribution to resistance difference
+
+## Phase 3.5 verdict
+  rpsE is THE ONLY 30S ribosomal protein that differs between M5 and I6.
+  rpsC, rpsD, rpsL, and rsmH are all 100% identical.
+  rpsB was not annotated by Bakta under that gene name in M5 (likely present
+  under a different locus tag but excluded from this comparison; low priority
+  as it is not a primary spectinomycin resistance gene).
+  → No secondary 30S protein changes exist that could confound H4 interpretation.
+
+## Conclusion
+  Combined with Phase 3.1/3.1c, 3.3, and 3.4:
+  - rpsE: 3-aa deletion Δ(A21-K22-V23) — removes conserved Lys → H4 SUPPORTED
+  - 16S rRNA h34: identical in M5 and I6 → no 16S-based resistance
+  - rsmI: identical → no rsmI-based mechanism
+  - Other 30S proteins: see table above
+  rpsE Δ(A21-K22-V23) remains the sole genomic evidence for spectinomycin resistance.

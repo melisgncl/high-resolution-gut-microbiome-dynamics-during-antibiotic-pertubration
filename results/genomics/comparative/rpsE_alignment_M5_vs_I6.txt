@@ -1,0 +1,45 @@
+# rpsE alignment: M5/M6/M8 isolates vs P. macerans I6 (GCF_022494515.1)
+# Generated: 2026-03-22
+# Method: exact sequence comparison (Python); sequences differ by exactly 3 aa (1 indel event)
+
+M5 length: 162 aa
+I6 length: 165 aa
+Difference: 3 aa deletion in M5/M6/M8 relative to I6
+
+Alignment (gapped):
+M5: MRVDPNTLELTERVVNINRV---VKGGRRFSFSALVVVGDGKGWVGAGIGKAGEVPDAIRKGIEDAKKNLIHVPLVGTTIPHLVTGHFGAGRVLLKPASEGTGVIAGGPVRAVLELAGVGDILTKSLGSSNSINMVNATLEGLSRLKRAEDVAKLRGKTVEELLG
+I6: MRVDPNTLELTERVVNINRVAKVVKGGRRFSFSALVVVGDGKGWVGAGIGKAGEVPDAIRKGIEDAKKNLIHVPLVGTTIPHLVTGHFGAGRVLLKPASEGTGVIAGGPVRAVLELAGVGDILTKSLGSSNSINMVNATLEGLSRLKRAEDVAKLRGKTVEELLG
+
+Shared prefix (positions 1-20, I6 numbering): MRVDPNTLELTERVVNINRV  [IDENTICAL]
+Deletion in M5/M6/M8: positions 21-23 in I6 = A21-K22-V23  [MISSING in M5/M6/M8]
+Shared suffix (positions 24-165, I6 numbering): VKGGRRFSFS...EELLG  [IDENTICAL, 142 aa]
+
+Mismatches outside the deletion: 0
+
+INTERPRETATION:
+- All three sequenced isolates (M5, M6, M8) carry identical rpsE sequences
+- Their rpsE differs from I6 (the reference strain, ATCC 7068) by a single 3-aa in-frame deletion
+- Deleted residues in I6 numbering: A21-K22-V23
+- This deletion is in the N-terminal beta-hairpin region of S5, adjacent to the
+  spectinomycin-contacting loop (E. coli equivalents: Q15, G16, G17)
+- Because all three mice carry the SAME deletion, this is ANCESTRAL — the strain
+  of P. macerans used to colonize mice already carried this deletion before the experiment.
+
+HYPOTHESIS UPDATES (from execution_plan.md decision table):
+- H1 (de novo rpsE mutation during experiment): FALSIFIED
+  The deletion is identical in M5/M6/M8 from separate mice — it cannot be three
+  independent in vivo mutations. It was present in the inoculum.
+- H4 (intrinsic resistance, pre-existing in strain): STRONGLY SUPPORTED
+  The colonizing strain differs from ATCC 7068 (I6) at rpsE by a 3-aa deletion
+  that is likely to alter spectinomycin binding. This difference was present before
+  the experiment and does not require HGT or in vivo selection to explain.
+- H3 (HGT of aadA from E. coli): not addressed by this comparison; still possible
+  as a secondary or alternative mechanism.
+
+PRIORITY NEXT STEPS:
+1. Confirm the deletion is in the N-terminal spectinomycin-contact region by
+   aligning M5 rpsE to E. coli K12 rpsE (NP_416366.1) with MAFFT (needs Linux/WSL)
+2. Obtain MIC data for I6 (ATCC 7068) vs our isolates to determine whether
+   I6 is actually spectinomycin-sensitive (critical assumption for H4 interpretation)
+3. Run the whole-genome alignment (nucmer Phase 2.3) to determine if the 360 kb
+   extra sequence in M5 vs I6 contains aadA or any HGT-related content

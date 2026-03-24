@@ -1,0 +1,31 @@
+# Data - stays local, backed up on Dropbox
+data/
+
+# src_archive - reference only, not for review
+src_archive/
+
+# renv library - too large for git
+renv/library/
+
+# R session files
+.Rhistory
+.RData
+.Rproj.user
+Rplots.pdf
+
+# Claude Code local config
+.claude/
+
+# Large generated outputs (regenerable from scripts)
+results/tables/barcodes/processed/
+results/genomics/comparative/*.bam
+results/genomics/comparative/*.bam.bai
+results/genomics/comparative/panaroo_output/
+results/genomics/amr_search/
+
+# Large PDFs (PNGs are kept for GitHub)
+results/figures/**/*.pdf
+results/genomics/reports/*.pdf
+
+# Clustering intermediates (large correlation matrices)
+results/tables/clustering/**/*_pearson_*.csv

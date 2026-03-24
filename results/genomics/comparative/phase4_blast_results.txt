@@ -1,0 +1,70 @@
+# Phase 4 — BLAST Results for M5 Novel Regions
+# Date: 2026-03-23
+# Tool: NCBI qblast (blastn vs nt)
+# Window: 4 kb centred in each novel region
+
+## 59kb_6766kb — 59 kb block at 6.77 Mb
+   Window: contig_1:6793925-6797924 (4000 bp centred in 6766334-6825514)
+
+   Top hits (blastn vs nt, E<1e-10):
+   Rank  %Id    Cov    E-val       Organism/Description
+   ---------------------------------------------------------------------------
+      1   72.0   66.0  0.0e+00     gi|1125819267|gb|CP011420.1| Paenibacillus polymyxa strain ATCC 15970 chromosome
+      2   72.0   65.9  0.0e+00     gi|2734879550|gb|CP133768.1| Paenibacillus polymyxa strain YT9 chromosome, compl
+      3   71.7   65.8  0.0e+00     gi|1769907710|gb|CP045298.1| Paenibacillus brasilensis strain KACC 13842 chromos
+      4   70.7   66.0  0.0e+00     gi|1907999495|gb|CP048793.1| Paenibacillus polymyxa E681 isolate type B chromoso
+      5   70.6   65.5  0.0e+00     gi|2579504890|gb|CP134463.1| Paenibacillus polymyxa strain B8-12 chromosome, com
+
+## 48kb_5322kb — 48 kb block at 5.32 Mb
+   Window: contig_1:5345170-5349169 (4000 bp centred in 5322917-5371421)
+
+   Top hits (blastn vs nt, E<1e-10):
+   Rank  %Id    Cov    E-val       Organism/Description
+   ---------------------------------------------------------------------------
+      1   88.1   70.4  0.0e+00     gi|3054024734|dbj|AP043722.1| Paenibacillus sp. JCM 9795 DNA, complete genome
+      2   88.1   70.4  0.0e+00     gi|3054030096|dbj|AP043723.1| Paenibacillus sp. JCM 9796 DNA, complete genome
+      3   89.6   55.7  0.0e+00     gi|2991790857|gb|CP139097.1| Paenibacillus cookii strain FW15 chromosome, comple
+      4   85.2   55.0  0.0e+00     gi|686551055|gb|CP009286.1| Paenibacillus stellifer strain DSM 14472, complete g
+      5   95.3   17.5  0.0e+00     gi|2853811915|gb|CP173427.1| Paenibacillus chitinolyticus strain KFRI-Sea08-06 c
+
+## 25kb_2911kb — 25 kb block at 2.91 Mb
+   Window: contig_1:2922202-2926201 (4000 bp centred in 2911705-2936697)
+
+   Top hits (blastn vs nt, E<1e-10):
+   Rank  %Id    Cov    E-val       Organism/Description
+   ---------------------------------------------------------------------------
+      1   96.3  100.0  0.0e+00     gi|1988321723|gb|CP070235.1| Lacrimispora saccharolytica strain FDAARGOS_1340 ch
+      2   96.3  100.0  0.0e+00     gi|302195072|gb|CP002109.1| [Clostridium] saccharolyticum WM1 chromosome, comple
+      3   93.5   55.8  0.0e+00     gi|2099520312|gb|CP083649.1| Clostridium sporogenes strain FDAARGOS_1491 chromos
+      4   93.5   55.8  0.0e+00     gi|2107641821|gb|CP084367.1| Clostridium sporogenes strain FDAARGOS_1531 chromos
+      5   93.5   55.8  0.0e+00     gi|2695684310|gb|CP146301.1| Sporomusa ovata DSM 2662 chromosome, complete genom
+
+## 22kb_5297kb — 22 kb block at 5.30 Mb
+   Window: contig_1:5307815-5311814 (4000 bp centred in 5297204-5322425)
+
+   No significant hits (blastn vs nt, E<1e-10)
+
+## 18kb_2547kb — 18 kb block at 2.55 Mb
+   Window: contig_1:2554150-2558149 (4000 bp centred in 2546997-2565301)
+
+   Top hits (blastn vs nt, E<1e-10):
+   Rank  %Id    Cov    E-val       Organism/Description
+   ---------------------------------------------------------------------------
+      1   78.5  100.8  0.0e+00     gi|2287100891|gb|CP085629.1| Paenibacillus sp. P25 chromosome
+      2   78.5  100.7  0.0e+00     gi|2286772411|gb|CP085630.1| Paenibacillus sp. P26 chromosome
+      3   76.7  100.4  0.0e+00     gi|357198889|gb|CP003107.1| Paenibacillus terrae HPL-003, complete genome
+      4   73.5  100.7  0.0e+00     gi|1049751780|gb|CP016808.1| Paenibacillus sp. BIHB 4019 chromosome, complete ge
+      5   80.3   54.9  0.0e+00     gi|806909852|emb|LN831776.1| Paenibacillus riograndensis SBR5 genome assembly SB
+
+## 108kb_ICE — 108 kb ICE — identify donor organism
+   Window: contig_1:1337811-1341810 (4000 bp centred in 1285651-1393969)
+
+   Top hits (blastn vs nt, E<1e-10):
+   Rank  %Id    Cov    E-val       Organism/Description
+   ---------------------------------------------------------------------------
+      1   99.8  100.2  0.0e+00     gi|2511334388|gb|CP126078.1| Brevibacillus agri strain ACCC03016 chromosome, com
+      2   98.4   38.6  0.0e+00     gi|2437816954|gb|CP116544.1| Enterococcus faecium strain K70-1a plasmid pK70-1a-
+      3   98.4   38.6  0.0e+00     gi|2969324738|gb|CP189634.1| Enterococcus faecium strain BY plasmid unnamedA, co
+      4   98.4   38.6  0.0e+00     gi|2447461905|dbj|AP027301.1| Enterococcus hirae L6E plasmid L6E_p2 DNA, complet
+      5   98.4   38.6  0.0e+00     gi|2447455918|dbj|AP027295.1| Enterococcus faecium K6D plasmid K6D_p1 DNA, compl
+

@@ -1,0 +1,1286 @@
+Product,M5_copies,M6_copies,M8_copies,I6_copies,Classification,In_novel_region
+(2Fe-2S)-binding protein,1,1,1,3,I6_specific,no
+(Fe-S)-binding protein,1,1,1,2,I6_specific,no
+(pseudo) LPXTG cell wall anchor domain protein,2,2,2,1,isolate_specific,no
+(pseudo) hypothetical protein,8,8,8,1,isolate_specific,no
+2-hydroxyacid dehydrogenase,1,1,1,2,I6_specific,no
+2-hydroxycarboxylate transporter family protein,1,1,1,2,I6_specific,no
+2-isopropylmalate synthase,2,2,2,2,ancestral,no
+2-oxoisovalerate dehydrogenase subunit beta,2,2,2,1,isolate_specific,no
+23S rRNA (adenine(2503)-C(2))-methyltransferase RlmN,2,2,2,2,ancestral,no
+23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD,2,2,2,2,ancestral,yes
+23S ribosomal RNA methyltransferase Erm,2,2,2,1,isolate_specific,yes
+2TM domain-containing protein,2,2,2,1,isolate_specific,no
+3'-5' exonuclease,1,1,1,2,I6_specific,no
+3'-phosphoadenosine 5'-phosphosulfate sulfotransferase,2,2,2,1,isolate_specific,no
+3-beta hydroxysteroid dehydrogenase/isomerase family protein,11,11,11,1,isolate_specific,no
+3-demethylubiquinone-9 3-methyltransferase family protein,4,4,4,1,isolate_specific,no
+3-hexulose-6-phosphate isomerase,2,2,2,1,isolate_specific,no
+3-hexulose-6-phosphate synthase,2,2,2,2,ancestral,no
+"3-hydroxyacyl-CoA dehydrogenase, NAD binding domain protein",2,2,2,1,isolate_specific,no
+3-oxoacid CoA-transferase subunit B,1,1,1,2,I6_specific,no
+3-oxoacyl-[acyl-carrier-protein] reductase,2,2,2,1,isolate_specific,no
+3-phosphoshikimate 1-carboxyvinyltransferase,2,2,2,2,ancestral,no
+3D domain-containing protein,1,1,1,3,I6_specific,no
+4-hydroxy-tetrahydrodipicolinate synthase,3,3,3,3,ancestral,no
+4Fe-4S dicluster domain-containing protein,2,2,2,2,ancestral,no
+4Fe-4S ferredoxin-type domain-containing protein,2,2,2,1,isolate_specific,yes
+5'-methylthioadenosine/adenosylhomocysteine nucleosidase,2,2,2,2,ancestral,no
+5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase,2,2,2,2,ancestral,no
+50S ribosomal protein L33,3,3,3,1,isolate_specific,no
+6-phospho-3-hexuloisomerase,1,1,1,2,I6_specific,no
+6-phospho-beta-glucosidase,6,6,6,4,copy_number_variant,no
+AAA ATPase domain protein,2,2,2,1,isolate_specific,no
+AAA domain family protein,7,7,7,1,isolate_specific,no
+AAA domain protein,3,3,3,1,isolate_specific,no
+AAA domain-containing protein,2,2,2,1,isolate_specific,yes
+AAA family ATPase,8,8,8,17,copy_number_variant,no
+AAA+ ATPase domain-containing protein,2,2,2,1,isolate_specific,yes
+ABC 3 transport family protein,8,8,8,1,isolate_specific,no
+ABC transmembrane type-1 domain-containing protein,7,7,7,1,isolate_specific,no
+ABC transporter ATP-binding protein,8,8,8,109,copy_number_variant,no
+ABC transporter ATP-binding protein/permease,1,1,1,2,I6_specific,no
+ABC transporter domain-containing protein,8,8,8,1,isolate_specific,no
+ABC transporter family protein,84,84,84,1,isolate_specific,yes
+ABC transporter permease,22,22,22,107,copy_number_variant,yes
+ABC transporter permease subunit,110,110,110,6,copy_number_variant,no
+ABC transporter substrate-binding protein,21,21,21,111,copy_number_variant,yes
+"ABC transporter, permease protein",3,3,3,1,isolate_specific,no
+ABC-2 transporter family protein,12,12,12,1,isolate_specific,no
+ABC-2 transporter permease,1,1,1,2,I6_specific,no
+ABC-2 type transporter transmembrane domain-containing protein,3,3,3,1,isolate_specific,no
+ABC-F family ATP-binding cassette domain-containing protein,1,1,1,5,I6_specific,no
+ACT domain-containing protein,3,3,3,2,copy_number_variant,no
+ADP-ribosylglycohydrolase family protein,3,3,3,3,ancestral,no
+AEC family transporter,2,2,2,2,ancestral,no
+AI-2E family transporter,5,5,5,6,copy_number_variant,no
+AMP-binding enzyme family protein,4,4,4,1,isolate_specific,yes
+APC family permease,1,1,1,2,I6_specific,no
+ATP-binding cassette domain-containing protein,19,19,19,7,copy_number_variant,yes
+ATP-binding protein,4,4,4,11,copy_number_variant,yes
+ATP-dependent Clp endopeptidase proteolytic subunit ClpP,3,3,3,3,ancestral,no
+ATP-dependent endonuclease,2,2,2,1,isolate_specific,no
+ATP-dependent helicase,2,2,2,2,ancestral,no
+ATP-dependent nuclease,1,1,1,2,I6_specific,no
+ATP-grasp domain-containing protein,1,1,1,5,I6_specific,no
+ATPase,3,3,3,1,isolate_specific,no
+Abasic site processing protein,2,2,2,1,isolate_specific,no
+AbrB/MazE/SpoVT family DNA-binding domain-containing protein,6,6,6,6,ancestral,no
+Acetate kinase,2,2,2,1,isolate_specific,no
+Acetyltransferase domain protein,23,23,23,1,isolate_specific,yes
+Acetyltransferase family protein,20,20,20,1,isolate_specific,no
+AcrB/AcrD/AcrF family protein,2,2,2,1,isolate_specific,no
+Activator of Hsp90 ATPase-like ue 1/2-like C-terminal domain-containing protein,2,2,2,1,isolate_specific,no
+Acyl-CoA dehydrogenase,2,2,2,1,isolate_specific,yes
+Acyltransferase family protein,4,4,4,1,isolate_specific,no
+Alcohol dehydrogenase catalytic domain-containing protein,4,4,4,1,isolate_specific,no
+Aldo/keto reductase,3,3,3,1,isolate_specific,no
+Aldo/keto reductase family protein,6,6,6,1,isolate_specific,no
+Alkaline phosphatase family protein,2,2,2,1,isolate_specific,no
+Alkaline phosphatase synthesis transcriptional regulatory protein PhoP,2,2,2,1,isolate_specific,no
+Alkaline shock protein 23,2,2,2,1,isolate_specific,no
+Alpha-L-rhamnosidase six-hairpin glycosidase domain-containing protein,2,2,2,1,isolate_specific,no
+Alpha-amylase,2,2,2,1,isolate_specific,no
+Alpha-galactosidase,4,4,4,1,isolate_specific,yes
+Alpha-xylosidase,2,2,2,1,isolate_specific,no
+Alpha/beta fold hydrolase,7,7,7,1,isolate_specific,no
+Alpha/beta hydrolase,3,3,3,1,isolate_specific,yes
+Amidase,2,2,2,1,isolate_specific,no
+Amidohydrolase,3,3,3,1,isolate_specific,no
+Amidohydrolase family protein,6,6,6,1,isolate_specific,no
+Amino acid permease,5,5,5,1,isolate_specific,no
+Amino acid permease family protein,3,3,3,1,isolate_specific,no
+Amino acid transporter,2,2,2,1,isolate_specific,no
+Amino acid/peptide transporter family protein,2,2,2,1,isolate_specific,no
+Aminopeptidase,5,5,5,1,isolate_specific,no
+Aminotransferase class I and II family protein,6,6,6,1,isolate_specific,no
+Aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,4,4,4,1,isolate_specific,no
+Aminotransferase class-V family protein,3,3,3,1,isolate_specific,no
+"Amylo-alpha-1,6-glucosidase family protein",2,2,2,1,isolate_specific,no
+Ankyrin repeat family protein,2,2,2,1,isolate_specific,no
+Anthranilate phosphoribosyltransferase,2,2,2,1,isolate_specific,no
+Antibiotic biosynthesis monooxygenase,2,2,2,1,isolate_specific,no
+Antitoxin,2,2,2,1,isolate_specific,yes
+Apiosidase-like catalytic domain-containing protein,2,2,2,1,isolate_specific,no
+AraC family ligand binding domain-containing protein,1,1,1,2,I6_specific,no
+AraC family transcriptional regulator,9,9,9,39,copy_number_variant,no
+Arm DNA-binding domain-containing protein,2,2,2,1,isolate_specific,no
+Aromatic acid exporter family protein,2,2,2,1,isolate_specific,no
+ArsB/NhaD family transporter,1,1,1,2,I6_specific,no
+ArsR family transcriptional regulator,5,5,5,1,isolate_specific,no
+ArsR/SmtB family transcription factor,1,1,1,22,I6_specific,no
+Ascorbate-specific PTS system EIIC component,2,2,2,1,isolate_specific,no
+AsnC family protein,2,2,2,1,isolate_specific,no
+Asp23/Gls24 family envelope stress response protein,1,1,1,2,I6_specific,no
+Asparaginase,2,2,2,1,isolate_specific,no
+Aspartate ammonia-lyase,3,3,3,1,isolate_specific,no
+Aspartyl protease family protein,2,2,2,1,isolate_specific,no
+BIG2 domain-containing protein,3,3,3,1,isolate_specific,no
+Bacillibactin exporter,2,2,2,1,isolate_specific,no
+Bacterial ABC transporter EcsB family protein,2,2,2,1,isolate_specific,no
+Bacterial Cytochrome Ubiquinol Oxidase family protein,2,2,2,1,isolate_specific,no
+Bacterial PH domain protein,3,3,3,1,isolate_specific,no
+Bacterial alpha-L-rhamnosidase,2,2,2,1,isolate_specific,no
+Bacterial extracellular solute-binding family protein,71,71,71,1,isolate_specific,yes
+"Bacterial extracellular solute-binding s, 3 family protein",2,2,2,1,isolate_specific,no
+"Bacterial extracellular solute-binding s, 5 Middle family protein",6,6,6,1,isolate_specific,no
+"Bacterial regulatory helix-turn-helix, lysR family protein",17,17,17,1,isolate_specific,no
+"Bacterial regulatory s, gntR family protein",13,13,13,1,isolate_specific,no
+"Bacterial regulatory s, lacI family protein",11,11,11,1,isolate_specific,no
+"Bacterial regulatory s, luxR family protein",8,8,8,1,isolate_specific,yes
+"Bacterial regulatory s, tetR family protein",31,31,31,1,isolate_specific,yes
+"Bacterial regulatory, arsR family protein",12,12,12,1,isolate_specific,yes
+Bacterial transcriptional regulator family protein,3,3,3,1,isolate_specific,no
+Bacterial transferase hexapeptide family protein,4,4,4,1,isolate_specific,yes
+"Bacteriocin-protection, YdeI/OmpD-Associated family protein",2,2,2,1,isolate_specific,no
+Baseplate J-like family protein,3,3,3,1,isolate_specific,no
+"Beta-1,3-glucanase domain protein",2,2,2,1,isolate_specific,no
+Beta-galactosidase,4,4,4,1,isolate_specific,no
+Beta-ketoacyl-[acyl-carrier-protein] synthase III,2,2,2,1,isolate_specific,no
+Beta-lactamase family protein,3,3,3,1,isolate_specific,no
+Beta-mannosidase B,2,2,2,1,isolate_specific,no
+Beta-xylanase,4,4,4,1,isolate_specific,no
+Beta-xylosidase,3,3,3,1,isolate_specific,no
+BglG family transcription antiterminator,1,1,1,9,I6_specific,no
+BglG family transcription antiterminator LicT,4,4,4,5,copy_number_variant,no
+Bifunctional metallophosphatase/5'-nucleotidase,2,2,2,1,isolate_specific,no
+Binding--dependent transport system inner membrane component family protein,73,73,73,1,isolate_specific,yes
+Binding-protein-dependent transport systems inner membrane component,3,3,3,1,isolate_specific,no
+BlaI/MecI/CopY family transcriptional regulator,4,4,4,6,copy_number_variant,no
+Branched-chain amino acid transport family protein,2,2,2,1,isolate_specific,no
+Branched-chain amino acid transport system / permease component family protein,5,5,5,1,isolate_specific,yes
+C39 family peptidase,1,1,1,2,I6_specific,no
+C40 family peptidase,1,1,1,7,I6_specific,no
+CAAX protease self-immunity family protein,3,3,3,1,isolate_specific,yes
+CAP domain-containing protein,1,1,1,4,I6_specific,no
+CBS domain protein,2,2,2,1,isolate_specific,no
+CBS domain-containing protein,3,3,3,3,ancestral,no
+CD3324 family protein,1,1,1,2,I6_specific,no
+CPBP family intramembrane glutamic endopeptidase,1,1,1,3,I6_specific,no
+CRISPR-associated endonuclease Cas2,3,3,3,3,ancestral,yes
+CRISPR-associated helicase Cas3',1,1,1,2,I6_specific,yes
+CRISPR-associated protein Cas4,2,2,2,2,ancestral,yes
+Calcineurin-like phosphoesterase family protein,3,3,3,1,isolate_specific,no
+Carbohydrate ABC transporter permease,2,2,2,1,isolate_specific,no
+Carbohydrate ABC transporter substrate-binding protein,2,2,2,1,isolate_specific,no
+Carbonic anhydrase,2,2,2,1,isolate_specific,no
+Carboxymuconolactone decarboxylase family protein,2,2,2,1,isolate_specific,no
+Cation diffusion facilitator transporter family protein,3,3,3,1,isolate_specific,no
+CdaR family transcriptional regulator,1,1,1,2,I6_specific,no
+Cell envelope-related function transcriptional attenuator common domain protein,4,4,4,1,isolate_specific,no
+Cell shape-determining protein MreB,2,2,2,1,isolate_specific,no
+Cell wall-active antibiotics response LiaF-like C-terminal domain-containing protein,2,2,2,1,isolate_specific,no
+Cellobiose phosphorylase,3,3,3,1,isolate_specific,no
+CgeB family protein,1,1,1,3,I6_specific,no
+CheR family methyltransferase,1,1,1,2,I6_specific,no
+CheW-like domain protein,2,2,2,1,isolate_specific,no
+Chemotaxis protein CheA,3,3,3,1,isolate_specific,no
+Chlorophyllase family protein,2,2,2,1,isolate_specific,no
+Chromate transporter,2,2,2,1,isolate_specific,no
+CidA/LrgA family protein,1,1,1,2,I6_specific,no
+Citrate transporter,2,2,2,1,isolate_specific,no
+Class C beta-lactamase-related serine hydrolase,3,3,3,1,isolate_specific,no
+Coat F domain protein,5,5,5,1,isolate_specific,no
+CobQ/CobB/MinD/ParA nucleotide binding domain protein,6,6,6,1,isolate_specific,yes
+CobW C-terminal domain-containing protein,3,3,3,1,isolate_specific,no
+CobW family GTP-binding protein,1,1,1,2,I6_specific,no
+Cobalt transport family protein,3,3,3,1,isolate_specific,no
+Cof-like hydrolase family protein,3,3,3,1,isolate_specific,no
+Cof-type HAD-IIB family hydrolase,2,2,2,5,copy_number_variant,no
+ComEC/Rec2 family competence protein,1,1,1,2,I6_specific,no
+Conjugal transfer protein,3,3,3,1,isolate_specific,yes
+Copper amine oxidase,5,5,5,1,isolate_specific,no
+Copper amine oxidase N-terminal domain-containing protein,4,4,4,1,isolate_specific,no
+Copper amine oxidase-like N-terminal domain-containing protein,12,12,12,1,isolate_specific,yes
+CpaF family protein,1,1,1,2,I6_specific,no
+Cro/C1-type HTH DNA-binding domain protein,2,2,2,1,isolate_specific,no
+Crp/Fnr family transcriptional regulator,2,2,2,5,copy_number_variant,no
+Cupin domain protein,16,16,16,1,isolate_specific,no
+Cupin domain-containing protein,4,4,4,1,isolate_specific,no
+CwlV,3,3,3,1,isolate_specific,no
+Cyclic nucleotide-binding domain protein,2,2,2,1,isolate_specific,no
+Cyclomaltodextrinase,2,2,2,1,isolate_specific,no
+D-alanine--D-alanine ligase,2,2,2,2,ancestral,no
+D-alanyl-D-alanine carboxypeptidase family protein,1,1,1,3,I6_specific,no
+D-glutamate N-acetyltransferase-like C-terminal domain-containing protein,2,2,2,1,isolate_specific,no
+DEAD/DEAH box helicase,7,7,7,7,ancestral,yes
+DEAD/DEAH box helicase family protein,2,2,2,1,isolate_specific,yes
+DHA2 family efflux MFS transporter permease subunit,6,6,6,6,ancestral,no
+DHH family phosphoesterase,1,1,1,2,I6_specific,no
+DJ-1/PfpI family protein,3,3,3,3,ancestral,yes
+DMT family transporter,1,1,1,16,I6_specific,no
+DNA 3'-5' helicase,3,3,3,1,isolate_specific,yes
+DNA alkylation repair protein,1,1,1,2,I6_specific,no
+DNA gyrase subunit A,1,1,1,2,I6_specific,no
+DNA polymerase I,2,2,2,1,isolate_specific,no
+DNA polymerase III subunit beta,2,2,2,1,isolate_specific,yes
+DNA polymerase IV,2,2,2,2,ancestral,no
+DNA primase,3,3,3,1,isolate_specific,no
+DNA repair protein RadC,2,2,2,1,isolate_specific,no
+DNA topoisomerase,2,2,2,1,isolate_specific,no
+DNA-3-methyladenine glycosylase II,2,2,2,1,isolate_specific,no
+DNA-3-methyladenine glycosylase family protein,1,1,1,2,I6_specific,no
+DNA-binding protein,3,3,3,1,isolate_specific,no
+DNA-binding response regulator,4,4,4,1,isolate_specific,yes
+DNA-directed RNA polymerase subunit beta,2,2,2,2,ancestral,no
+DSBA-like thioredoxin domain protein,3,3,3,1,isolate_specific,no
+DUF1129 domain-containing protein,2,2,2,1,isolate_specific,no
+DUF1266 domain-containing protein,3,3,3,3,ancestral,no
+DUF1292 domain-containing protein,3,3,3,3,ancestral,no
+DUF1450 domain-containing protein,3,3,3,2,copy_number_variant,no
+DUF1611 domain-containing protein,1,1,1,2,I6_specific,no
+DUF1648 domain-containing protein,1,1,1,2,I6_specific,no
+DUF1657 domain-containing protein,2,2,2,1,isolate_specific,no
+DUF1934 domain-containing protein,2,2,2,1,isolate_specific,no
+DUF21 domain-containing protein,2,2,2,1,isolate_specific,no
+DUF2179 domain-containing protein,10,10,10,2,copy_number_variant,no
+DUF2190 domain-containing protein,2,2,2,1,isolate_specific,no
+DUF2249 domain-containing protein,2,2,2,2,ancestral,no
+DUF2269 domain-containing protein,2,2,2,1,isolate_specific,no
+DUF2306 domain-containing protein,2,2,2,1,isolate_specific,yes
+DUF2313 domain-containing protein,3,3,3,1,isolate_specific,no
+DUF2357 domain-containing protein,2,2,2,1,isolate_specific,no
+DUF2500 domain-containing protein,2,2,2,2,ancestral,no
+DUF2507 domain-containing protein,2,2,2,1,isolate_specific,no
+DUF2508 domain-containing protein,2,2,2,1,isolate_specific,no
+DUF2577 domain-containing protein,2,2,2,1,isolate_specific,no
+DUF2628 domain-containing protein,1,1,1,2,I6_specific,no
+DUF2634 domain-containing protein,4,4,4,3,copy_number_variant,no
+DUF2642 domain-containing protein,3,3,3,1,isolate_specific,no
+DUF2768 domain-containing protein,2,2,2,1,isolate_specific,no
+DUF2961 domain-containing protein,2,2,2,1,isolate_specific,no
+DUF2975 domain-containing protein,2,2,2,2,ancestral,no
+DUF3139 domain-containing protein,3,3,3,1,isolate_specific,no
+DUF3298 domain-containing protein,2,2,2,1,isolate_specific,no
+DUF3486 domain-containing protein,2,2,2,1,isolate_specific,no
+DUF350 domain-containing protein,2,2,2,2,ancestral,no
+DUF3502 domain-containing protein,1,1,1,2,I6_specific,no
+DUF3829 domain-containing protein,2,2,2,2,ancestral,no
+DUF3906 domain-containing protein,2,2,2,1,isolate_specific,no
+DUF3939 domain-containing protein,1,1,1,2,I6_specific,no
+DUF3991 domain-containing protein,2,2,2,1,isolate_specific,yes
+DUF4023 domain-containing protein,2,2,2,1,isolate_specific,no
+DUF4025 domain-containing protein,7,7,7,1,isolate_specific,no
+DUF4038 domain-containing protein,1,1,1,2,I6_specific,no
+DUF4062 domain-containing protein,2,2,2,2,ancestral,no
+DUF4097 domain-containing protein,3,3,3,1,isolate_specific,no
+DUF4097 family beta strand repeat-containing protein,1,1,1,3,I6_specific,no
+DUF4129 domain-containing protein,2,2,2,1,isolate_specific,no
+DUF4129 domain-containing transglutaminase family protein,1,1,1,2,I6_specific,no
+DUF4179 domain-containing protein,12,12,12,11,copy_number_variant,no
+DUF4183 domain-containing protein,3,3,3,2,copy_number_variant,no
+DUF4190 domain-containing protein,3,3,3,1,isolate_specific,no
+DUF421 domain-containing protein,2,2,2,3,copy_number_variant,no
+DUF423 domain-containing protein,2,2,2,2,ancestral,no
+DUF4280 domain-containing protein,6,6,6,5,copy_number_variant,yes
+DUF4309 domain-containing protein,4,4,4,1,isolate_specific,yes
+DUF4316 domain-containing protein,2,2,2,1,isolate_specific,yes
+DUF4352 domain-containing protein,3,3,3,1,isolate_specific,no
+DUF4358 domain-containing protein,2,2,2,1,isolate_specific,no
+DUF4367 domain-containing protein,9,9,9,3,copy_number_variant,no
+DUF4386 domain-containing protein,3,3,3,1,isolate_specific,no
+DUF4386 family protein,1,1,1,2,I6_specific,no
+DUF5050 domain-containing protein,2,2,2,2,ancestral,no
+DUF554 domain-containing protein,2,2,2,1,isolate_specific,no
+DUF559 domain-containing protein,2,2,2,1,isolate_specific,no
+DUF5643 domain-containing protein,3,3,3,4,copy_number_variant,no
+DUF5668 domain-containing protein,2,2,2,1,isolate_specific,no
+DUF5704 domain-containing protein,2,2,2,1,isolate_specific,yes
+DUF58 domain-containing protein,4,4,4,4,ancestral,no
+DUF6075 domain-containing protein,3,3,3,1,isolate_specific,yes
+DUF664 domain-containing protein,3,3,3,1,isolate_specific,no
+DUF6809 domain-containing protein,9,9,9,1,isolate_specific,no
+DUF6809 family protein,1,1,1,10,I6_specific,no
+DUF951 domain-containing protein,2,2,2,2,ancestral,yes
+Dabb family protein,1,1,1,3,I6_specific,no
+DedA family protein,2,2,2,3,copy_number_variant,no
+DegT/DnrJ/EryC1/StrS family aminotransferase,1,1,1,3,I6_specific,no
+DegV family EDD domain-containing protein,3,3,3,1,isolate_specific,no
+DegV family protein,1,1,1,4,I6_specific,no
+DeoR family transcriptional regulator,7,7,7,1,isolate_specific,no
+DeoR-like helix-turn-helix domain protein,7,7,7,1,isolate_specific,no
+DeoR/GlpR family DNA-binding transcription regulator,1,1,1,9,I6_specific,no
+Dienelactone hydrolase family protein,3,3,3,1,isolate_specific,no
+Diguanylate cyclase,5,5,5,1,isolate_specific,no
+Diguanylate cyclase domain protein,8,8,8,1,isolate_specific,no
+Dihydrodipicolinate synthase family protein,3,3,3,1,isolate_specific,no
+Dihydrofolate reductase,2,2,2,1,isolate_specific,no
+Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex,2,2,2,1,isolate_specific,no
+DinB family protein,6,6,6,10,copy_number_variant,no
+DivIVA domain-containing protein,1,1,1,2,I6_specific,no
+DnaJ domain protein,2,2,2,1,isolate_specific,no
+Double zinc ribbon family protein,2,2,2,1,isolate_specific,no
+DoxX family protein,4,4,4,5,copy_number_variant,no
+Dps family protein,1,1,1,2,I6_specific,no
+"Drug resistance MFS transporter, drug:H+ antiporter-2 family protein",6,6,6,1,isolate_specific,yes
+DsbA family protein,1,1,1,2,I6_specific,no
+ECF transporter S component,1,1,1,2,I6_specific,no
+EamA domain-containing protein,2,2,2,1,isolate_specific,yes
+EamA family transporter,6,6,6,3,copy_number_variant,no
+EamA-like transporter family protein,6,6,6,1,isolate_specific,no
+EamA/RhaT family transporter,1,1,1,2,I6_specific,no
+Efflux RND transporter periplasmic adaptor subunit,4,4,4,1,isolate_specific,no
+"Efflux transporter, RND family, MFP subunit",2,2,2,1,isolate_specific,no
+Endoglucanase,5,5,5,1,isolate_specific,no
+Endospore germination permease,3,3,3,1,isolate_specific,no
+Esterase family protein,3,3,3,1,isolate_specific,no
+Exoglucanase-2,2,2,2,1,isolate_specific,no
+Extracellular solute-binding protein,20,20,20,1,isolate_specific,no
+Extracellular solute-binding protein family 1,3,3,3,1,isolate_specific,yes
+F0F1-type ATP synthase,2,2,2,1,isolate_specific,yes
+F5/8 type C domain protein,2,2,2,1,isolate_specific,no
+FAD binding domain protein,2,2,2,1,isolate_specific,no
+FAD dependent oxidoreductase family protein,4,4,4,1,isolate_specific,yes
+FAD-dependent oxidoreductase,6,6,6,13,copy_number_variant,yes
+FAD:protein FMN transferase,2,2,2,2,ancestral,no
+FHA domain protein,2,2,2,1,isolate_specific,no
+FHA domain-containing protein,2,2,2,3,copy_number_variant,no
+FMN dependent NADH:quinone oxidoreductase,2,2,2,1,isolate_specific,no
+FMN-dependent NADH-azoreductase,1,1,1,2,I6_specific,no
+FUSC family protein,1,1,1,3,I6_specific,no
+FadR/GntR family transcriptional regulator,1,1,1,6,I6_specific,no
+Family 43 glycosylhydrolase,2,2,2,1,isolate_specific,no
+Family 65 glycosyl hydrolase,2,2,2,1,isolate_specific,no
+Fe-S cluster assembly ATPase SufC,2,2,2,2,ancestral,no
+Fe-S cluster assembly protein SufB,2,2,2,2,ancestral,no
+Fe-S cluster assembly protein SufD,2,2,2,2,ancestral,no
+Fe-S protein,2,2,2,1,isolate_specific,no
+FecCD family ABC transporter permease,1,1,1,21,I6_specific,no
+FecCD transport family protein,14,14,14,1,isolate_specific,yes
+Ferredoxin--NADP reductase,2,2,2,1,isolate_specific,no
+Ferric iron reductase FhuF-like transporter family protein,4,4,4,1,isolate_specific,no
+Ferric uptake regulator family protein,3,3,3,1,isolate_specific,no
+Fibronectin type III domain protein,5,5,5,1,isolate_specific,yes
+Fibronectin type III-like domain-containing protein,4,4,4,1,isolate_specific,yes
+Fibronectin type-III domain-containing protein,2,2,2,1,isolate_specific,no
+Flagellar hook-length control protein FliK,3,3,3,1,isolate_specific,no
+Flavin oxidoreductase / NADH oxidase family protein,3,3,3,1,isolate_specific,no
+Flavodoxin family protein,3,3,3,1,isolate_specific,no
+Flp pilus-assembly TadG-like N-terminal domain-containing protein,2,2,2,1,isolate_specific,no
+Formate/nitrite transporter family protein,2,2,2,1,isolate_specific,no
+Fructosamine deglycase,2,2,2,1,isolate_specific,no
+Fructosamine kinase frlD,2,2,2,1,isolate_specific,no
+FtsW/RodA/SpoVE family cell cycle protein,1,1,1,3,I6_specific,no
+FtsX-like permease family protein,12,12,12,2,copy_number_variant,yes
+Fur family transcriptional regulator,1,1,1,3,I6_specific,no
+GAF domain protein,2,2,2,1,isolate_specific,no
+GAF domain-containing protein,1,1,1,3,I6_specific,no
+GDSL-like Lipase/Acylhydrolase family protein,4,4,4,1,isolate_specific,no
+GDSL-type esterase/lipase family protein,1,1,1,2,I6_specific,no
+GGDEF domain-containing protein,1,1,1,4,I6_specific,no
+GH32 C-terminal domain-containing protein,1,1,1,2,I6_specific,no
+GH36-type glycosyl hydrolase domain-containing protein,1,1,1,4,I6_specific,no
+GNAT family N-acetyltransferase,9,9,9,58,copy_number_variant,yes
+GTP cyclohydrolase 1 type 2-like protein,2,2,2,1,isolate_specific,no
+GTP pyrophosphokinase,1,1,1,3,I6_specific,no
+GTP pyrophosphokinase ywaC,2,2,2,1,isolate_specific,no
+GTP-binding protein,3,3,3,2,copy_number_variant,yes
+GTPase HflX,2,2,2,2,ancestral,no
+General stress protein,2,2,2,1,isolate_specific,no
+Ger(X)C family spore germination protein,8,8,8,1,isolate_specific,no
+Ger(x)C family spore germination protein,1,1,1,15,I6_specific,no
+GerA spore germination family protein,14,14,14,1,isolate_specific,no
+GerAB/ArcD/ProY family transporter,2,2,2,17,copy_number_variant,no
+GerMN domain-containing protein,2,2,2,3,copy_number_variant,no
+"Germination, Ger(X)C family protein",7,7,7,1,isolate_specific,no
+Gfo/Idh/MocA family oxidoreductase,17,17,17,1,isolate_specific,no
+Gfo/Idh/MocA family protein,1,1,1,22,I6_specific,no
+GlcNAc-PI de-N-acetylase family protein,3,3,3,1,isolate_specific,yes
+Glucanase,3,3,3,1,isolate_specific,no
+Glucose 1-dehydrogenase,3,3,3,1,isolate_specific,no
+Glutathione peroxidase,3,3,3,1,isolate_specific,no
+Glycerate kinase,2,2,2,1,isolate_specific,no
+Glycerol dehydrogenase,2,2,2,1,isolate_specific,no
+Glycerol uptake operon antiterminator regulatory protein,2,2,2,1,isolate_specific,no
+Glycerol-1-phosphate dehydrogenase [NAD(P)+],2,2,2,1,isolate_specific,no
+Glycerophosphoryl diester phosphodiesterase,3,3,3,1,isolate_specific,no
+Glycerophosphoryl diester phosphodiesterase family protein,2,2,2,1,isolate_specific,no
+Glycosidase,3,3,3,1,isolate_specific,no
+Glycoside hydrolase,2,2,2,1,isolate_specific,no
+Glycoside hydrolase family 1 protein,2,2,2,1,isolate_specific,no
+Glycoside hydrolase family 127 protein,2,2,2,1,isolate_specific,no
+Glycoside hydrolase family 2,3,3,3,1,isolate_specific,no
+Glycoside hydrolase family 32 protein,2,2,2,1,isolate_specific,no
+Glycoside hydrolase family 38 central domain-containing protein,4,4,4,1,isolate_specific,no
+Glycoside hydrolase family 65 protein,2,2,2,1,isolate_specific,no
+Glycosyl Hydrolase Family 88 family protein,2,2,2,1,isolate_specific,no
+Glycosyl hydrolase,6,6,6,1,isolate_specific,yes
+Glycosyl hydrolase family 115,2,2,2,1,isolate_specific,no
+Glycosyl hydrolases 2 family protein,3,3,3,1,isolate_specific,no
+Glycosyl hydrolases 28 family protein,2,2,2,1,isolate_specific,no
+Glycosyl hydrolases 31 family protein,2,2,2,1,isolate_specific,no
+Glycosyl hydrolases 43 family protein,3,3,3,1,isolate_specific,no
+Glycosyl transferase,3,3,3,1,isolate_specific,no
+Glycosyl transferase 2 family protein,25,25,25,1,isolate_specific,no
+Glycosyl transferases group 1 family protein,16,16,16,1,isolate_specific,no
+Glycosyltransferase,12,12,12,1,isolate_specific,yes
+Glycosyltransferase 2-like domain-containing protein,2,2,2,1,isolate_specific,no
+Glyoxalase,2,2,2,1,isolate_specific,no
+Glyoxalase-like domain protein,2,2,2,1,isolate_specific,no
+Glyoxalase/Bleomycin resistance /Dioxygenase superfamily protein,5,5,5,1,isolate_specific,no
+GntP family permease,1,1,1,2,I6_specific,no
+GntR family transcriptional regulator,3,3,3,18,copy_number_variant,no
+Gp5/Type VI secretion system Vgr protein OB-fold domain-containing protein,4,4,4,1,isolate_specific,no
+GtrA-like protein domain-containing protein,2,2,2,1,isolate_specific,no
+GyrI-like domain-containing protein,1,1,1,2,I6_specific,no
+HAD family hydrolase,2,2,2,9,copy_number_variant,no
+"HAD hydrolase, IA, variant 1 family protein",6,6,6,1,isolate_specific,no
+HAD hydrolase-like protein,2,2,2,1,isolate_specific,no
+HAD-IIB family hydrolase,1,1,1,2,I6_specific,no
+HAMP domain protein,10,10,10,1,isolate_specific,no
+HAMP domain-containing protein,9,9,9,1,isolate_specific,no
+HAMP domain-containing sensor histidine kinase,1,1,1,4,I6_specific,no
+HD domain protein,5,5,5,1,isolate_specific,no
+HD domain-containing protein,4,4,4,1,isolate_specific,no
+HD-GYP domain-containing protein,2,2,2,9,copy_number_variant,no
+HEAT repeat domain-containing protein,4,4,4,4,ancestral,no
+HEAT repeat family protein,2,2,2,1,isolate_specific,no
+HPr family phosphocarrier protein,3,3,3,3,ancestral,no
+HPr(Ser) kinase/phosphatase,2,2,2,2,ancestral,no
+HTH LytTR-type domain-containing protein,2,2,2,1,isolate_specific,no
+HTH araC/xylS-type domain-containing protein,2,2,2,1,isolate_specific,no
+HTH arsR-type domain-containing protein,3,3,3,1,isolate_specific,no
+HTH cro/C1-type domain-containing protein,6,6,6,1,isolate_specific,no
+HTH deoR-type domain-containing protein,4,4,4,1,isolate_specific,yes
+HTH domain protein,4,4,4,1,isolate_specific,no
+HTH lysR-type domain-containing protein,2,2,2,1,isolate_specific,no
+HTH marR-type domain-containing protein,2,2,2,1,isolate_specific,no
+HTH tetR-type domain-containing protein,2,2,2,1,isolate_specific,no
+HTH-type transcriptional activator hxlR,2,2,2,1,isolate_specific,no
+HU family DNA-binding protein,1,1,1,2,I6_specific,no
+HXXEE domain-containing protein,1,1,1,2,I6_specific,no
+Helicase,3,3,3,1,isolate_specific,yes
+Helicase XPB/Ssl2 N-terminal domain-containing protein,2,2,2,1,isolate_specific,no
+Helix-turn-helix conjugative transposon-like domain-containing protein,3,3,3,1,isolate_specific,no
+Helix-turn-helix domain protein,81,81,81,1,isolate_specific,yes
+Helix-turn-helix domain-containing protein,25,25,25,1,isolate_specific,yes
+Helix-turn-helix family protein,22,22,22,1,isolate_specific,yes
+Heme response regulator HssR,2,2,2,1,isolate_specific,no
+Heptaprenyl diphosphate synthase,3,3,3,1,isolate_specific,no
+Histidine kinase family protein,8,8,8,1,isolate_specific,no
+Histidine phosphatase super family protein,2,2,2,1,isolate_specific,no
+Histidinol-phosphatase,2,2,2,1,isolate_specific,no
+HlyD family secretion protein,1,1,1,3,I6_specific,no
+HlyD secretion family protein,2,2,2,1,isolate_specific,no
+Hsp20 family protein,3,3,3,1,isolate_specific,no
+Hsp20/alpha crystallin family protein,2,2,2,5,copy_number_variant,no
+HxlR-like helix-turn-helix family protein,3,3,3,1,isolate_specific,no
+Hydantoinase B/oxoprolinase family protein,3,3,3,1,isolate_specific,no
+Hydantoinase/oxoprolinase family protein,2,2,2,1,isolate_specific,no
+IDEAL domain-containing protein,4,4,4,1,isolate_specific,no
+IS110 family transposase,29,29,29,7,copy_number_variant,yes
+IS3 family transposase,2,2,2,4,copy_number_variant,yes
+IS4 family transposase,19,19,19,15,copy_number_variant,yes
+IclR family transcriptional regulator,1,1,1,3,I6_specific,no
+Ig-like domain-containing protein,1,1,1,3,I6_specific,no
+Imm3 family immunity protein,1,1,1,2,I6_specific,no
+Immunity 22 family protein,2,2,2,1,isolate_specific,no
+"Integral membrane, YjbE family protein",3,3,3,1,isolate_specific,no
+Iron chelate uptake ABC transporter family permease subunit,3,3,3,1,isolate_specific,no
+Iron-containing alcohol dehydrogenase,2,2,2,1,isolate_specific,no
+Iron-sulfur cluster biosynthesis family protein,2,2,2,1,isolate_specific,no
+IrrE N-terminal-like domain-containing protein,2,2,2,1,isolate_specific,no
+Isochorismatase family protein,6,6,6,1,isolate_specific,no
+IucA/IucC family protein,1,1,1,3,I6_specific,no
+J domain-containing protein,1,1,1,3,I6_specific,no
+Ketopantoate reductase PanE/ApbA family protein,2,2,2,1,isolate_specific,no
+Ktr system potassium uptake protein B,2,2,2,1,isolate_specific,no
+L%2CD-transpeptidase family protein,1,1,1,2,I6_specific,no
+"L,D-transpeptidase catalytic domain protein",2,2,2,1,isolate_specific,no
+L-arabinose transport system permease protein AraP,2,2,2,1,isolate_specific,no
+L-fucose isomerase,2,2,2,2,ancestral,no
+L-lactate dehydrogenase,2,2,2,2,ancestral,no
+L-rhamnose mutarotase,2,2,2,2,ancestral,no
+LCP family protein,1,1,1,4,I6_specific,no
+LL-diaminopimelate aminotransferase,2,2,2,2,ancestral,no
+LLM class flavin-dependent oxidoreductase,1,1,1,2,I6_specific,no
+LTA synthase family protein,1,1,1,3,I6_specific,no
+LUD domain-containing protein,2,2,2,1,isolate_specific,no
+LXG domain-containing protein,2,2,2,1,isolate_specific,no
+LacI family DNA-binding transcriptional regulator,8,8,8,39,copy_number_variant,no
+LacY proton/sugar symporter family protein,2,2,2,1,isolate_specific,no
+"Lactonase, 7-bladed beta-propeller family protein",2,2,2,1,isolate_specific,no
+Lactose transport system permease protein LacF,2,2,2,1,isolate_specific,no
+LexA repressor DNA-binding domain-containing protein,2,2,2,1,isolate_specific,no
+Lipoprotein,35,35,35,1,isolate_specific,yes
+LrgA family protein,2,2,2,1,isolate_specific,no
+Lrp/AsnC family transcriptional regulator,1,1,1,6,I6_specific,no
+LuxR C-terminal-related transcriptional regulator,1,1,1,2,I6_specific,no
+LysE family translocator,1,1,1,2,I6_specific,no
+LysM domain protein,5,5,5,1,isolate_specific,no
+LysM peptidoglycan-binding domain-containing protein,2,2,2,7,copy_number_variant,no
+LysR family transcriptional regulator,3,3,3,22,copy_number_variant,no
+LysR substrate-binding domain-containing protein,1,1,1,4,I6_specific,no
+LytR/AlgR family response regulator transcription factor,1,1,1,3,I6_specific,no
+LytTR family transcriptional regulator DNA-binding domain-containing protein,1,1,1,2,I6_specific,no
+LytTr DNA-binding domain protein,2,2,2,1,isolate_specific,yes
+M15 family metallopeptidase,1,1,1,3,I6_specific,no
+M20 family metallopeptidase,1,1,1,2,I6_specific,no
+M20/M25/M40 family metallo-hydrolase,1,1,1,2,I6_specific,no
+M23 family metallopeptidase,2,2,2,6,copy_number_variant,no
+M24 family metallopeptidase,1,1,1,4,I6_specific,no
+M3 family oligoendopeptidase,1,1,1,2,I6_specific,no
+M42 family metallopeptidase,1,1,1,2,I6_specific,no
+M42 glutamyl aminopeptidase family protein,2,2,2,1,isolate_specific,no
+M56 family metallopeptidase,1,1,1,6,I6_specific,no
+MATE efflux family protein,4,4,4,1,isolate_specific,yes
+MATE family efflux transporter,1,1,1,8,I6_specific,no
+MBL fold metallo-hydrolase,10,10,10,12,copy_number_variant,no
+MDR family MFS transporter,1,1,1,7,I6_specific,no
+MFS transporter,30,30,30,75,copy_number_variant,no
+MFS-type transporter YcnB,2,2,2,1,isolate_specific,yes
+MGDG synthase family glycosyltransferase,1,1,1,2,I6_specific,no
+MIP/aquaporin family protein,1,1,1,3,I6_specific,no
+MOSC domain protein,2,2,2,1,isolate_specific,no
+MOSC domain-containing protein,1,1,1,3,I6_specific,no
+MTH1187 family thiamine-binding protein,1,1,1,2,I6_specific,no
+Magnesium transporter MgtE intracellular domain-containing protein,2,2,2,1,isolate_specific,no
+Major Facilitator Superfamily protein,21,21,21,1,isolate_specific,yes
+MalY/PatB family protein,1,1,1,2,I6_specific,no
+Maltodextrin-binding protein,2,2,2,1,isolate_specific,no
+Maltose/maltodextrin transport system permease protein,2,2,2,1,isolate_specific,no
+Mannosyl-glycoendo-beta-N-acetylglucosaminidase family protein,2,2,2,1,isolate_specific,no
+MarR family protein,11,11,11,1,isolate_specific,no
+MarR family transcriptional regulator,7,7,7,5,copy_number_variant,yes
+MarR family winged helix-turn-helix transcriptional regulator,1,1,1,18,I6_specific,no
+MazG-like family protein,2,2,2,1,isolate_specific,no
+Mechanosensitive ion channel,2,2,2,1,isolate_specific,no
+MerR family DNA-binding transcriptional regulator,1,1,1,2,I6_specific,no
+MerR family transcriptional regulator,14,14,14,18,copy_number_variant,no
+MerR regulatory family protein,4,4,4,1,isolate_specific,yes
+MetQ/NlpA family ABC transporter substrate-binding protein,1,1,1,4,I6_specific,no
+Metallo-beta-lactamase domain-containing protein,2,2,2,1,isolate_specific,no
+Metallo-beta-lactamase superfamily protein,2,2,2,1,isolate_specific,no
+Metallopeptidase M24 family protein,2,2,2,1,isolate_specific,no
+Metallophosphoesterase,2,2,2,1,isolate_specific,no
+Metalloregulator ArsR/SmtB family transcription factor,2,2,2,1,isolate_specific,no
+Methyl-accepting chemotaxis (MCP) signaling domain protein,6,6,6,1,isolate_specific,no
+Methyl-accepting chemotaxis protein,2,2,2,1,isolate_specific,no
+Methylated-DNA--[protein]-cysteine S-methyltransferase,2,2,2,1,isolate_specific,no
+Methyltransferase,5,5,5,1,isolate_specific,no
+Methyltransferase domain protein,15,15,15,1,isolate_specific,no
+Methyltransferase domain-containing protein,6,6,6,1,isolate_specific,yes
+Methyltransferase small domain protein,2,2,2,1,isolate_specific,no
+MgtC/SapB family protein,1,1,1,2,I6_specific,no
+MmcQ/YjbR family DNA-binding protein,2,2,2,2,ancestral,yes
+MogA/MoaB family molybdenum cofactor biosynthesis protein,1,1,1,2,I6_specific,no
+Molybdopterin oxidoreductase Fe4S4 domain protein,2,2,2,1,isolate_specific,no
+Mor transcription activator family protein,3,3,3,1,isolate_specific,no
+MsnO8 family LLM class oxidoreductase,2,2,2,1,isolate_specific,no
+Multiple sugar transport system substrate-binding protein,2,2,2,1,isolate_specific,no
+MurR/RpiR family transcriptional regulator,3,3,3,10,copy_number_variant,no
+N-acetylglucosamine kinase,1,1,1,2,I6_specific,no
+N-acetylmannosamine-6-phosphate 2-epimerase,1,1,1,2,I6_specific,no
+N-acetylmuramoyl-L-alanine amidase,2,2,2,1,isolate_specific,no
+N-acetylmuramoyl-L-alanine amidase family protein,1,1,1,5,I6_specific,no
+N-acetyltransferase domain-containing protein,3,3,3,1,isolate_specific,no
+NAD dependent epimerase/dehydratase family protein,3,3,3,1,isolate_specific,no
+NAD(P)-dependent alcohol dehydrogenase,1,1,1,3,I6_specific,no
+NAD(P)-dependent malic enzyme,1,1,1,2,I6_specific,no
+NAD(P)-dependent oxidoreductase,1,1,1,4,I6_specific,no
+NAD(P)/FAD-dependent oxidoreductase,1,1,1,12,I6_specific,no
+NAD(P)H-dependent oxidoreductase,1,1,1,4,I6_specific,no
+NAD-dependent epimerase/dehydratase family protein,5,5,5,12,copy_number_variant,yes
+NADH:flavin oxidoreductase,1,1,1,2,I6_specific,no
+NADP-dependent oxidoreductase,1,1,1,2,I6_specific,no
+NADPH-dependent FMN reductase,2,2,2,3,copy_number_variant,no
+NEAT domain-containing protein,1,1,1,2,I6_specific,no
+NIF system FeS cluster assembly NifU C-terminal domain-containing protein,2,2,2,1,isolate_specific,no
+NINE protein,2,2,2,1,isolate_specific,no
+NUDIX domain protein,6,6,6,1,isolate_specific,no
+NUDIX domain-containing protein,3,3,3,3,ancestral,no
+NUDIX hydrolase,2,2,2,10,copy_number_variant,no
+Na-translocating system protein MpsC family protein,1,1,1,2,I6_specific,no
+NfeD family protein,1,1,1,2,I6_specific,no
+Nif3-like dinuclear metal center hexameric protein,1,1,1,3,I6_specific,no
+NifU family protein,1,1,1,2,I6_specific,no
+"Nitrite reductase [NAD(P)H], large subunit",2,2,2,1,isolate_specific,no
+"Nitrite reductase [NAD(P)H], small subunit",2,2,2,1,isolate_specific,no
+Nitroreductase,3,3,3,1,isolate_specific,yes
+Nitroreductase family protein,4,4,4,1,isolate_specific,no
+NlpC/P60 family protein,9,9,9,1,isolate_specific,yes
+NmrA family NAD(P)-binding protein,1,1,1,2,I6_specific,no
+Nuclease SbcCD subunit C,2,2,2,1,isolate_specific,yes
+Nucleotide sugar dehydrogenase family protein,3,3,3,1,isolate_specific,no
+Nucleotidyltransferase domain-containing protein,2,2,2,1,isolate_specific,no
+Nucleotidyltransferase family protein,4,4,4,1,isolate_specific,yes
+NusG domain II-containing protein,1,1,1,2,I6_specific,no
+O-Antigen ligase family protein,2,2,2,1,isolate_specific,no
+O-antigen ligase family protein,1,1,1,3,I6_specific,no
+O-methyltransferase,2,2,2,2,ancestral,no
+Oligosaccharide flippase family protein,2,2,2,1,isolate_specific,no
+OmpR/PhoB-type domain-containing protein,4,4,4,1,isolate_specific,no
+OsmC family protein,1,1,1,2,I6_specific,no
+Oxidoreductase,6,6,6,1,isolate_specific,no
+"Oxidoreductase, NAD-binding Rossmann fold family protein",3,3,3,1,isolate_specific,no
+PAP2 superfamily protein,3,3,3,1,isolate_specific,no
+PD-(D/E)XK endonuclease-like domain-containing protein,3,3,3,1,isolate_specific,yes
+PDZ domain protein,2,2,2,1,isolate_specific,no
+PDZ domain-containing protein,2,2,2,1,isolate_specific,no
+PH domain-containing protein,2,2,2,4,copy_number_variant,no
+PHP domain-containing protein,1,1,1,2,I6_specific,no
+PIG-L family deacetylase,1,1,1,2,I6_specific,no
+PIN domain-containing protein,2,2,2,2,ancestral,no
+PLP-dependent aminotransferase family protein,1,1,1,7,I6_specific,no
+PP2C family protein-serine/threonine phosphatase,1,1,1,2,I6_specific,no
+PRD domain protein,7,7,7,1,isolate_specific,no
+PRD domain-containing protein,2,2,2,1,isolate_specific,no
+PTS EIIB type-2 domain-containing protein,2,2,2,1,isolate_specific,no
+PTS ascorbate transporter subunit IIC,1,1,1,3,I6_specific,no
+PTS beta-glucoside transporter subunit EIIBCA,3,3,3,1,isolate_specific,no
+PTS glucose transporter subunit IIA,3,3,3,1,isolate_specific,no
+PTS lactose/cellobiose transporter subunit IIA,2,2,2,3,copy_number_variant,no
+PTS sugar transporter,2,2,2,1,isolate_specific,no
+PTS sugar transporter subunit IIA,1,1,1,9,I6_specific,no
+PTS sugar transporter subunit IIB,1,1,1,8,I6_specific,no
+PTS sugar transporter subunit IIC,3,3,3,4,copy_number_variant,no
+"PTS system, Lactose/Cellobiose specific IIB subunit",2,2,2,1,isolate_specific,no
+"PTS system, beta-glucoside-specific IIABC component family protein",2,2,2,1,isolate_specific,no
+"PTS system, glucose subfamily, IIA component domain protein",2,2,2,1,isolate_specific,yes
+"PTS system, glucose-like IIB component domain protein",2,2,2,1,isolate_specific,no
+PTS transporter subunit EIIC,1,1,1,7,I6_specific,no
+PadR family transcriptional regulator,3,3,3,8,copy_number_variant,no
+ParA family protein,1,1,1,3,I6_specific,no
+ParB/RepB/Spo0J family partition protein,2,2,2,1,isolate_specific,yes
+Patatin-like phospholipase family protein,2,2,2,1,isolate_specific,no
+Pectate lyase,2,2,2,1,isolate_specific,no
+Penicillin binding transpeptidase domain protein,2,2,2,1,isolate_specific,no
+Pentapeptide repeat-containing protein,4,4,4,1,isolate_specific,yes
+Pentapeptide repeats family protein,2,2,2,1,isolate_specific,no
+PepSY domain-containing protein,4,4,4,2,copy_number_variant,yes
+Peptidase,3,3,3,1,isolate_specific,no
+Peptidase C39 like family protein,2,2,2,1,isolate_specific,no
+Peptidase M23 family protein,4,4,4,1,isolate_specific,no
+Peptidase M50 family protein,2,2,2,1,isolate_specific,no
+Peptidase U32 family protein,2,2,2,1,isolate_specific,no
+Peptidase propeptide and YPEB domain protein,5,5,5,1,isolate_specific,no
+Peptidoglycan binding-like domain-containing protein,2,2,2,1,isolate_specific,no
+Periplasmic binding family protein,5,5,5,1,isolate_specific,yes
+Periplasmic binding s and sugar binding domain of LacI family protein,16,16,16,1,isolate_specific,yes
+Permease,3,3,3,1,isolate_specific,no
+Permease IIC component,3,3,3,1,isolate_specific,no
+PfkB carbohydrate kinase family protein,3,3,3,1,isolate_specific,no
+Phage XkdN-like family protein,2,2,2,1,isolate_specific,no
+Phage capsid protein,2,2,2,1,isolate_specific,no
+Phage holin family protein,3,3,3,1,isolate_specific,no
+Phage integrase family protein,4,4,4,1,isolate_specific,no
+Phage late control D family protein,7,7,7,1,isolate_specific,yes
+Phage portal protein,4,4,4,1,isolate_specific,no
+Phage protein,5,5,5,1,isolate_specific,yes
+Phage tail fiber repeat family protein,3,3,3,1,isolate_specific,no
+Phage tail protein,5,5,5,1,isolate_specific,yes
+Phage tail sheath family protein,2,2,2,1,isolate_specific,no
+Phage tail tape measure protein,2,2,2,1,isolate_specific,no
+Phage terminase large subunit,2,2,2,1,isolate_specific,no
+PhoH family protein,1,1,1,2,I6_specific,no
+Phosphatase PAP2 family protein,2,2,2,1,isolate_specific,no
+Phosphate propanoyltransferase,2,2,2,1,isolate_specific,no
+Phosphodiester glycosidase domain-containing protein,2,2,2,1,isolate_specific,no
+Phosphodiester glycosidase family protein,2,2,2,1,isolate_specific,no
+Phosphoenolpyruvate-protein phosphotransferase,3,3,3,1,isolate_specific,no
+Phosphopantetheine attachment site family protein,2,2,2,1,isolate_specific,yes
+Phosphotransferase,2,2,2,1,isolate_specific,no
+Phosphotransferase enzyme family protein,5,5,5,1,isolate_specific,no
+PhzF family phenazine biosynthesis protein,1,1,1,2,I6_specific,no
+PilZ domain-containing protein,2,2,2,1,isolate_specific,no
+PocR ligand-binding domain-containing protein,1,1,1,2,I6_specific,no
+Polyketide cyclase,3,3,3,1,isolate_specific,no
+Polymer-forming cytoskeletal family protein,2,2,2,1,isolate_specific,no
+Polymerase nucleotidyl transferase domain-containing protein,2,2,2,1,isolate_specific,no
+Polyprenyl synthetase family protein,3,3,3,1,isolate_specific,no
+Polysaccharide deacetylase family protein,11,11,11,1,isolate_specific,no
+Prenyltransferase-like family protein,3,3,3,1,isolate_specific,yes
+PrgI family protein,3,3,3,1,isolate_specific,yes
+Prolyl oligopeptidase family protein,2,2,2,1,isolate_specific,no
+Protein translocase subunit SecD,2,2,2,1,isolate_specific,no
+Protein-glutamate methylesterase/protein-glutamine glutaminase,2,2,2,1,isolate_specific,no
+Pseudouridine synthase,6,6,6,1,isolate_specific,yes
+PspA/IM30 family protein,6,6,6,5,copy_number_variant,no
+PspC domain protein,2,2,2,1,isolate_specific,no
+PspC domain-containing protein,1,1,1,2,I6_specific,no
+PucR family transcriptional regulator,4,4,4,5,copy_number_variant,no
+Putative 4-hydroxybenzoate polyprenyltransferase,2,2,2,1,isolate_specific,no
+Putative binding-protein-dependent transport systems inner membrane component,2,2,2,1,isolate_specific,no
+Putative helix-turn-helix domain protein,2,2,2,1,isolate_specific,no
+Putative lipoprotein,13,13,13,1,isolate_specific,yes
+Putative membrane protein,41,41,41,1,isolate_specific,yes
+Putative permease family protein,3,3,3,1,isolate_specific,yes
+Putative spore coat F-like protein YraG,2,2,2,1,isolate_specific,no
+Pyridine nucleotide-disulfide oxidoreductase family protein,5,5,5,1,isolate_specific,no
+Pyridoxamine 5'-phosphate oxidase family protein,2,2,2,1,isolate_specific,no
+RDD family protein,5,5,5,4,copy_number_variant,no
+REase associating with pPIWI RE domain-containing protein,2,2,2,1,isolate_specific,yes
+RICIN domain-containing protein,1,1,1,2,I6_specific,no
+RNA chaperone Hfq,2,2,2,2,ancestral,no
+RNA polymerase recycling motor HelD,2,2,2,2,ancestral,no
+RNA polymerase sigma factor,6,6,6,23,copy_number_variant,no
+RNA polymerase sigma factor 70 region 4 type 2 domain-containing protein,2,2,2,1,isolate_specific,yes
+RNA polymerase sigma factor RpoD,1,1,1,2,I6_specific,no
+"RNA polymerase sigma factor, sigma-70 family protein",24,24,24,1,isolate_specific,yes
+RNA-binding protein,2,2,2,1,isolate_specific,no
+RNA-guided endonuclease TnpB family protein,1,1,1,2,I6_specific,no
+ROK family protein,7,7,7,6,copy_number_variant,no
+ROK family transcriptional regulator,1,1,1,4,I6_specific,no
+Radical SAM additional 4Fe4S-binding SPASM domain protein,7,7,7,1,isolate_specific,yes
+Radical SAM protein,3,3,3,1,isolate_specific,no
+Radical SAM superfamily protein,3,3,3,1,isolate_specific,yes
+Redoxin domain-containing protein,3,3,3,1,isolate_specific,no
+Response regulator,43,43,43,1,isolate_specific,yes
+Restriction endonuclease,2,2,2,1,isolate_specific,yes
+Reverse transcriptase domain-containing protein,2,2,2,1,isolate_specific,no
+Rhodanese-like domain protein,2,2,2,1,isolate_specific,no
+"Ribbon-helix-helix protein, CopG family",2,2,2,1,isolate_specific,no
+Ribonuclease J,2,2,2,1,isolate_specific,no
+RidA family protein,1,1,1,3,I6_specific,no
+Right handed beta helix region family protein,2,2,2,1,isolate_specific,no
+Ring-cleaving dioxygenase,2,2,2,1,isolate_specific,no
+RluA family pseudouridine synthase,1,1,1,4,I6_specific,no
+Rpn family recombination-promoting nuclease/putative transposase,3,3,3,6,copy_number_variant,no
+RrF2 family transcriptional regulator,1,1,1,2,I6_specific,no
+Rrf2 family protein,2,2,2,1,isolate_specific,yes
+Rrf2 family transcriptional regulator,1,1,1,5,I6_specific,no
+RsmB/NOP family class I SAM-dependent RNA methyltransferase,1,1,1,2,I6_specific,no
+S-layer homology domain-containing protein,1,1,1,17,I6_specific,no
+S-layer-like y domain-containing protein,3,3,3,1,isolate_specific,no
+S1C family serine protease,1,1,1,2,I6_specific,no
+S41 family peptidase,1,1,1,2,I6_specific,no
+S8 family peptidase,1,1,1,2,I6_specific,no
+S8 family serine peptidase,2,2,2,3,copy_number_variant,yes
+SAF domain-containing protein,2,2,2,1,isolate_specific,yes
+SAM-dependent methyltransferase,3,3,3,2,copy_number_variant,yes
+SCP domain-containing protein,3,3,3,1,isolate_specific,no
+SDR family NAD(P)-dependent oxidoreductase,10,10,10,17,copy_number_variant,no
+SDR family oxidoreductase,7,7,7,22,copy_number_variant,no
+SGNH/GDSL hydrolase family protein,1,1,1,6,I6_specific,no
+SHOCT domain-containing protein,2,2,2,1,isolate_specific,yes
+SIR2 family protein,1,1,1,2,I6_specific,no
+SIS domain protein,7,7,7,1,isolate_specific,no
+SIS domain-containing protein,1,1,1,5,I6_specific,no
+SLH domain-containing protein,14,14,14,1,isolate_specific,yes
+SMI1/KNR4 family protein,3,3,3,2,copy_number_variant,no
+SOS response-associated peptidase,1,1,1,2,I6_specific,no
+SPFH domain / Band 7 family protein,3,3,3,1,isolate_specific,no
+SPFH domain-containing protein,1,1,1,4,I6_specific,no
+SPOR domain-containing protein,2,2,2,1,isolate_specific,no
+SRPBCC family protein,1,1,1,5,I6_specific,no
+SUMF1/EgtB/PvdO family nonheme iron enzyme,2,2,2,1,isolate_specific,no
+SWIM zinc finger family protein,1,1,1,2,I6_specific,no
+SWIM-type domain-containing protein,2,2,2,1,isolate_specific,yes
+Saccharopine dehydrogenase family protein,2,2,2,1,isolate_specific,no
+Sec-independent protein translocase protein TatA,2,2,2,1,isolate_specific,no
+Secreted protein,2,2,2,1,isolate_specific,no
+Sensor histidine kinase,3,3,3,1,isolate_specific,no
+Sensory box protein,2,2,2,1,isolate_specific,no
+Short chain dehydrogenase family protein,14,14,14,1,isolate_specific,yes
+Sigma-70 family RNA polymerase sigma factor,5,5,5,1,isolate_specific,yes
+"Sigma-70, region 4 family protein",4,4,4,1,isolate_specific,yes
+Small Multidrug Resistance family protein,2,2,2,1,isolate_specific,no
+"Small, acid-soluble spore protein C",2,2,2,1,isolate_specific,no
+"Small, acid-soluble spore protein, alpha/beta type",2,2,2,1,isolate_specific,no
+Sodium/calcium exchanger family protein,2,2,2,1,isolate_specific,no
+Sodium:proton antiporter,2,2,2,1,isolate_specific,no
+Sorbitol dehydrogenase,2,2,2,1,isolate_specific,no
+Sortase,2,2,2,1,isolate_specific,no
+Spo0E family sporulation regulatory protein-aspartic acid phosphatase,2,2,2,1,isolate_specific,no
+Spo0E like sporulation regulatory family protein,4,4,4,1,isolate_specific,yes
+Spore coat protein,3,3,3,1,isolate_specific,no
+Spore germination GerAC-like C-terminal domain-containing protein,2,2,2,1,isolate_specific,yes
+Spore germination family protein,7,7,7,1,isolate_specific,no
+Spore germination gerPA/gerPF family protein,3,3,3,1,isolate_specific,no
+Spore germination protein,4,4,4,1,isolate_specific,no
+Spore germination protein KA,2,2,2,1,isolate_specific,yes
+Stage VI sporulation protein F,2,2,2,1,isolate_specific,no
+Stress responsive A/B Barrel domain protein,2,2,2,1,isolate_specific,no
+Sucrose-6-phosphate hydrolase,3,3,3,1,isolate_specific,no
+Sugar (And other) transporter family protein,14,14,14,1,isolate_specific,yes
+Sugar (Glycoside-Pentoside-Hexuronide) transporter domain protein,2,2,2,1,isolate_specific,yes
+Sugar ABC transporter ATP-binding protein,4,4,4,1,isolate_specific,yes
+Sugar ABC transporter permease,3,3,3,1,isolate_specific,no
+Sugar ABC transporter substrate-binding protein,2,2,2,1,isolate_specific,no
+SulP family inorganic anion transporter,1,1,1,2,I6_specific,no
+Sulfatase-like hydrolase/transferase,10,10,10,1,isolate_specific,no
+Sulfatase-modifying factor enzyme 1 family protein,2,2,2,1,isolate_specific,yes
+Sulfate adenylyltransferase,2,2,2,1,isolate_specific,no
+Superoxide dismutase,2,2,2,1,isolate_specific,no
+TIGR01777 family oxidoreductase,1,1,1,2,I6_specific,no
+TIM barrel protein,6,6,6,1,isolate_specific,yes
+TIM-barrel domain-containing protein,1,1,1,3,I6_specific,no
+TM2 domain-containing protein,1,1,1,2,I6_specific,no
+TVP38/TMEM64 family membrane protein,2,2,2,1,isolate_specific,no
+TVP38/TMEM64 family protein,1,1,1,2,I6_specific,no
+TadE/TadG family type IV pilus assembly protein,1,1,1,2,I6_specific,no
+TatD family hydrolase,1,1,1,3,I6_specific,no
+TerC family protein,1,1,1,4,I6_specific,no
+TetR family transcriptional regulator,10,10,10,2,copy_number_variant,yes
+TetR/AcrR family transcriptional regulator,4,4,4,44,copy_number_variant,yes
+Tetratricopeptide repeat family protein,6,6,6,1,isolate_specific,no
+Tetratricopeptide repeat protein,5,5,5,1,isolate_specific,no
+Thermostable beta-glucosidase B,2,2,2,1,isolate_specific,no
+ThiF family protein,3,3,3,1,isolate_specific,no
+Thiamine-binding protein domain-containing protein,2,2,2,1,isolate_specific,no
+Thioredoxin,2,2,2,1,isolate_specific,no
+Thioredoxin domain-containing protein,2,2,2,1,isolate_specific,no
+ThuA domain-containing protein,1,1,1,2,I6_specific,no
+TlpA family protein disulfide reductase,1,1,1,2,I6_specific,no
+Transcriptional regulator,18,18,18,1,isolate_specific,yes
+Transcriptional regulator PadR-like family protein,4,4,4,1,isolate_specific,yes
+Transcriptional regulator family protein,2,2,2,1,isolate_specific,no
+Transglutaminase-like superfamily protein,3,3,3,1,isolate_specific,no
+Transglycosylase SLT domain protein,2,2,2,1,isolate_specific,no
+Transport permease protein,2,2,2,1,isolate_specific,yes
+Transporter,4,4,4,1,isolate_specific,no
+Transporter associated domain protein,3,3,3,1,isolate_specific,no
+Transposase,12,12,12,1,isolate_specific,yes
+Transposase DDE domain protein,2,2,2,1,isolate_specific,no
+Transposase family protein,2,2,2,1,isolate_specific,yes
+Transposase zinc-ribbon domain-containing protein,35,35,35,1,isolate_specific,no
+TrbL/VirB6 plasmid conjugal transfer protein,2,2,2,1,isolate_specific,yes
+TrkA-N domain protein,2,2,2,1,isolate_specific,no
+TrkH family potassium uptake protein,1,1,1,2,I6_specific,no
+Type I phosphodiesterase / nucleotide pyrophosphatase family protein,3,3,3,1,isolate_specific,no
+"Type II secretion system (T2SS), F family protein",2,2,2,1,isolate_specific,no
+Type II secretion system protein GspF domain-containing protein,2,2,2,1,isolate_specific,yes
+Type II/IV secretion system family protein,2,2,2,1,isolate_specific,no
+Type IV leader peptidase family protein,2,2,2,1,isolate_specific,no
+Tyrosine protein kinase,2,2,2,1,isolate_specific,no
+UDP-N-acetylglucosamine 1-carboxyvinyltransferase,3,3,3,3,ancestral,no
+UDP-N-acetylglucosamine--LPS N-acetylglucosamine transferase,1,1,1,2,I6_specific,no
+UDP-N-acetylmuramate dehydrogenase,2,2,2,2,ancestral,no
+UTRA domain protein,4,4,4,1,isolate_specific,no
+UbiA-like polyprenyltransferase,1,1,1,2,I6_specific,no
+Universal stress family protein,2,2,2,1,isolate_specific,no
+Unsaturated rhamnogalacturonyl hydrolase yteR,2,2,2,1,isolate_specific,no
+UxaA family hydrolase,1,1,1,2,I6_specific,no
+VCBS repeat-containing protein,3,3,3,1,isolate_specific,no
+VOC domain-containing protein,3,3,3,1,isolate_specific,yes
+VOC family protein,1,1,1,18,I6_specific,no
+VWA domain-containing protein,4,4,4,3,copy_number_variant,no
+VanW family protein,1,1,1,2,I6_specific,no
+VanW like family protein,2,2,2,1,isolate_specific,no
+VanZ family protein,1,1,1,5,I6_specific,no
+VanZ like family protein,3,3,3,1,isolate_specific,no
+"VirB4-like conjugal transfer ATPase, CD1110 family",2,2,2,1,isolate_specific,yes
+"VirD4-like conjugal transfer protein, CD1115 family",3,3,3,1,isolate_specific,yes
+WG repeat-containing protein,1,1,1,3,I6_specific,no
+WXG100 family type VII secretion target,1,1,1,3,I6_specific,no
+WYL domain protein,3,3,3,1,isolate_specific,no
+WYL domain-containing protein,2,2,2,1,isolate_specific,yes
+XRE family transcriptional regulator,5,5,5,1,isolate_specific,yes
+XkdQ/YqbQ family protein,1,1,1,3,I6_specific,no
+"Xylan alpha-1,2-glucuronidase",2,2,2,1,isolate_specific,no
+"Xylan beta-1,4-xylosidase",3,3,3,1,isolate_specific,yes
+Xylose isomerase-like TIM barrel domain-containing protein,2,2,2,1,isolate_specific,no
+Xylose isomerase-like TIM barrel family protein,5,5,5,1,isolate_specific,no
+YcdB/YcdC domain-containing protein,1,1,1,2,I6_specific,no
+YcdB/YcdC repeated domain-containing protein,2,2,2,1,isolate_specific,no
+YciI family protein,1,1,1,2,I6_specific,no
+YdeI/OmpD-associated family protein,1,1,1,2,I6_specific,no
+YdjC-like family protein,2,2,2,1,isolate_specific,yes
+YfhD family protein,4,4,4,1,isolate_specific,no
+YfhO family protein,2,2,2,1,isolate_specific,yes
+YgiT-type zinc finger domain protein,2,2,2,1,isolate_specific,no
+YhcN/YlaJ family sporulation lipoprotein,1,1,1,2,I6_specific,no
+YheC/D like ATP-grasp family protein,3,3,3,1,isolate_specific,no
+YheC/YheD family protein,5,5,5,9,copy_number_variant,no
+YhgE/Pip domain-containing protein,1,1,1,2,I6_specific,no
+YitT family protein,4,4,4,11,copy_number_variant,no
+YlbF family regulator,1,1,1,2,I6_specific,no
+YutG/PgpA domain-containing protein,2,2,2,1,isolate_specific,no
+YvrJ family protein,2,2,2,1,isolate_specific,no
+Zinc ribbon domain-containing protein,2,2,2,1,isolate_specific,no
+Zinc-binding dehydrogenase,2,2,2,1,isolate_specific,no
+Zinc-ribbon domain protein,3,3,3,1,isolate_specific,no
+acetate/propionate family kinase,1,1,1,2,I6_specific,no
+acetyl-CoA C-acetyltransferase,2,2,2,2,ancestral,no
+acetylxylan esterase,1,1,1,2,I6_specific,no
+acyl carrier protein,1,1,1,2,I6_specific,no
+acyltransferase,1,1,1,4,I6_specific,no
+acyltransferase family protein,1,1,1,3,I6_specific,no
+adenosylmethionine decarboxylase,2,2,2,2,ancestral,no
+adenylosuccinate lyase,2,2,2,2,ancestral,no
+alanine racemase,2,2,2,2,ancestral,no
+aldo/keto reductase,1,1,1,14,I6_specific,no
+aldose 1-epimerase,1,1,1,2,I6_specific,no
+alkaline phosphatase,1,1,1,2,I6_specific,no
+alkaline phosphatase family protein,1,1,1,2,I6_specific,no
+alpha-L-rhamnosidase,1,1,1,2,I6_specific,no
+alpha-L-rhamnosidase C-terminal domain-containing protein,1,1,1,2,I6_specific,no
+alpha-N-arabinofuranosidase,1,1,1,2,I6_specific,no
+alpha-amylase family glycosyl hydrolase,1,1,1,2,I6_specific,no
+alpha-galactosidase,1,1,1,3,I6_specific,no
+alpha-glucuronidase family glycosyl hydrolase,1,1,1,2,I6_specific,no
+alpha-glycosidase,1,1,1,2,I6_specific,no
+alpha-ketoacid dehydrogenase subunit beta,1,1,1,2,I6_specific,no
+alpha-mannosidase,1,1,1,4,I6_specific,no
+alpha/beta fold hydrolase,1,1,1,7,I6_specific,no
+alpha/beta hydrolase,1,1,1,10,I6_specific,no
+alpha/beta hydrolase family protein,1,1,1,4,I6_specific,no
+alpha/beta-type small acid-soluble spore protein,1,1,1,3,I6_specific,no
+amidase family protein,1,1,1,2,I6_specific,no
+amidohydrolase,1,1,1,5,I6_specific,no
+amidohydrolase family protein,1,1,1,6,I6_specific,no
+amino acid ABC transporter ATP-binding protein,1,1,1,5,I6_specific,no
+amino acid ABC transporter permease,1,1,1,7,I6_specific,no
+amino acid ABC transporter substrate-binding protein,1,1,1,2,I6_specific,no
+amino acid permease,1,1,1,6,I6_specific,no
+aminoglycoside 6-adenylyltransferase,1,1,1,2,I6_specific,no
+aminopeptidase,1,1,1,4,I6_specific,no
+aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,1,1,1,6,I6_specific,no
+aminotransferase class V-fold PLP-dependent enzyme,1,1,1,3,I6_specific,no
+amylo-alpha-1%2C6-glucosidase,1,1,1,2,I6_specific,no
+anaerobic ribonucleoside-triphosphate reductase activating protein,2,2,2,2,ancestral,no
+ankyrin repeat domain-containing protein,1,1,1,3,I6_specific,no
+anthranilate phosphoribosyltransferase,1,1,1,2,I6_specific,no
+antiterminator LoaP,2,2,2,1,isolate_specific,no
+arginine--tRNA ligase,2,2,2,2,ancestral,no
+asparaginase,1,1,1,3,I6_specific,no
+asparagine synthase (glutamine-hydrolyzing),2,2,2,2,ancestral,no
+aspartate kinase,2,2,2,2,ancestral,no
+aspartyl protease family protein,1,1,1,2,I6_specific,no
+aspartyl-phosphate phosphatase Spo0E family protein,1,1,1,6,I6_specific,no
+bactofilin family protein,1,1,1,2,I6_specific,no
+baseplate J/gp47 family protein,1,1,1,3,I6_specific,no
+beta-L-arabinofuranosidase domain-containing protein,1,1,1,2,I6_specific,no
+beta-N-acetylhexosaminidase,4,4,4,3,copy_number_variant,no
+beta-fructofuranosidase,3,3,3,1,isolate_specific,no
+beta-galactosidase,1,1,1,5,I6_specific,no
+beta-glucosidase,1,1,1,3,I6_specific,no
+beta-glucosidase BglX,2,2,2,2,ancestral,no
+beta-glucosidase family protein,1,1,1,2,I6_specific,no
+beta-glucoside-specific PTS transporter subunit IIABC,1,1,1,6,I6_specific,no
+beta-glucuronidase,2,2,2,2,ancestral,no
+beta-ketoacyl-ACP synthase II,2,2,2,2,ancestral,no
+beta-ketoacyl-ACP synthase III,1,1,1,2,I6_specific,no
+beta-mannosidase,1,1,1,2,I6_specific,no
+beta-phosphoglucomutase,6,6,6,6,ancestral,no
+bifunctional 2-keto-4-hydroxyglutarate aldolase/2-keto-3-deoxy-6-phosphogluconate aldolase,1,1,1,2,I6_specific,no
+bifunctional 3-deoxy-7-phosphoheptulonate synthase/chorismate mutase,2,2,2,1,isolate_specific,no
+bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase,1,1,1,2,I6_specific,no
+bifunctional metallophosphatase/5'-nucleotidase,1,1,1,2,I6_specific,no
+bifunctional transcriptional activator/DNA repair enzyme AdaA,1,1,1,2,I6_specific,no
+biosynthetic-type acetolactate synthase large subunit,2,2,2,2,ancestral,no
+branched-chain amino acid ABC transporter permease,1,1,1,2,I6_specific,no
+cache domain-containing sensor histidine kinase,1,1,1,22,I6_specific,no
+carbohydrate ABC transporter permease,1,1,1,147,I6_specific,no
+carbohydrate kinase family protein,1,1,1,3,I6_specific,no
+carbohydrate-binding protein,1,1,1,3,I6_specific,no
+carboxymuconolactone decarboxylase family protein,1,1,1,3,I6_specific,no
+cardiolipin synthase,2,2,2,2,ancestral,no
+cation diffusion facilitator family transporter,1,1,1,3,I6_specific,no
+cation:proton antiporter,1,1,1,2,I6_specific,no
+cell wall-active antibiotics response protein LiaF,1,1,1,2,I6_specific,no
+cellulase family glycosylhydrolase,1,1,1,2,I6_specific,no
+chemotaxis protein CheA,1,1,1,3,I6_specific,no
+chemotaxis protein CheW,1,1,1,3,I6_specific,no
+chitinase,2,2,2,1,isolate_specific,no
+chromate transporter,1,1,1,2,I6_specific,no
+class B sortase,1,1,1,2,I6_specific,no
+class I SAM-dependent methyltransferase,2,2,2,23,copy_number_variant,no
+class II fructose-1%2C6-bisphosphate aldolase,1,1,1,2,I6_specific,no
+"class II fructose-1,6-bisphosphate aldolase",3,3,3,1,isolate_specific,no
+class II fructose-bisphosphatase,2,2,2,2,ancestral,no
+class II fructose-bisphosphate aldolase,1,1,1,2,I6_specific,no
+cold-shock protein,1,1,1,4,I6_specific,no
+collagen binding domain-containing protein,1,1,1,2,I6_specific,no
+contractile injection system protein%2C VgrG/Pvc8 family,1,1,1,2,I6_specific,no
+copper amine oxidase N-terminal domain-containing protein,2,2,2,13,copy_number_variant,no
+cupin domain-containing protein,1,1,1,5,I6_specific,no
+cysteine desulfurase,2,2,2,1,isolate_specific,no
+cysteine desulfurase family protein,1,1,1,2,I6_specific,no
+cysteine hydrolase family protein,1,1,1,5,I6_specific,no
+cysteine synthase A,2,2,2,2,ancestral,no
+cysteine-S-conjugate beta-lyase,3,3,3,1,isolate_specific,no
+cytochrome d ubiquinol oxidase subunit II,1,1,1,2,I6_specific,no
+cytochrome ubiquinol oxidase subunit I,1,1,1,2,I6_specific,no
+dTDP-4-dehydrorhamnose reductase,2,2,2,1,isolate_specific,no
+dTDP-glucose 4%2C6-dehydratase,1,1,1,2,I6_specific,no
+dTMP kinase,2,2,2,3,copy_number_variant,no
+deoxynucleoside kinase,1,1,1,2,I6_specific,no
+deoxyribonuclease IV,1,1,1,2,I6_specific,no
+dihydrodipicolinate synthase family protein,1,1,1,4,I6_specific,no
+dihydrolipoamide acetyltransferase family protein,1,1,1,2,I6_specific,no
+dihydrolipoyl dehydrogenase,2,2,2,2,ancestral,no
+dihydroorotase,1,1,1,2,I6_specific,no
+dihydroxyacetone kinase subunit DhaK,2,2,2,3,copy_number_variant,no
+dipeptidase,1,1,1,2,I6_specific,no
+discoidin domain-containing protein,1,1,1,4,I6_specific,no
+efflux RND transporter periplasmic adaptor subunit,1,1,1,6,I6_specific,no
+efflux RND transporter permease subunit,1,1,1,2,I6_specific,no
+endo-1%2C4-beta-xylanase,1,1,1,4,I6_specific,no
+endolytic transglycosylase MltG,1,1,1,2,I6_specific,no
+endonuclease MutS2,2,2,2,2,ancestral,no
+energy-coupling factor transporter transmembrane component T family protein,1,1,1,3,I6_specific,no
+erythromycin esterase family protein,1,1,1,2,I6_specific,no
+excinuclease ABC subunit UvrA,2,2,2,1,isolate_specific,no
+extracellular solute-binding protein,1,1,1,27,I6_specific,no
+family 1 glycosylhydrolase,1,1,1,2,I6_specific,no
+family 43 glycosylhydrolase,1,1,1,4,I6_specific,no
+fibronectin type III domain-containing protein,1,1,1,2,I6_specific,no
+flagellar brake protein,1,1,1,2,I6_specific,no
+flagellar hook-basal body protein,1,1,1,2,I6_specific,no
+flagellar hook-length control protein FliK,1,1,1,2,I6_specific,no
+flagellar motor protein MotB,1,1,1,2,I6_specific,no
+flagellin,1,1,1,2,I6_specific,no
+flavocytochrome c,1,1,1,2,I6_specific,no
+fluoride efflux transporter CrcB,2,2,2,2,ancestral,no
+formate/nitrite transporter family protein,1,1,1,4,I6_specific,no
+formylglycine-generating enzyme family protein,1,1,1,2,I6_specific,no
+fructokinase,3,3,3,1,isolate_specific,no
+fructoselysine 6-kinase,1,1,1,3,I6_specific,no
+fumarylacetoacetate hydrolase family protein,1,1,1,2,I6_specific,no
+gluconate:H+ symporter,1,1,1,2,I6_specific,no
+glucose-1-phosphate thymidylyltransferase,2,2,2,1,isolate_specific,yes
+glucose-1-phosphate thymidylyltransferase RfbA,1,1,1,2,I6_specific,no
+glucose-6-phosphate dehydrogenase,2,2,2,2,ancestral,no
+glucuronate isomerase,2,2,2,2,ancestral,no
+glutamate racemase,2,2,2,2,ancestral,no
+glutamate-1-semialdehyde 2%2C1-aminomutase,1,1,1,3,I6_specific,no
+"glutamate-1-semialdehyde 2,1-aminomutase",2,2,2,1,isolate_specific,no
+glutathione peroxidase,1,1,1,3,I6_specific,no
+glycerate kinase,1,1,1,2,I6_specific,no
+glycerol dehydrogenase,1,1,1,2,I6_specific,no
+glycerol kinase GlpK,2,2,2,2,ancestral,no
+glycerol-3-phosphate responsive antiterminator,1,1,1,2,I6_specific,no
+glycerophosphodiester phosphodiesterase,1,1,1,2,I6_specific,no
+glycerophosphodiester phosphodiesterase family protein,1,1,1,3,I6_specific,no
+glycoside hydrolase 43 family protein,1,1,1,2,I6_specific,no
+glycoside hydrolase family 1 protein,1,1,1,8,I6_specific,no
+glycoside hydrolase family 125 protein,1,1,1,2,I6_specific,no
+glycoside hydrolase family 13 protein,1,1,1,4,I6_specific,no
+glycoside hydrolase family 130 protein,1,1,1,5,I6_specific,no
+glycoside hydrolase family 172 protein,1,1,1,2,I6_specific,no
+glycoside hydrolase family 2 TIM barrel-domain containing protein,1,1,1,2,I6_specific,no
+glycoside hydrolase family 2 protein,1,1,1,5,I6_specific,no
+glycoside hydrolase family 28 protein,1,1,1,2,I6_specific,no
+glycoside hydrolase family 3 C-terminal domain-containing protein,1,1,1,3,I6_specific,no
+glycoside hydrolase family 3 protein,1,1,1,3,I6_specific,no
+glycoside hydrolase family 30 beta sandwich domain-containing protein,1,1,1,2,I6_specific,no
+glycoside hydrolase family 30 protein,1,1,1,2,I6_specific,no
+glycoside hydrolase family 32 protein,1,1,1,6,I6_specific,no
+glycoside hydrolase family 43 protein,1,1,1,4,I6_specific,no
+glycoside hydrolase family 6 protein,1,1,1,2,I6_specific,no
+glycoside hydrolase family 65 protein,1,1,1,5,I6_specific,no
+glycoside hydrolase family 88 protein,1,1,1,2,I6_specific,no
+glycoside hydrolase family 88/105 protein,1,1,1,6,I6_specific,no
+glycoside hydrolase family 9 protein,1,1,1,3,I6_specific,no
+glycosyl hydrolase,1,1,1,4,I6_specific,no
+glycosyl hydrolase family 18 protein,2,2,2,4,copy_number_variant,no
+glycosyl hydrolase family 8,1,1,1,2,I6_specific,no
+glycosyltransferase,1,1,1,21,I6_specific,no
+glycosyltransferase family 2 protein,1,1,1,22,I6_specific,no
+glycosyltransferase family 4 protein,1,1,1,13,I6_specific,no
+guanylate kinase,3,3,3,3,ancestral,no
+heavy metal translocating P-type ATPase,1,1,1,3,I6_specific,no
+helix-turn-helix domain-containing protein,5,5,5,71,copy_number_variant,yes
+helix-turn-helix transcriptional regulator,3,3,3,36,copy_number_variant,no
+heme ABC exporter ATP-binding protein CcmA,3,3,3,1,isolate_specific,yes
+hemolysin family protein,1,1,1,5,I6_specific,no
+histidine kinase,75,75,75,1,isolate_specific,yes
+histidine phosphatase family protein,1,1,1,3,I6_specific,no
+hydantoinase B/oxoprolinase family protein,1,1,1,3,I6_specific,no
+hydantoinase/oxoprolinase family protein,1,1,1,3,I6_specific,no
+imm11 family protein,1,1,1,2,I6_specific,no
+inositol monophosphatase family protein,1,1,1,2,I6_specific,no
+iron-containing alcohol dehydrogenase,1,1,1,2,I6_specific,no
+iron-hydroxamate ABC transporter substrate-binding protein,1,1,1,3,I6_specific,no
+iron-sulfur cluster biosynthesis family protein,1,1,1,2,I6_specific,no
+ketoacyl-ACP synthase III,1,1,1,2,I6_specific,no
+ketopantoate reductase family protein,1,1,1,3,I6_specific,no
+lactonase family protein,1,1,1,2,I6_specific,no
+lytic transglycosylase domain-containing protein,1,1,1,2,I6_specific,no
+macrolide family glycosyltransferase,1,1,1,2,I6_specific,no
+magnesium/cobalt transporter CorA,2,2,2,2,ancestral,no
+mannonate dehydratase,2,2,2,2,ancestral,no
+mechanosensitive ion channel family protein,1,1,1,2,I6_specific,no
+metal ABC transporter ATP-binding protein,1,1,1,3,I6_specific,no
+metal ABC transporter permease,1,1,1,4,I6_specific,no
+metal ABC transporter substrate-binding protein,1,1,1,2,I6_specific,no
+metal-dependent hydrolase,1,1,1,2,I6_specific,no
+metallophosphoesterase,1,1,1,3,I6_specific,no
+metallophosphoesterase family protein,1,1,1,2,I6_specific,no
+methionine ABC transporter ATP-binding protein,1,1,1,4,I6_specific,no
+methionine ABC transporter permease,1,1,1,4,I6_specific,no
+methionine--tRNA ligase,1,1,1,2,I6_specific,no
+methyl-accepting chemotaxis protein,2,2,2,18,copy_number_variant,yes
+molecular chaperone DnaJ,1,1,1,2,I6_specific,no
+nickel ABC transporter permease,2,2,2,1,isolate_specific,yes
+nickel ABC transporter substrate-binding protein,2,2,2,1,isolate_specific,yes
+nickel transporter permease,2,2,2,1,isolate_specific,yes
+nitrate reductase molybdenum cofactor assembly chaperone,2,2,2,2,ancestral,no
+nitrate reductase subunit alpha,2,2,2,2,ancestral,no
+nitrate reductase subunit beta,2,2,2,2,ancestral,no
+nitrate/nitrite transporter,1,1,1,2,I6_specific,no
+nitrite reductase large subunit NirB,1,1,1,2,I6_specific,no
+nitrite reductase small subunit NirD,1,1,1,2,I6_specific,no
+nitroreductase family protein,1,1,1,7,I6_specific,no
+non-hydrolyzing UDP-N-acetylglucosamine 2-epimerase,2,2,2,2,ancestral,no
+non-reducing end alpha-L-arabinofuranosidase,3,3,3,1,isolate_specific,no
+nuclear transport factor 2 family protein,1,1,1,4,I6_specific,no
+nucleoside recognition domain-containing protein,1,1,1,2,I6_specific,no
+nucleotide pyrophosphohydrolase,1,1,1,3,I6_specific,no
+nucleotide sugar dehydrogenase,1,1,1,4,I6_specific,no
+nucleotidyltransferase domain-containing protein,1,1,1,3,I6_specific,no
+nucleotidyltransferase family protein,1,1,1,5,I6_specific,no
+"oligo-1,6-glucosidase",3,3,3,1,isolate_specific,no
+oligopeptide ABC transporter permease,2,2,2,1,isolate_specific,no
+oligoribonuclease,2,2,2,1,isolate_specific,no
+ornithine carbamoyltransferase,2,2,2,2,ancestral,no
+pPIWI-RE three-gene island domain-containing protein,2,2,2,1,isolate_specific,yes
+patatin-like phospholipase family protein,1,1,1,3,I6_specific,no
+pectate lyase,1,1,1,3,I6_specific,no
+penicillin-binding protein 1A,1,1,1,2,I6_specific,no
+penicillin-binding transpeptidase domain-containing protein,1,1,1,2,I6_specific,no
+pentapeptide repeat-containing protein,1,1,1,8,I6_specific,no
+peptidase U32 family protein,1,1,1,4,I6_specific,no
+peptide ABC transporter substrate-binding protein,1,1,1,2,I6_specific,no
+peptide chain release factor 2,1,1,1,2,I6_specific,no
+peptide deformylase,2,2,2,2,ancestral,no
+peptidoglycan D%2CD-transpeptidase FtsI family protein,1,1,1,3,I6_specific,no
+peptidoglycan glycosyltransferase,3,3,3,1,isolate_specific,no
+peptidoglycan-binding domain-containing protein,1,1,1,3,I6_specific,no
+peptidylprolyl isomerase,1,1,1,3,I6_specific,no
+permease,1,1,1,2,I6_specific,no
+phage baseplate assembly protein V,1,1,1,3,I6_specific,no
+phage tail assembly chaperone,1,1,1,3,I6_specific,no
+phage tail protein,2,2,2,5,copy_number_variant,no
+phage tail sheath family protein,1,1,1,2,I6_specific,no
+phage tail tube protein,1,1,1,2,I6_specific,no
+phosphatase PAP2 family protein,1,1,1,3,I6_specific,no
+phosphate ABC transporter ATP-binding protein PstB,2,2,2,2,ancestral,no
+phosphate propanoyltransferase,1,1,1,2,I6_specific,no
+phosphatidate cytidylyltransferase,1,1,1,2,I6_specific,no
+phosphatidylglycerophosphatase A,1,1,1,2,I6_specific,no
+phosphodiester glycosidase family protein,1,1,1,6,I6_specific,no
+phosphoenolpyruvate--protein phosphotransferase,1,1,1,3,I6_specific,no
+phosphoglycerate dehydrogenase,1,1,1,2,I6_specific,no
+phosphonate ABC transporter ATP-binding protein,1,1,1,2,I6_specific,no
+phosphonate ABC transporter%2C permease protein PhnE,1,1,1,2,I6_specific,no
+"phosphonate ABC transporter, permease protein PhnE",2,2,2,1,isolate_specific,no
+phosphotransferase,1,1,1,5,I6_specific,no
+phytoene desaturase family protein,1,1,1,2,I6_specific,no
+polyprenyl synthetase family protein,1,1,1,4,I6_specific,no
+polysaccharide biosynthesis protein,1,1,1,3,I6_specific,no
+polysaccharide deacetylase,1,1,1,2,I6_specific,no
+polysaccharide deacetylase family protein,1,1,1,16,I6_specific,no
+polysaccharide deacetylase family sporulation protein PdaB,2,2,2,1,isolate_specific,no
+potassium channel family protein,1,1,1,2,I6_specific,no
+prepilin peptidase,1,1,1,2,I6_specific,no
+primosomal protein DnaI,2,2,2,1,isolate_specific,yes
+proline racemase family protein,1,1,1,2,I6_specific,no
+proline--tRNA ligase,2,2,2,2,ancestral,no
+protein-glutamate O-methyltransferase,2,2,2,1,isolate_specific,no
+protein-glutamate methylesterase/protein-glutamine glutaminase,1,1,1,2,I6_specific,no
+protoporphyrinogen oxidase,2,2,2,2,ancestral,no
+pseudouridine synthase,1,1,1,2,I6_specific,no
+purine-nucleoside phosphorylase,2,2,2,2,ancestral,no
+purine/pyrimidine permease,1,1,1,2,I6_specific,no
+putative bifunctional diguanylate cyclase/phosphodiesterase,1,1,1,2,I6_specific,no
+putative holin-like toxin,1,1,1,5,I6_specific,no
+putative multidrug resistance protein NorM,4,4,4,1,isolate_specific,yes
+putative phage tail protein,1,1,1,2,I6_specific,no
+putative quinol monooxygenase,1,1,1,2,I6_specific,no
+pyridoxal phosphate-dependent aminotransferase,1,1,1,2,I6_specific,no
+pyridoxamine 5'-phosphate oxidase family protein,1,1,1,5,I6_specific,no
+pyrroline-5-carboxylate reductase,1,1,1,2,I6_specific,no
+pyruvate kinase,2,2,2,3,copy_number_variant,no
+radical SAM protein,1,1,1,3,I6_specific,no
+radical SAM/SPASM domain-containing protein,1,1,1,6,I6_specific,no
+respiratory nitrate reductase subunit gamma,2,2,2,2,ancestral,no
+response regulator,1,1,1,32,I6_specific,no
+response regulator transcription factor,1,1,1,66,I6_specific,no
+restriction endonuclease subunit S,2,2,2,1,isolate_specific,yes
+retron-type reverse transcriptase,2,2,2,1,isolate_specific,no
+rhamnulokinase,1,1,1,2,I6_specific,no
+ribokinase,3,3,3,2,copy_number_variant,yes
+ribonuclease J,1,1,1,2,I6_specific,no
+ribose-phosphate diphosphokinase,2,2,2,2,ancestral,no
+ribosomal protection-like ABC-F family protein,6,6,6,1,isolate_specific,no
+ribosome small subunit-dependent GTPase A,2,2,2,2,ancestral,no
+ribulokinase,2,2,2,2,ancestral,no
+ribulose-phosphate 3-epimerase,3,3,3,2,copy_number_variant,yes
+right-handed parallel beta-helix repeat-containing protein,1,1,1,7,I6_specific,no
+rod shape-determining protein,1,1,1,2,I6_specific,no
+saccharopine dehydrogenase family protein,1,1,1,2,I6_specific,no
+sensor domain-containing diguanylate cyclase,1,1,1,5,I6_specific,no
+sensor histidine kinase,1,1,1,65,I6_specific,yes
+serine hydrolase,1,1,1,4,I6_specific,no
+serine hydrolase domain-containing protein,1,1,1,6,I6_specific,no
+serine--tRNA ligase,2,2,2,2,ancestral,no
+serine-type D-Ala-D-Ala carboxypeptidase,2,2,2,1,isolate_specific,no
+serine/threonine protein kinase,1,1,1,3,I6_specific,no
+serine/threonine-protein kinase,1,1,1,2,I6_specific,no
+sigma factor-like helix-turn-helix DNA-binding protein,1,1,1,3,I6_specific,no
+sigma-54 interaction domain-containing protein,1,1,1,2,I6_specific,no
+sigma-70 family RNA polymerase sigma factor,1,1,1,9,I6_specific,no
+signal peptidase I,2,2,2,2,ancestral,no
+small%2C acid-soluble spore protein%2C alpha/beta type,1,1,1,2,I6_specific,no
+sn-glycerol-1-phosphate dehydrogenase,1,1,1,2,I6_specific,no
+spore coat protein,1,1,1,6,I6_specific,no
+spore cortex-lytic enzyme,2,2,2,2,ancestral,no
+spore germination protein,1,1,1,18,I6_specific,no
+spore protease YyaC,2,2,2,2,ancestral,no
+sporulation protein YjcZ,1,1,1,4,I6_specific,no
+stage II sporulation protein M,1,1,1,2,I6_specific,no
+stage V sporulation protein AC,2,2,2,2,ancestral,no
+stage V sporulation protein AD,2,2,2,2,ancestral,no
+stage VI sporulation protein F,1,1,1,2,I6_specific,no
+stalk domain-containing protein,2,2,2,8,copy_number_variant,no
+substrate-binding domain-containing protein,1,1,1,5,I6_specific,no
+sucrose phosphorylase,2,2,2,2,ancestral,no
+sucrose-specific PTS transporter subunit IIBC,1,1,1,2,I6_specific,no
+sugar ABC transporter ATP-binding protein,1,1,1,3,I6_specific,no
+sugar ABC transporter permease,1,1,1,4,I6_specific,no
+sugar ABC transporter substrate-binding protein,1,1,1,6,I6_specific,no
+sugar phosphate isomerase/epimerase family protein,1,1,1,14,I6_specific,no
+sugar phosphate nucleotidyltransferase,1,1,1,4,I6_specific,no
+sugar transferase,1,1,1,2,I6_specific,no
+sugar-binding protein,1,1,1,2,I6_specific,no
+sulfatase,1,1,1,5,I6_specific,no
+sulfatase family protein,1,1,1,2,I6_specific,no
+sulfatase-like hydrolase/transferase,1,1,1,3,I6_specific,no
+superoxide dismutase,1,1,1,2,I6_specific,no
+suppressor of fused domain protein,1,1,1,2,I6_specific,no
+tagaturonate reductase,1,1,1,2,I6_specific,no
+tautomerase family protein,1,1,1,2,I6_specific,no
+tetratricopeptide repeat protein,1,1,1,8,I6_specific,no
+thiamine phosphate synthase,1,1,1,2,I6_specific,no
+thiol reductant ABC exporter subunit CydC,1,1,1,2,I6_specific,no
+thioredoxin,4,4,4,3,copy_number_variant,yes
+thioredoxin family protein,1,1,1,3,I6_specific,no
+thioredoxin-disulfide reductase,2,2,2,2,ancestral,no
+threonine synthase,2,2,2,2,ancestral,no
+threonine--tRNA ligase,2,2,2,2,ancestral,no
+threonine/serine exporter family protein,1,1,1,2,I6_specific,no
+transcriptional regulator,3,3,3,4,copy_number_variant,no
+transglutaminase domain-containing protein,1,1,1,2,I6_specific,no
+transglutaminase-like domain-containing protein,1,1,1,2,I6_specific,no
+transketolase,1,1,1,3,I6_specific,no
+transketolase family protein,1,1,1,2,I6_specific,no
+transporter substrate-binding domain-containing protein,1,1,1,2,I6_specific,no
+transposase,7,7,7,59,copy_number_variant,no
+twin-arginine translocase TatA/TatE family subunit,1,1,1,2,I6_specific,no
+type I glutamate--ammonia ligase,2,2,2,2,ancestral,no
+type I methionyl aminopeptidase,4,4,4,3,copy_number_variant,yes
+type I-C CRISPR-associated protein Cas5c,1,1,1,2,I6_specific,yes
+type I-C CRISPR-associated protein Cas7/Csd2,1,1,1,3,I6_specific,yes
+type I-C CRISPR-associated protein Cas8c/Csd1,1,1,1,2,I6_specific,yes
+type II secretion system F family protein,1,1,1,3,I6_specific,no
+type II toxin-antitoxin system RelE/ParE family toxin,1,1,1,2,I6_specific,no
+type II toxin-antitoxin system prevent-host-death family antitoxin,1,1,1,2,I6_specific,no
+tyrosine recombinase XerS,2,2,2,2,ancestral,no
+tyrosine--tRNA ligase,2,2,2,2,ancestral,no
+tyrosine-type recombinase/integrase,1,1,1,7,I6_specific,no
+undecaprenyl-diphosphate phosphatase,2,2,2,2,ancestral,no
+undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase,2,2,2,1,isolate_specific,yes
+universal stress protein,1,1,1,2,I6_specific,no
+uracil-DNA glycosylase,1,1,1,2,I6_specific,no
+vWA domain-containing protein,1,1,1,5,I6_specific,no
+von Willebrand factor type A domain protein,2,2,2,1,isolate_specific,no
+winged helix-turn-helix domain-containing protein,1,1,1,3,I6_specific,no
+winged helix-turn-helix transcriptional regulator,1,1,1,11,I6_specific,no
+xanthine phosphoribosyltransferase,2,2,2,2,ancestral,no
+zf-HC2 domain-containing protein,1,1,1,2,I6_specific,no
+zinc ribbon domain-containing protein,1,1,1,3,I6_specific,no
+zinc-binding alcohol dehydrogenase family protein,1,1,1,3,I6_specific,no
+zinc-binding dehydrogenase,1,1,1,3,I6_specific,no
+zinc-dependent alcohol dehydrogenase,1,1,1,2,I6_specific,no

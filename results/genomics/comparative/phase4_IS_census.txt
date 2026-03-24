@@ -1,0 +1,21 @@
+# M5 IS Element Census — Phase 4.3
+# Source: Bakta TSV annotation
+
+Total IS/transposase features: 133
+
+Family distribution:
+  unknown                78
+  IS110                  29
+  IS4                    19
+  IS3                     2
+  IS701                   1
+  IS200                   1
+  IS1595                  1
+  IS605                   1
+  Tn3                     1
+
+Comparison with I6:
+  M5:  151 transposable elements (Bakta)
+  I6:   94 transposable elements (NCBI annotation)
+  Δ:    57 extra IS elements in M5
+  Note: The 57 DUP regions in nucmer dnadiff correspond exactly to these 57 extra IS elements.

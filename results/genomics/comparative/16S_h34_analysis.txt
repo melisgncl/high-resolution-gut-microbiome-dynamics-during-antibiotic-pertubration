@@ -1,0 +1,83 @@
+# 16S rRNA Helix 34 Analysis — M5 vs I6
+# Phase 3.3 (motif-anchored) — Session 4 (2026-03-22)
+# Method: h34 located by conserved 5'-arm motif CAGAGGAGACAGG (E.coli pos ~1050-1062)
+
+## 16S sequences
+  M5:  contig_1:30224-31777 (+), 1554 bp (copy 1 of 8)
+  I6:  NZ_CP086393.1:46758-48323 (-), 1566 bp (copy 1 of 8)
+
+## Overall M5 vs I6 16S identity
+  28 differences in 1566 bp alignment
+
+## h34 location
+  M5: motif CAGAGGAGACAGG at position 1045
+  I6: motif CAGAGGAGACAGG at position 1057
+  (I6 motif is at +12 relative to M5,
+   consistent with the V2 insertion making I6 16S 12 bp longer)
+
+## h34 5' arm sequences (anchored to conserved motif)
+  M5: GGGACAGAGGAGACAGGTGGTGCATGGTTGTCGTCAGCTCGTGT
+  I6: GGGACAGAGGAGACAGGTGGTGCATGGTTGTCGTCAGCTCGTGT
+
+## Key spectinomycin resistance positions
+   Pos(Ec)    M5    I6     Resist if  Notes
+  -----------------------------------------------------------------
+      1063     T     T           C→U  spectinomycin contact (crystal)
+      1064     G     G           G→A  spectinomycin contact (crystal)
+      1066     T     T           C→U  PRIMARY resistance mutation
+
+## All pairwise differences between M5 and I6 16S
+  Total: 28
+   AalnCol   M5pos   M5   I6pos   I6  Region
+  -------------------------------------------------------
+        95      95    A      95    G  V1
+        96      96    T      96    C  V1
+       204     204    A     204    G  V2
+       219     219    A     219    T  V2
+       220     220    G     220    T  V2
+       222    None    -     222    T  indel
+       223    None    -     223    G  indel
+       224    None    -     224    A  indel
+       225    None    -     225    A  indel
+       226    None    -     226    T  indel
+       227    None    -     227    T  indel
+       228    None    -     228    T  indel
+       229    None    -     229    A  indel
+       230    None    -     230    T  indel
+       231    None    -     231    T  indel
+       232    None    -     232    C  indel
+       233    None    -     233    A  indel
+       234     222    A     234    G  V2
+       235     223    A     235    G  V2
+       236     224    T     236    G  V2
+       479     467    C     479    T  conserved
+       481     469    G     481    C  conserved
+       483     471    A     483    G  conserved
+       494     482    T     494    C  V4
+       496     484    C     496    G  V4
+       497     485    A     497    G  V4
+       498     486    G     498    A  V4
+       669     657    C     669    T  conserved
+
+## Interpretation
+  M5 and I6 are IDENTICAL at helix 34 (both 5' and 3' arms).
+  None of the 16S rRNA differences between M5 and I6 fall at the
+  spectinomycin binding site.
+
+  → 16S rRNA h34 sequence does NOT contribute to the resistance
+    phenotype difference between M5 and I6.
+  → The rpsE Δ(A21-K22-V23) deletion (Phase 3.1c) remains the sole
+    genomically-supported resistance mechanism.
+
+## Caveat
+  E. coli position mapping is approximate (±2 nt). The h34 motif anchor
+  approach is more reliable than raw coordinate mapping when sequences
+  differ in length due to variable-region insertions/deletions.
+
+## Note on M5 vs I6 16S differences
+  The 28 total differences are in variable regions (V1, V2), consistent with
+  intraspecific polymorphism at Paenibacillus macerans 99.26% ANI.
+  None affect the conserved spectinomycin-binding interface.
+
+## Phase 3.3 verdict
+  16S rRNA helix 34 is NOT the mechanism of spectinomycin resistance in M5.

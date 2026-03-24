@@ -1,0 +1,313 @@
+# Genes present in I6 but ABSENT from M5/M6/M8
+# Total: 309
+
+Group	Annotation	I6_locus
+group_4909	transposase	cds-WP_240752014.1-3
+group_4908	BlaI/MecI/CopY family transcriptional regulator	cds-WP_155621363.1
+group_4907	BlaI/MecI/CopY family transcriptional regulator	cds-WP_155621352.1
+group_4906	transposase	cds-WP_240751900.1
+group_4905	hypothetical protein	cds-WP_155621324.1-2
+group_4904	putative holin-like toxin	cds-WP_230877290.1
+group_4885	ABC transporter ATP-binding protein	cds-LMZ02_RS27235_pseudo
+group_4882	DUF3500 domain-containing protein	cds-WP_218032593.1
+group_4850	hypothetical protein	cds-WP_269059123.1
+group_4842	hypothetical protein	cds-WP_269059122.1
+group_4841	hypothetical protein	cds-WP_269059145.1
+group_4835	hypothetical protein	cds-WP_276323180.1
+group_4834	hypothetical protein	cds-LMZ02_RS31820_pseudo
+group_4829	hypothetical protein	cds-WP_155620503.1
+group_4823	hypothetical protein	cds-WP_155621191.1
+group_4822	hypothetical protein	cds-WP_240752445.1
+group_4820	DUF2179 domain-containing protein	cds-LMZ02_RS07035_pseudo
+group_4817	hypothetical protein	cds-WP_155619414.1
+group_4813	hypothetical protein	cds-WP_240751894.1
+group_4812	hypothetical protein	cds-WP_155620827.1
+group_4800	hypothetical protein	cds-WP_240751844.1
+group_4795	hypothetical protein	cds-WP_196427467.1
+group_4789	hypothetical protein	cds-WP_155619986.1
+group_4788	YvrJ family protein	cds-WP_155619712.1
+group_4782	CRISPR-associated endonuclease Cas2	cds-LMZ02_RS07180_pseudo
+group_4775	hypothetical protein	cds-WP_240751843.1
+group_4765	ArsB/NhaD family transporter	cds-WP_316561616.1
+group_4759	hypothetical protein	cds-WP_316560790.1
+group_4758	hypothetical protein	cds-WP_170180043.1
+group_4750	hypothetical protein	cds-WP_170179988.1
+group_4743	spore gernimation protein GerPD	cds-WP_373281400.1
+group_4718	hypothetical protein	cds-WP_155619716.1
+group_4717	hypothetical protein	cds-WP_155619221.1
+group_4709	hypothetical protein	cds-WP_155621122.1
+group_4688	hypothetical protein	cds-WP_240751770.1
+group_4687	helix-turn-helix domain-containing protein	cds-WP_124331833.1
+group_4675	nucleotidyltransferase family protein	cds-WP_316561332.1
+group_4674	hypothetical protein	cds-WP_420874621.1
+group_4673	hypothetical protein	cds-WP_155621357.1
+group_4672	hypothetical protein	cds-WP_155620526.1
+group_4663	helix-turn-helix domain-containing protein	cds-WP_240752283.1
+group_4662	helix-turn-helix domain-containing protein	cds-WP_196427483.1
+group_4645	(4Fe-4S)-binding protein	cds-WP_230877088.1
+group_4626	hypothetical protein	cds-WP_240752176.1
+group_4613	DUF3969 family protein	cds-WP_155619768.1
+group_4605	spore germination protein GerPB	cds-WP_155620105.1
+group_4590	hypothetical protein	cds-WP_326044416.1
+group_4578	hypothetical protein	cds-WP_155619216.1
+group_4557	hypothetical protein	cds-WP_213510592.1
+group_4556	hypothetical protein	cds-WP_155621450.1
+group_4524	hypothetical protein	cds-WP_155619592.1
+group_4482	type II toxin-antitoxin system prevent-host-death family antitoxin	cds-WP_155620524.1
+group_4481	helix-turn-helix domain-containing protein	cds-WP_155620523.1
+group_4453	hypothetical protein	cds-WP_155621364.1
+group_4439	DUF2808 domain-containing protein	cds-WP_230877257.1
+group_4438	copper amine oxidase N-terminal domain-containing protein	cds-WP_036618928.1
+group_4426	tyrosine-type recombinase/integrase	cds-WP_230877123.1
+group_4409	hypothetical protein	cds-WP_155620899.1
+group_4400	hypothetical protein	cds-WP_240752153.1
+group_4391	hypothetical protein	cds-WP_155621353.1
+group_4371	DUF1648 domain-containing protein	cds-WP_155620058.1
+group_4364	ArsR/SmtB family transcription factor	cds-WP_155619949.1
+group_4363	GNAT family N-acetyltransferase	cds-WP_155620097.1
+group_4350	hypothetical protein	cds-WP_240752476.1
+group_4349	hypothetical protein	cds-WP_240752475.1
+group_4348	hypothetical protein	cds-WP_124333419.1
+group_4347	Dabb family protein	cds-WP_036618354.1
+group_4331	CRISPR-associated endonuclease Cas2	cds-WP_128631161.1
+group_4318	DUF6809 family protein	cds-WP_155621205.1
+group_4304	helix-turn-helix transcriptional regulator	cds-WP_036618353.1
+group_4296	hypothetical protein	cds-WP_240752490.1
+group_4295	YciI family protein	cds-WP_036625878.1
+group_4277	MmcQ/YjbR family DNA-binding protein	cds-LMZ02_RS09840_pseudo
+group_4253	hypothetical protein	cds-WP_155619725.1
+group_4233	hypothetical protein	cds-WP_155620522.1
+isdG	heme oxygenase	cds-WP_240752382.1
+group_4213	hypothetical protein	cds-WP_036625563.1
+group_4160	hypothetical protein	cds-WP_155620059.1
+group_4159	hypothetical protein	cds-WP_155620076.1
+group_4102	hypothetical protein	cds-WP_196427586.1
+group_4101	hypothetical protein	cds-WP_227877028.1
+group_4080	HIRAN domain-containing protein	cds-WP_155620889.1
+group_4066	DUF4180 domain-containing protein	cds-WP_036626331.1
+group_4058	winged helix-turn-helix transcriptional regulator	cds-WP_155621047.1
+group_4032	MerR family transcriptional regulator	cds-WP_155620636.1
+group_4023	DUF2304 domain-containing protein	cds-WP_411831164.1
+group_4013	YbaN family protein	cds-WP_036626075.1
+group_4012	SAM-dependent methyltransferase	cds-WP_051985206.1
+group_4004	hypothetical protein	cds-WP_155619988.1
+group_3987	hypothetical protein	cds-WP_124333250.1
+group_3978	nuclear transport factor 2 family protein	cds-WP_036618366.1
+group_3969	RidA family protein	cds-WP_036618356.1
+group_3957	nuclear transport factor 2 family protein	cds-WP_230876939.1
+group_3956	VOC family protein	cds-WP_036618362.1
+group_3939	sigma-70 family RNA polymerase sigma factor	cds-WP_155619717.1
+group_3875	GtrA family protein	cds-WP_411831165.1
+group_3841	hypothetical protein	cds-WP_155619714.1
+group_3835	hypothetical protein	cds-WP_127463459.1
+group_3813	IS110 family transposase	cds-WP_240751671.1
+group_3812	hypothetical protein	cds-WP_051985159.1
+group_3799	MerR family transcriptional regulator	cds-WP_036618364.1
+group_3791	Lrp/AsnC family transcriptional regulator	cds-WP_036618369.1
+group_3780	class I SAM-dependent methyltransferase	cds-WP_230877193.1
+group_3779	hypothetical protein	cds-WP_155620743.1
+group_3766	hypothetical protein	cds-WP_155619715.1
+group_3765	very short patch repair endonuclease	cds-WP_155619219.1
+group_3752	NEAT domain-containing protein	cds-WP_051985703.1
+group_3751	NUDIX hydrolase	cds-WP_124333420.1
+group_3709	PTS sugar transporter subunit IIA	cds-WP_155620080.1
+group_3708	MarR family transcriptional regulator	cds-WP_036618357.1
+group_3702	MarR family transcriptional regulator	cds-WP_155620081.1
+group_3691	hypothetical protein	cds-WP_230876940.1
+group_3621	hypothetical protein	cds-WP_240751980.1
+group_3620	Rpn family recombination-promoting nuclease/putative transposase	cds-WP_155621367.1
+group_3590	hypothetical protein	cds-WP_155621158.1
+group_3577	PadR family transcriptional regulator	cds-WP_155620779.1
+group_3576	hypothetical protein	cds-WP_155619217.1
+group_3517	hypothetical protein	cds-WP_155619720.1
+group_3498	hypothetical protein	cds-WP_213510593.1
+group_3485	PadR family transcriptional regulator	cds-WP_155620504.1
+group_3484	hypothetical protein	cds-WP_155621322.1
+group_3478	HXXEE domain-containing protein	cds-WP_155620735.1
+group_3460	hypothetical protein	cds-WP_155620098.1
+group_3436	hypothetical protein	cds-WP_036618360.1
+group_3406	DUF1788 domain-containing protein	cds-WP_155620893.1
+group_3405	hypothetical protein	cds-WP_155620776.1
+group_3382	TetR/AcrR family transcriptional regulator	cds-WP_036627233.1
+group_3356	accessory gene regulator B family protein	cds-WP_155621354.1
+group_3355	O-methyltransferase	cds-WP_124333421.1
+group_3345	TetR/AcrR family transcriptional regulator	cds-WP_155620095.1
+group_3344	Uma2 family endonuclease	cds-WP_155620846.1
+group_3332	TetR/AcrR family transcriptional regulator	cds-WP_036627239.1
+group_3321	GNAT family N-acetyltransferase	cds-WP_306308149.1
+group_3302	DUF1819 family protein	cds-WP_155620892.1
+group_3288	hypothetical protein	cds-WP_240751623.1
+group_3278	GNAT family N-acetyltransferase	cds-WP_155621239.1
+group_3271	ergot alkaloid biosynthesis protein	cds-WP_326044417.1
+group_3256	helix-turn-helix domain-containing protein	cds-WP_240751622.1
+group_3244	Fic/DOC family protein	cds-WP_155620525.1
+group_3237	transposase	cds-WP_240752559.1
+group_3180	SDR family NAD(P)-dependent oxidoreductase	cds-WP_036618367.1
+group_3161	TetR/AcrR family transcriptional regulator	cds-WP_155620074.1
+group_3160	type I-C CRISPR-associated protein Cas7/Csd2	cds-LMZ02_RS07170_pseudo
+group_3145	CRISPR-associated protein Cas4	cds-WP_240752289.1
+group_3144	CRISPR-associated protein Cas4	cds-WP_240752575.1
+group_3143	transposase	cds-WP_240752267.1
+group_3132	thioesterase II family protein	cds-WP_196427540.1
+group_3112	ABC transporter permease	cds-WP_240751734.1
+group_3111	Type 1 glutamine amidotransferase-like domain-containing protein	cds-WP_155620777.1
+group_3088	transposase	cds-WP_240751672.1
+group_3068	hypothetical protein	cds-WP_240751973.1
+group_3034	type I-C CRISPR-associated protein Cas5c	cds-WP_240752292.1
+group_3033	DUF4241 domain-containing protein	cds-WP_196427448.1
+group_3023	ATP-binding protein	cds-WP_240751902.1
+group_3017	DUF2461 domain-containing protein	cds-WP_240752045.1
+group_2986	phosphotransferase	cds-WP_170180048.1
+group_2977	hypothetical protein	cds-WP_124333184.1
+group_2969	glycosyltransferase family 2 protein	cds-WP_240752107.1
+group_2959	type I-C CRISPR-associated protein Cas5c	cds-WP_155619708.1
+group_2942	hypothetical protein	cds-WP_155621323.1
+group_2925	response regulator transcription factor	cds-WP_276307693.1
+group_2903	LytR/AlgR family response regulator transcription factor	cds-WP_196427596.1
+group_2875	ABC transporter ATP-binding protein	cds-WP_240752417.1
+group_2864	AraC family transcriptional regulator	cds-WP_155620063.1
+group_2855	SDR family NAD(P)-dependent oxidoreductase	cds-WP_155620072.1
+group_2843	transposase	cds-WP_240752268.1
+group_2831	lipid II flippase Amj family protein	cds-WP_051985517.1
+group_2817	ABC transporter permease	cds-WP_155620633.1
+allE	(S)-ureidoglycine aminohydrolase	cds-WP_240752410.1
+group_2796	BglG family transcription antiterminator LicT	cds-WP_276323206.1
+group_2776	ABC transporter ATP-binding protein	cds-WP_036626081.1
+isdC	heme uptake protein IsdC	cds-WP_155620822.1
+group_2755	class I SAM-dependent methyltransferase	cds-WP_036624306.1
+group_2746	hypothetical protein	cds-WP_155619721.1
+group_2731	ABC transporter permease	cds-WP_240752113.1
+group_2718	transposase	cds-WP_240752557.1
+group_2705	metallophosphoesterase	cds-WP_051985704.1
+group_2697	DJ-1/PfpI family protein	cds-WP_155620043.1
+group_2689	nucleotidyltransferase domain-containing protein	cds-WP_155620073.1
+group_2667	ABC transporter ATP-binding protein	cds-WP_240752384.1
+group_2655	polysaccharide deacetylase family protein	cds-WP_240752567.1
+srtB	class B sortase	cds-WP_036626078.1
+group_2607	CRISPR-associated endonuclease Cas3''	cds-WP_240752288.1
+group_2586	carbohydrate ABC transporter permease	cds-WP_155620069.1
+group_2556	sialate O-acetylesterase	cds-WP_155620780.1
+group_2488	hypothetical protein	cds-WP_155620092.1
+group_2486	glycosyltransferase	cds-WP_240752110.1
+group_2452	type I-C CRISPR-associated protein Cas7/Csd2	cds-WP_240752282.1
+group_2451	aldo/keto reductase	cds-WP_155619222.1
+group_2438	patatin-like phospholipase family protein	cds-WP_155620637.1
+group_2423	type I-C CRISPR-associated protein Cas7/Csd2	cds-WP_240752294.1
+rfbA	glucose-1-phosphate thymidylyltransferase RfbA	cds-WP_240752114.1
+group_2373	ABC transporter permease	cds-WP_240752416.1
+group_2361	DUF5643 domain-containing protein	cds-WP_127463434.1
+group_2349	carbohydrate ABC transporter permease	cds-WP_240751895.1
+group_2348	TetR/AcrR family transcriptional regulator	cds-WP_155620057.1
+group_2224	carbohydrate ABC transporter permease	cds-WP_036622943.1
+group_2223	SDR family oxidoreductase	cds-WP_051985685.1
+group_2213	carbohydrate ABC transporter permease	cds-WP_155620088.1
+isdE	heme ABC transporter substrate-binding protein IsdE	cds-WP_036626086.1
+group_2194	copper amine oxidase N-terminal domain-containing protein	cds-WP_155619719.1
+group_2193	SDR family oxidoreductase	cds-WP_036618351.1
+group_2172	ABC transporter ATP-binding protein	cds-WP_036623188.1
+group_2156	transposase	cds-WP_155619614.1
+group_2155	transposase	cds-WP_213509534.1
+group_2154	hypothetical protein	cds-WP_155620093.1
+group_2100	ABC transporter permease	cds-WP_155620873.1
+group_2089	carbohydrate ABC transporter permease	cds-WP_196427502.1
+group_2026	Rpn family recombination-promoting nuclease/putative transposase	cds-WP_155620396.1
+group_2025	carbohydrate ABC transporter permease	cds-WP_155620849.1
+group_1982	ABC transporter substrate-binding protein	cds-WP_124333280.1
+group_1877	2-hydroxyacid dehydrogenase	cds-WP_240752409.1
+group_1876	pyruvate kinase	cds-WP_124333422.1
+group_1829	AraC family transcriptional regulator	cds-WP_196427503.1
+group_1828	FecCD family ABC transporter permease	cds-WP_036626083.1
+group_1811	FecCD family ABC transporter permease	cds-WP_213510801.1
+group_1803	glycosyl hydrolase	cds-WP_227877116.1
+group_1777	SGNH/GDSL hydrolase family protein	cds-WP_155620091.1
+group_1755	glycoside hydrolase family 130 protein	cds-WP_240751763.1
+group_1754	LacI family DNA-binding transcriptional regulator	cds-WP_155620842.1
+group_1729	potassium channel protein	cds-WP_240752192.1
+group_1683	type I-C CRISPR-associated endonuclease Cas1c	cds-WP_155619711.1
+group_1653	zinc-binding dehydrogenase	cds-WP_155620738.1
+group_1618	aldo/keto reductase	cds-WP_155620096.1
+group_1581	radical SAM protein	cds-WP_155619747.1
+group_1572	NAD(P)/FAD-dependent oxidoreductase	cds-WP_155619588.1
+group_1537	DUF4236 domain-containing protein	cds-WP_155619724.1
+group_1525	ankyrin repeat domain-containing protein	cds-WP_036618359.1
+group_1501	radical SAM/SPASM domain-containing protein	cds-WP_240751903.1
+group_1489	glycosyltransferase	cds-WP_240752109.1
+group_1450	ABC transporter substrate-binding protein	cds-WP_240752415.1
+group_1371	DUF4179 domain-containing protein	cds-WP_164815243.1
+group_1309	ABC transporter permease	cds-WP_155621370.1
+group_1304	MFS transporter	cds-WP_155620505.1
+group_1292	MFS transporter	cds-WP_155619950.1
+group_1291	acyltransferase family protein	cds-WP_155621321.1
+group_1225	type II restriction endonuclease	cds-WP_155619220.1
+group_1199	MFS transporter	cds-WP_240751766.1
+group_1170	helix-turn-helix domain-containing protein	cds-WP_155620061.1
+group_1127	MFS transporter	cds-WP_155620362.1
+allC	allantoate deiminase	cds-WP_240752412.1
+dcm	DNA (cytosine-5-)-methyltransferase	cds-WP_155619218.1
+group_1085	ABC transporter substrate-binding protein	cds-WP_155620067.1
+group_1078	McrC family protein	cds-WP_196427557.1
+group_1068	group II intron reverse transcriptase/maturase	cds-WP_213511364.1
+group_1020	reverse transcriptase/maturase family protein	cds-WP_155620900.1
+group_1007	ABC transporter substrate-binding protein	cds-WP_230877201.1
+group_966	MFS transporter	cds-WP_240752317.1
+group_933	MFS transporter	cds-WP_155620062.1
+group_893	PTS transporter subunit EIIC	cds-WP_155620078.1
+group_877	FAD-dependent oxidoreductase	cds-WP_155620090.1
+allB	allantoinase AllB	cds-WP_240752414.1
+group_856	condensation domain-containing protein	cds-WP_196427542.1
+group_850	ABC transporter substrate-binding protein	cds-WP_155620087.1
+group_805	glycoside hydrolase family 1 protein	cds-WP_155621326.1
+group_790	MFS transporter	cds-WP_240752241.1
+group_759	ABC transporter permease	cds-WP_155621369.1
+group_746	glycoside hydrolase family 1 protein	cds-WP_155620079.1
+group_714	NAD-dependent epimerase/dehydratase family protein	cds-WP_155620075.1
+group_707	glycoside hydrolase family 43 protein	cds-WP_124332544.1
+group_700	monooxygenase	cds-WP_036618355.1
+group_616	response regulator transcription factor	cds-WP_170180023.1
+group_605	M56 family metallopeptidase	cds-WP_155621362.1
+group_593	response regulator	cds-WP_240752089.1
+group_589	M56 family metallopeptidase	cds-WP_240751901.1
+group_577	SIR2 family protein	cds-WP_155620896.1
+group_576	response regulator transcription factor	cds-WP_196427501.1
+group_564	DUF3502 domain-containing protein	cds-WP_240752088.1
+group_529	response regulator	cds-WP_036622941.1
+group_519	ABC transporter ATP-binding protein	cds-WP_240752112.1
+cydC	thiol reductant ABC exporter subunit CydC	cds-WP_036626070.1
+group_473	ABC transporter substrate-binding protein	cds-WP_240751664.1
+group_462	sensor histidine kinase	cds-WP_240752090.1
+group_444	ABC transporter ATP-binding protein	cds-WP_155621368.1
+group_443	ABC transporter ATP-binding protein/permease	cds-WP_240752386.1
+group_428	ABC transporter ATP-binding protein	cds-WP_155621360.1
+group_411	cache domain-containing sensor histidine kinase	cds-WP_240751764.1
+group_398	hypothetical protein	cds-WP_240751919.1
+group_382	sensor histidine kinase	cds-WP_036623842.1
+group_378	cache domain-containing sensor histidine kinase	cds-WP_155620065.1
+group_371	ABC transporter ATP-binding protein	cds-WP_155621361.1
+group_357	ABC transporter substrate-binding protein	cds-WP_155621371.1
+group_351	type I-C CRISPR-associated protein Cas8c/Csd1	cds-WP_240752293.1
+group_331	type I-C CRISPR-associated protein Cas8c/Csd1	cds-WP_240752281.1
+group_326	beta-glucoside-specific PTS transporter subunit IIABC	cds-WP_155621327.1
+group_314	AAA family ATPase	cds-WP_213510441.1
+group_309	FAD-dependent oxidoreductase	cds-WP_240751767.1
+brxL	protease Lon-related BREX system protein BrxL	cds-WP_155620898.1
+group_241	beta-galactosidase	cds-WP_240752087.1
+group_216	beta-lactamase family protein	cds-WP_240752298.1
+group_213	CRISPR-associated helicase Cas3'	cds-WP_240752291.1
+group_199	family 16 glycoside hydrolase	cds-WP_230877080.1
+group_179	beta-glucosidase	cds-WP_240751768.1
+group_153	class I SAM-dependent methyltransferase	cds-WP_240752111.1
+group_142	PEP/pyruvate-binding domain-containing protein	cds-WP_196427543.1
+group_139	alpha-L-rhamnosidase C-terminal domain-containing protein	cds-WP_155620071.1
+helD	RNA polymerase recycling motor HelD	cds-WP_155620052.1
+group_136	alpha-L-rhamnosidase C-terminal domain-containing protein	cds-WP_155620070.1
+cas3	CRISPR-associated helicase Cas3'	cds-WP_240752280.1
+group_118	NEAT domain-containing protein	cds-WP_155620821.1
+pglZ	BREX-1 system phosphatase PglZ type A	cds-WP_155620897.1
+group_106	ABC transporter permease	cds-WP_155619953.1
+group_85	alpha-L-rhamnosidase	cds-WP_196427499.1
+group_76	DUF7657 domain-containing protein	cds-WP_240752108.1
+group_75	alpha-L-rhamnosidase	cds-WP_240751769.1
+pglX	BREX-1 system adenine-specific DNA-methyltransferase PglX	cds-WP_213510439.1
+brxC	BREX system P-loop protein BrxC	cds-WP_155620894.1
+group_13	amino acid adenylation domain-containing protein	cds-WP_196427541.1
+group_0	type I polyketide synthase	cds-WP_155620737.1

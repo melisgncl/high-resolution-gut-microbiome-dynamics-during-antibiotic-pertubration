@@ -1,0 +1,33 @@
+# rsmI Comparison — M5 vs I6
+# Phase 3.4 — Session 4 (2026-03-22)
+
+## Gene information
+  M5:  NKFIDM_00044 at contig_1:51713-52606 (+)
+       Product: 16S rRNA (cytidine(1402)-2'-O)-methyltransferase
+       EC: 2.1.1.198 | RefSeq match: WP_036618147.1
+  I6:  LMZ02_RS05655 at NZ_CP086393.1:1236581-1237474 (+)
+       Product: 16S rRNA (cytidine(1402)-2'-O)-methyltransferase
+       protein_id: WP_036618147.1
+
+## Sequence comparison
+  M5 rsmI length: 297 aa
+  I6 rsmI length: 297 aa
+  Identity: IDENTICAL
+
+## Interpretation
+  rsmI encodes the methyltransferase that adds a 2'-O-methyl group to C1402
+  of 16S rRNA. C1402 is in helix 44 (h44) of the 30S subunit decoding center,
+  NOT in helix 34 (the spectinomycin binding site). Methylation at C1402 by rsmI
+  is conserved in bacteria and does not directly affect spectinomycin affinity.
+
+  Note: The spectinomycin-relevant methyltransferase would be rsmH (m4C1402),
+  which methylates C1402 at N4. Both M5 and I6 carry rsmH (see GFF).
+
+  M5 rsmI is IDENTICAL to I6 rsmI. Any spectinomycin resistance in M5
+  cannot be attributed to rsmI sequence differences.
+  → rsmI contributes NOTHING to the resistance phenotype difference between M5 and I6.
+
+## Phase 3.4 verdict
+  rsmI sequence difference does NOT explain spectinomycin resistance in M5.
+  The rpsE Δ(A21-K22-V23) deletion (Phase 3.1/3.1c) remains the sole
+  genomically-supported resistance mechanism.

@@ -1,0 +1,39 @@
+# ICE Donor Identification via NCBI Entrez
+# Phase 4 — Session 4 (2026-03-23)
+# Method: NCBI esummary on WP_ protein accessions → source organism
+
+## 108 kb ICE (1,285,651–1,393,969) — key marker genes
+
+  Locus             WP Accession          Organism                             Product
+  ----------------------------------------------------------------------------------------------------
+  NKFIDM_01129      WP_216539118.1        Paenibacillus                        Recombinase
+  NKFIDM_01139      WP_255222961.1        Paenibacillus sp. 7541               Mobilization protein
+  NKFIDM_01140      WP_036623496.1        Paenibacillaceae                     Relaxase
+  NKFIDM_01144      WP_036623490.1        Paenibacillaceae                     VirD4 coupling protein
+  NKFIDM_01151      WP_036623477.1        Paenibacillaceae                     VirB4 ATPase
+  NKFIDM_01200      WP_036628241.1        Paenibacillus                        Conjugal transfer protein
+  NKFIDM_01201      WP_227872718.1        Paenibacillus                        Conj. transposon recombinase
+
+## 25 kb second ICE (2,911,705–2,936,697) — conjugation machinery
+
+  Locus             WP Accession          Organism                             Product
+  ----------------------------------------------------------------------------------------------------
+  NKFIDM_02502      WP_326048335.1        Paenibacillus macerans               DUF4368 domain-containing protein
+  NKFIDM_02503      WP_326048334.1        Paenibacillus macerans               DUF6870 domain-containing protein
+  NKFIDM_02504      WP_326048333.1        Paenibacillus macerans               DUF4250 domain-containing protein
+  NKFIDM_02506      WP_326048331.1        Paenibacillus macerans               Conjugal transfer protein
+  NKFIDM_02507      WP_326048330.1        Paenibacillus macerans               Methyltransferase domain-containing protein
+  NKFIDM_02508      WP_326048329.1        Paenibacillus macerans               TetR family transcriptional regulator
+  NKFIDM_02509      WP_326048328.1        Paenibacillus macerans               MobA/VirD2-like nuclease domain-containing protein
+  NKFIDM_02510      WP_326048327.1        Paenibacillus macerans               EscS/YscS/HrcS family type III secretion system ex
+  NKFIDM_02511      WP_326048326.1        Paenibacillus macerans               GNAT family N-acetyltransferase
+  NKFIDM_02513      WP_326048324.1        Paenibacillus macerans               DUF4316 domain-containing protein
+
+## Note on WP_ accessions
+  WP_ (non-redundant RefSeq protein) accessions represent conserved proteins
+  across multiple genomes. The 'organism' field shows one representative source,
+  but the protein may exist in many organisms. For donor identification, the
+  organism shown is the most taxonomically representative match in RefSeq.
+
+## Interpretation
+  [Filled from output above]

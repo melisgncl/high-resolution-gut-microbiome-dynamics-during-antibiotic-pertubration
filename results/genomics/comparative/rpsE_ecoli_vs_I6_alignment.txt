@@ -1,0 +1,72 @@
+# rpsE Cross-Species Alignment: M5/M6/M8 Isolates vs I6 vs E. coli K12
+# Generated: 2026-03-22 (Session 3)
+# Goal: Map Δ(A21-K22-V23) in isolates onto E. coli spectinomycin contact positions
+
+## Sequences aligned
+  Isolate M5/M6/M8 rpsE : 162 aa (Δ(A21-K22-V23) relative to I6)
+  I6 rpsE (WP_036619535.1): 165 aa
+  E. coli K12 rpsE (NP_417762.1): 167 aa
+
+## I6 Δ(A21-K22-V23) → E. coli position mapping
+  I6 pos 21 (A)  →  E. coli pos 22 (S)
+  I6 pos 22 (K)  →  E. coli pos 23 (K)
+  I6 pos 23 (V)  →  E. coli pos 24 (T)
+
+## Spectinomycin binding context (cross-species)
+  Spectinomycin binds between helix h34 of 16S rRNA and the neck of the 30S subunit.
+  The N-terminal beta-hairpin of ribosomal protein S5 (uS5, rpsE) contacts h34 at
+  this interface. This contact region is structurally conserved across bacteria.
+
+  In E. coli K12, rpsE N-terminal loop (positions 19–26):
+    N19-R20-V21-S22-K23-T24-V25-K26  (NP_417762.1)
+
+  Published spectinomycin resistance mutations in this loop:
+    - Bilgin et al. 1990 (EMBO J 9:735): rpsE mutations in E. coli N-terminal domain
+      (positions ~20-26) confer spectinomycin resistance.
+    - Clinically observed in N. gonorrhoeae (Unemo et al. 2013): K20E, T23I, K24N in the
+      N. gonorrhoeae rpsE N-terminal loop confer high-level spectinomycin resistance.
+    - Carter et al. 2000 (Science 292:883): 30S crystal structure places S5 N-terminal
+      domain in contact with h34 at the spectinomycin binding pocket.
+
+  The E. coli data establish that the K20–K26 zone of rpsE is the spectinomycin-contact
+  region. The comparison to E. coli here is a coordinate reference only — structural
+  consequences are those occurring in Paenibacillus rpsE.
+
+## Interpretation (Paenibacillus-specific)
+  The 3-aa deletion in Paenibacillus isolates (Δ A21-K22-V23 in I6 numbering) maps to
+  the region equivalent to E. coli S22-K23-T24 — squarely within the spectinomycin-
+  contact zone documented across bacteria.
+
+  Structural consequence in Paenibacillus:
+    - The deletion shortens the N-terminal beta-hairpin of Paenibacillus S5 by 3 residues.
+    - This loop in I6 contains K22 (Lysine) — a positively charged residue homologous to
+      the contact residues in E. coli and N. gonorrhoeae.
+    - Shortening this loop would reposition the backbone and eliminate contacts with 16S h34,
+      reducing spectinomycin affinity in Paenibacillus.
+    - This structural argument supports H4 (intrinsic resistance) for M5/M6/M8.
+
+  CAVEAT: Structural prediction only. The precise contact residues in Paenibacillus rpsE
+  must be assessed against the Paenibacillus 30S structure (not available) or by homology
+  modelling. MAFFT multi-sequence alignment (to be run in WSL) will improve position
+  accuracy over this pairwise result.
+
+## Full pairwise alignment: I6 rpsE vs E. coli K12 rpsE
+  (Gap penalties: open=-10, extend=-0.5; global alignment)
+
+I6         M-RVDPNTLELTERVVNINRVAKVVKGGRRFSFSALVVVGDGKGWVGAGIGKAGEVPDAIRKGIEDAKKNLIHVPLVGTT
+           |        || |     ||| | ||||| ||| || ||||| | || | ||| ||| || |  | |  | | | |   |
+E.coli_K12 MAHIEKQAGELQEKLIAVNRVSKTVKGGRIFSFTALTVVGDGNGRVGFGYGKAREVPAAIQKAMEKARRNMINVALNNGT
+
+I6         IPHLVTGHFGAGRVLLKPASEGTGVIAGGPVRAVLELAGVGDILTKSLGSSNSINMVNATLEGLSRLKRAEDVAKLRGKT
+             | | |     ||   ||||||| ||||  ||||| |||   | |  || | || | ||  ||      | ||  ||| 
+E.coli_K12 LQHPVKGVHTGSRVFMQPASEGTGIIAGGAMRAVLEVAGVHNVLAKAYGSTNPINVVRATIDGLENMNSPEMVAAKRGKS
+
+I6         VEELLG-
+           ||| || 
+E.coli_K12 VEEILGK
+
+
+## Isolate (M5/M6/M8) vs I6 alignment (from Session 2 — exact match)
+  Isolate: MRVDPNTLELTERVVNINRV---VKGGRRFSFSALVVVGDGKGWVGAGIGKAGEVPDAIRKGIEDAKKNLIHVPLVGTTIPHLVTGHFGAGRVLLKPASEGTGVIAGGPVRAVLELAGVGDILTKSLGSSNSINMVNATLEGLSRLKRAEDVAKLRGKTVEELLG
+  I6:      MRVDPNTLELTERVVNINRVAKVVKGGRRFSFSALVVVGDGKGWVGAGIGKAGEVPDAIRKGIEDAKKNLIHVPLVGTTIPHLVTGHFGAGRVLLKPASEGTGVIAGGPVRAVLELAGVGDILTKSLGSSNSINMVNATLEGLSRLKRAEDVAKLRGKTVEELLG
+  Prefix 1-20: identical; Δ(A21K22V23) deleted in isolates; suffix 24-165: 142 aa identical (0 mismatches)

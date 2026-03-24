@@ -1,0 +1,509 @@
+Gene_name,Product,Label,I6,M5,M6,M8,Delta_M5,Category,Classification
+,ABC transporter permease subunit,ABC transporter permease subunit,9,110,110,110,101,ABC transporter,isolate_expanded
+,ABC transmembrane type-1 domain-containing protein,ABC transmembrane type-1,104,7,7,7,-97,Other,I6_expanded
+,ABC transporter family protein,ABC transporter,1,84,84,84,83,ABC transporter,isolate_only_multicopy
+,Helix-turn-helix domain protein,Helix-turn-helix,7,81,81,81,74,Other,isolate_expanded
+,Binding--dependent transport system inner membrane component family protein,Binding--dependent transport system inner membrane,5,73,73,73,68,Other,isolate_expanded
+,Bacterial extracellular solute-binding family protein,Bacterial extracellular solute-binding,5,71,71,71,66,Other,isolate_expanded
+,Putative membrane protein,Putative membrane protein,2,41,41,41,39,Other,isolate_only_multicopy
+,Response regulator,Response regulator,5,43,43,43,38,Other,isolate_expanded
+,ABC transporter domain-containing protein,ABC transporter,45,8,8,8,-37,ABC transporter,I6_expanded
+,Major facilitator superfamily (MFS) profile domain-containing protein,Major facilitator superfamily (MFS) profile,34,0,0,0,-34,Other,I6_only_multicopy
+,HTH araC/xylS-type domain-containing protein,HTH araC/xylS-type,34,2,2,2,-32,Regulator,I6_only_multicopy
+,Stage 0 sporulation A-like protein,Stage 0 sporulation A-like protein,31,0,0,0,-31,Sporulation,I6_only_multicopy
+,N-acetyltransferase domain-containing protein,N-acetyltransferase,33,3,3,3,-30,Metabolism,I6_expanded
+tetR,"Bacterial regulatory s, tetR family protein",tetR,2,31,31,31,29,Regulator,isolate_only_multicopy
+,IS110 family transposase,IS110 family transposase,0,29,29,29,29,IS transposase,isolate_only_multicopy
+,ABC transporter substrate-binding protein,ABC transporter substrate-binding protein,47,21,21,21,-26,ABC transporter,I6_expanded
+,Glycosyl transferase 2 family protein,Glycosyl transferase 2,0,25,25,25,25,Metabolism,isolate_only_multicopy
+,HTH tetR-type domain-containing protein,HTH tetR-type,24,2,2,2,-22,Regulator,I6_only_multicopy
+,Acetyltransferase domain protein,Acetyltransferase,2,23,23,23,21,Metabolism,isolate_only_multicopy
+yozG,HTH cro/C1-type domain-containing protein,yozG,27,6,6,6,-21,Other,I6_expanded
+,Helix-turn-helix domain-containing protein,Helix-turn-helix,4,25,25,25,21,Other,isolate_expanded
+araJ,MFS transporter,araJ,9,30,30,30,21,MFS transporter,isolate_expanded
+,Major Facilitator Superfamily protein,Major Facilitator Superfamily protein,1,21,21,21,20,Other,isolate_only_multicopy
+,"RNA polymerase sigma factor, sigma-70 family protein","RNA polymerase sigma factor, sigma-70",4,24,24,24,20,Other,isolate_expanded
+,ATP-binding cassette domain-containing protein,ATP-binding cassette,0,19,19,19,19,Other,isolate_only_multicopy
+,Acetyltransferase family protein,Acetyltransferase,1,20,20,20,19,Metabolism,isolate_only_multicopy
+,Helix-turn-helix family protein,Helix-turn-helix,3,22,22,22,19,Other,isolate_expanded
+,IS4 family transposase,IS4 family transposase,0,19,19,19,19,IS transposase,isolate_only_multicopy
+lysR,"Bacterial regulatory helix-turn-helix, lysR family protein",lysR,0,17,17,17,17,Regulator,isolate_only_multicopy
+,Lipoprotein,Lipoprotein,18,35,35,35,17,Other,isolate_expanded
+,Cupin domain protein,Cupin,1,16,16,16,15,Other,isolate_only_multicopy
+,Transcriptional regulator,Transcriptional regulator,33,18,18,18,-15,Regulator,I6_expanded
+,FecCD transport family protein,FecCD transport,0,14,14,14,14,Other,isolate_only_multicopy
+gerA,GerA spore germination family protein,gerA,0,14,14,14,14,Sporulation,isolate_only_multicopy
+,HTH lacI-type domain-containing protein,HTH lacI-type,15,1,1,1,-14,Regulator,I6_only_multicopy
+,Methyltransferase domain protein,Methyltransferase,1,15,15,15,14,Metabolism,isolate_only_multicopy
+lacI,Periplasmic binding s and sugar binding domain of LacI family protein,lacI,2,16,16,16,14,Regulator,isolate_only_multicopy
+,Short chain dehydrogenase family protein,Short chain dehydrogenase,0,14,14,14,14,Metabolism,isolate_only_multicopy
+gntR,"Bacterial regulatory s, gntR family protein",gntR,0,13,13,13,13,Regulator,isolate_only_multicopy
+,Gfo/Idh/MocA family oxidoreductase,Gfo/Idh/MocA family oxidoreductase,4,17,17,17,13,Metabolism,isolate_expanded
+,Glycosyl transferases group 1 family protein,Glycosyl transferases group 1,3,16,16,16,13,Metabolism,isolate_expanded
+,Putative lipoprotein,Putative lipoprotein,0,13,13,13,13,Other,isolate_only_multicopy
+,Sugar (And other) transporter family protein,Sugar (And other) transporter,1,14,14,14,13,Other,isolate_only_multicopy
+gerE,DNA-binding response regulator,gerE,16,4,4,4,-12,Regulator,I6_expanded
+,HTH gntR-type domain-containing protein,HTH gntR-type,12,0,0,0,-12,Regulator,I6_only_multicopy
+,HTH marR-type domain-containing protein,HTH marR-type,14,2,2,2,-12,Regulator,I6_only_multicopy
+,3-beta hydroxysteroid dehydrogenase/isomerase family protein,3-beta hydroxysteroid dehydrogenase/isomerase,0,11,11,11,11,Metabolism,isolate_only_multicopy
+,FtsX-like permease family protein,FtsX-like permease,1,12,12,12,11,ABC transporter,isolate_only_multicopy
+,Glycosyltransferase 2-like domain-containing protein,Glycosyltransferase 2-like,13,2,2,2,-11,Metabolism,I6_only_multicopy
+,HTH lysR-type domain-containing protein,HTH lysR-type,13,2,2,2,-11,Regulator,I6_only_multicopy
+marR,MarR family protein,marR,0,11,11,11,11,Regulator,isolate_only_multicopy
+,Multiple sugar transport system substrate-binding protein,Multiple sugar transport system substrate-binding ,13,2,2,2,-11,ABC transporter,I6_only_multicopy
+lacI,"Bacterial regulatory s, lacI family protein",lacI,1,11,11,11,10,Regulator,isolate_only_multicopy
+arsR,"Bacterial regulatory, arsR family protein",arsR,2,12,12,12,10,Other,isolate_only_multicopy
+,HTH arsR-type domain-containing protein,HTH arsR-type,13,3,3,3,-10,Other,I6_expanded
+merR,MerR family transcriptional regulator,merR,4,14,14,14,10,Regulator,isolate_expanded
+,Sugar ABC transporter permease,Sugar ABC transporter permease,13,3,3,3,-10,ABC transporter,I6_expanded
+yesN,"Two-component system, response regulator YesN",yesN,10,0,0,0,-10,Other,I6_only_multicopy
+,ABC-2 transporter family protein,ABC-2 transporter,3,12,12,12,9,Other,isolate_expanded
+araC,AraC family transcriptional regulator,araC,18,9,9,9,-9,Regulator,I6_expanded
+,DUF6809 domain-containing protein,DUF6809,0,9,9,9,9,DUF/domain,isolate_only_multicopy
+,HAMP domain protein,HAMP,1,10,10,10,9,Other,isolate_only_multicopy
+,HTH merR-type domain-containing protein,HTH merR-type,9,0,0,0,-9,Regulator,I6_only_multicopy
+,Iron ABC transporter permease,Iron ABC transporter permease,9,0,0,0,-9,ABC transporter,I6_only_multicopy
+,Polysaccharide deacetylase family protein,Polysaccharide deacetylase,2,11,11,11,9,Other,isolate_only_multicopy
+,(pseudo) hypothetical protein,(pseudo) hypothetical protein,0,8,8,8,8,Other,isolate_only_multicopy
+,ABC 3 transport family protein,ABC 3 transport,0,8,8,8,8,Other,isolate_only_multicopy
+luxR,"Bacterial regulatory s, luxR family protein",luxR,0,8,8,8,8,Other,isolate_only_multicopy
+,Diguanylate cyclase domain protein,Diguanylate cyclase,0,8,8,8,8,Other,isolate_only_multicopy
+,Extracellular solute-binding protein,Extracellular solute-binding protein,12,20,20,20,8,ABC transporter,isolate_expanded
+,Histidine kinase family protein,Histidine kinase,0,8,8,8,8,Metabolism,isolate_only_multicopy
+lacI,LacI family DNA-binding transcriptional regulator,lacI,0,8,8,8,8,Regulator,isolate_only_multicopy
+,NlpC/P60 family protein,NlpC/P60,1,9,9,9,8,Other,isolate_only_multicopy
+,Sulfatase-like hydrolase/transferase,Sulfatase-like hydrolase/transferase,2,10,10,10,8,Metabolism,isolate_only_multicopy
+,Transposase zinc-ribbon domain-containing protein,Transposase zinc-ribbon,43,35,35,35,-8,IS transposase,I6_expanded
+,AAA domain family protein,AAA domain,0,7,7,7,7,Other,isolate_only_multicopy
+,AAA family ATPase,AAA family ATPase,1,8,8,8,7,Other,isolate_only_multicopy
+,ABC transporter,ABC transporter,7,0,0,0,-7,ABC transporter,I6_only_multicopy
+,ABC transporter permease,ABC transporter permease,29,22,22,22,-7,ABC transporter,I6_expanded
+,ATP-grasp domain-containing protein,ATP-grasp,8,1,1,1,-7,Other,I6_only_multicopy
+,Alpha/beta fold hydrolase,Alpha/beta fold hydrolase,0,7,7,7,7,Metabolism,isolate_only_multicopy
+,Beta-phosphoglucomutase,Beta-phosphoglucomutase,7,0,0,0,-7,Other,I6_only_multicopy
+,DEAD/DEAH box helicase,DEAD/DEAH box helicase,0,7,7,7,7,Other,isolate_only_multicopy
+eamA,EamA domain-containing protein,eamA,9,2,2,2,-7,Other,I6_only_multicopy
+lacI,LacI family transcriptional regulator,lacI,7,0,0,0,-7,Regulator,I6_only_multicopy
+,MBL fold metallo-hydrolase,MBL fold metallo-hydrolase,3,10,10,10,7,Metabolism,isolate_expanded
+,Radical SAM additional 4Fe4S-binding SPASM domain protein,Radical SAM additional 4Fe4S-binding SPASM,0,7,7,7,7,Other,isolate_only_multicopy
+,SDR family NAD(P)-dependent oxidoreductase,SDR family NAD(P)-dependent oxidoreductase,3,10,10,10,7,Metabolism,isolate_expanded
+,Sugar ABC transporter substrate-binding protein,Sugar ABC transporter substrate-binding protein,9,2,2,2,-7,ABC transporter,I6_only_multicopy
+,transposase,transposase,0,7,7,7,7,IS transposase,isolate_only_multicopy
+,Aldo/keto reductase family protein,Aldo/keto reductase,0,6,6,6,6,Metabolism,isolate_only_multicopy
+,Amidohydrolase family protein,Amidohydrolase,0,6,6,6,6,Metabolism,isolate_only_multicopy
+,Aminotransferase class I and II family protein,Aminotransferase class I and II,0,6,6,6,6,Metabolism,isolate_only_multicopy
+deoR,DeoR family transcriptional regulator,deoR,1,7,7,7,6,Regulator,isolate_only_multicopy
+,DeoR-like helix-turn-helix domain protein,DeoR-like helix-turn-helix,1,7,7,7,6,Other,isolate_only_multicopy
+dinB,DinB family protein,dinB,0,6,6,6,6,Other,isolate_only_multicopy
+,DinB-like domain-containing protein,DinB-like,6,0,0,0,-6,Other,I6_only_multicopy
+,"Drug resistance MFS transporter, drug:H+ antiporter-2 family protein","Drug resistance MFS transporter, drug:H+ antiporte",0,6,6,6,6,MFS transporter,isolate_only_multicopy
+,EamA-like transporter family protein,EamA-like transporter,0,6,6,6,6,Other,isolate_only_multicopy
+,"HAD hydrolase, IA, variant 1 family protein","HAD hydrolase, IA, variant 1",0,6,6,6,6,Metabolism,isolate_only_multicopy
+yobV,HTH deoR-type domain-containing protein,yobV,10,4,4,4,-6,Other,I6_expanded
+lysM,LysM domain-containing protein,lysM,6,0,0,0,-6,Other,I6_only_multicopy
+,Methyl-accepting chemotaxis (MCP) signaling domain protein,Methyl-accepting chemotaxis (MCP) signaling,0,6,6,6,6,Motility,isolate_only_multicopy
+,NUDIX domain protein,NUDIX,0,6,6,6,6,Other,isolate_only_multicopy
+,Nitroreductase domain-containing protein,Nitroreductase,6,0,0,0,-6,Metabolism,I6_only_multicopy
+,ROK family protein,ROK,1,7,7,7,6,Other,isolate_only_multicopy
+,SIS domain protein,SIS,1,7,7,7,6,Other,isolate_only_multicopy
+,Spore germination family protein,Spore germination,1,7,7,7,6,Sporulation,isolate_only_multicopy
+,Spore germination protein,Spore germination protein,10,4,4,4,-6,Sporulation,I6_expanded
+,TIM barrel protein,TIM barrel protein,0,6,6,6,6,Other,isolate_only_multicopy
+tetR,TetR family transcriptional regulator,tetR,4,10,10,10,6,Regulator,isolate_expanded
+,Tetratricopeptide repeat family protein,Tetratricopeptide repeat,0,6,6,6,6,Regulator,isolate_only_multicopy
+,Transposase IS4-like domain-containing protein,Transposase IS4-like,6,0,0,0,-6,IS transposase,I6_only_multicopy
+pgmB,beta-phosphoglucomutase,pgmB,0,6,6,6,6,Other,isolate_only_multicopy
+,glucose 1-dehydrogenase [NAD(P)(+)],glucose 1-dehydrogenase [NAD(P)(+)],6,0,0,0,-6,Metabolism,I6_only_multicopy
+,histidine kinase,histidine kinase,81,75,75,75,-6,Metabolism,I6_expanded
+abc-f,ribosomal protection-like ABC-F family protein,abc-f,0,6,6,6,6,Other,isolate_only_multicopy
+,AAA+ ATPase domain-containing protein,AAA+ ATPase,7,2,2,2,-5,Other,I6_only_multicopy
+,ABC3 transporter permease C-terminal domain-containing protein,ABC3 transporter permease C-terminal,5,0,0,0,-5,ABC transporter,I6_only_multicopy
+,AbrB/MazE/SpoVT family DNA-binding domain-containing protein,AbrB/MazE/SpoVT family DNA-binding,1,6,6,6,5,Regulator,isolate_only_multicopy
+,"Bacterial extracellular solute-binding s, 5 Middle family protein","Bacterial extracellular solute-binding s, 5 Middle",1,6,6,6,5,Other,isolate_only_multicopy
+,Branched-chain amino acid transport system / permease component family protein,Branched-chain amino acid transport system / perme,0,5,5,5,5,ABC transporter,isolate_only_multicopy
+,CobQ/CobB/MinD/ParA nucleotide binding domain protein,CobQ/CobB/MinD/ParA nucleotide binding,1,6,6,6,5,Other,isolate_only_multicopy
+,DHA2 family efflux MFS transporter permease subunit,DHA2 family efflux MFS transporter permease subuni,1,6,6,6,5,ABC transporter,isolate_only_multicopy
+,DUF4280 domain-containing protein,DUF4280,1,6,6,6,5,DUF/domain,isolate_only_multicopy
+eamA,EamA family transporter,eamA,1,6,6,6,5,Other,isolate_only_multicopy
+,Fe/B12 periplasmic-binding domain-containing protein,Fe/B12 periplasmic-binding,5,0,0,0,-5,Other,I6_only_multicopy
+,Fibronectin type III domain protein,Fibronectin type III,0,5,5,5,5,Other,isolate_only_multicopy
+,GNAT family N-acetyltransferase,GNAT family N-acetyltransferase,4,9,9,9,5,Metabolism,isolate_expanded
+,"Germination, Ger(X)C family protein","Germination, Ger(X)C",2,7,7,7,5,Sporulation,isolate_only_multicopy
+,HD-GYP domain-containing protein,HD-GYP,7,2,2,2,-5,Other,I6_only_multicopy
+,HTH hxlR-type domain-containing protein,HTH hxlR-type,5,0,0,0,-5,Other,I6_only_multicopy
+lysM,LysM domain protein,lysM,0,5,5,5,5,Other,isolate_only_multicopy
+,Metallo-beta-lactamase domain-containing protein,Metallo-beta-lactamase,7,2,2,2,-5,Other,I6_only_multicopy
+,Methyltransferase type 11 domain-containing protein,Methyltransferase type 11,5,0,0,0,-5,Metabolism,I6_only_multicopy
+,NAD-dependent epimerase/dehydratase domain-containing protein,NAD-dependent epimerase/dehydratase,5,0,0,0,-5,Other,I6_only_multicopy
+,Nudix hydrolase domain-containing protein,Nudix hydrolase,5,0,0,0,-5,Metabolism,I6_only_multicopy
+,PRD domain protein,PRD,2,7,7,7,5,Other,isolate_only_multicopy
+,Permease,Permease,8,3,3,3,-5,ABC transporter,I6_expanded
+,Phage late control D family protein,Phage late control D,2,7,7,7,5,Phage,isolate_only_multicopy
+,Phosphotransferase enzyme family protein,Phosphotransferase enzyme,0,5,5,5,5,Metabolism,isolate_only_multicopy
+,PspA/IM30 family protein,PspA/IM30,1,6,6,6,5,Other,isolate_only_multicopy
+,Pyridine nucleotide-disulfide oxidoreductase family protein,Pyridine nucleotide-disulfide oxidoreductase,0,5,5,5,5,Metabolism,isolate_only_multicopy
+,Radical SAM core domain-containing protein,Radical SAM core,6,1,1,1,-5,Other,I6_only_multicopy
+,Sulfatase N-terminal domain-containing protein,Sulfatase N-terminal,5,0,0,0,-5,Other,I6_only_multicopy
+,helix-turn-helix domain-containing protein,helix-turn-helix,0,5,5,5,5,Other,isolate_only_multicopy
+,3-demethylubiquinone-9 3-methyltransferase family protein,3-demethylubiquinone-9 3-methyltransferase,0,4,4,4,4,Metabolism,isolate_only_multicopy
+,AMP-binding enzyme family protein,AMP-binding enzyme,0,4,4,4,4,Other,isolate_only_multicopy
+,ATP-binding protein,ATP-binding protein,0,4,4,4,4,ABC transporter,isolate_only_multicopy
+,Activator of Hsp90 ATPase-like ue 1/2-like C-terminal domain-containing protein,Activator of Hsp90 ATPase-like ue 1/2-like C-termi,6,2,2,2,-4,Other,I6_only_multicopy
+,Acyltransferase family protein,Acyltransferase,0,4,4,4,4,Metabolism,isolate_only_multicopy
+,Alcohol dehydrogenase,Alcohol dehydrogenase,4,0,0,0,-4,Metabolism,I6_only_multicopy
+,Alcohol dehydrogenase catalytic domain-containing protein,Alcohol dehydrogenase catalytic,0,4,4,4,4,Metabolism,isolate_only_multicopy
+,Bacterial transferase hexapeptide family protein,Bacterial transferase hexapeptide,0,4,4,4,4,Metabolism,isolate_only_multicopy
+licT,BglG family transcription antiterminator LicT,licT,0,4,4,4,4,Other,isolate_only_multicopy
+,Carbohydrate ABC transporter permease,Carbohydrate ABC transporter permease,6,2,2,2,-4,ABC transporter,I6_only_multicopy
+,Coat F domain protein,Coat F,1,5,5,5,4,Other,isolate_only_multicopy
+,Copper amine oxidase,Copper amine oxidase,1,5,5,5,4,Other,isolate_only_multicopy
+,Cupin domain-containing protein,Cupin,0,4,4,4,4,Other,isolate_only_multicopy
+,DNA 3'-5' helicase,DNA 3'-5' helicase,7,3,3,3,-4,Other,I6_expanded
+,DUF2179 domain-containing protein,DUF2179,6,10,10,10,4,DUF/domain,isolate_expanded
+,DUF4025 domain-containing protein,DUF4025,3,7,7,7,4,DUF/domain,isolate_expanded
+,Dihydroorotate dehydrogenase,Dihydroorotate dehydrogenase,4,0,0,0,-4,Metabolism,I6_only_multicopy
+,FAD dependent oxidoreductase family protein,FAD dependent oxidoreductase,0,4,4,4,4,Metabolism,isolate_only_multicopy
+,FeS cluster biogenesis domain-containing protein,FeS cluster biogenesis,4,0,0,0,-4,Other,I6_only_multicopy
+,Fibronectin type III-like domain-containing protein,Fibronectin type III-like,0,4,4,4,4,Other,isolate_only_multicopy
+,GP-PDE domain-containing protein,GP-PDE,4,0,0,0,-4,Other,I6_only_multicopy
+,Ger(X)C family spore germination protein,Ger(X)C family spore germination protein,4,8,8,8,4,Sporulation,isolate_expanded
+,Gfo/Idh/MocA-like oxidoreductase N-terminal domain-containing protein,Gfo/Idh/MocA-like oxidoreductase N-terminal,4,0,0,0,-4,Metabolism,I6_only_multicopy
+,HAMP domain-containing protein,HAMP,5,9,9,9,4,Other,isolate_expanded
+,HD domain protein,HD,1,5,5,5,4,Other,isolate_only_multicopy
+,HEAT repeat domain-containing protein,HEAT repeat,0,4,4,4,4,Other,isolate_only_multicopy
+,HTH domain protein,HTH,0,4,4,4,4,Other,isolate_only_multicopy
+,Histidine kinase,Histidine kinase,4,0,0,0,-4,Metabolism,I6_only_multicopy
+merR,MerR regulatory family protein,merR,0,4,4,4,4,Regulator,isolate_only_multicopy
+,Nitroreductase family protein,Nitroreductase,0,4,4,4,4,Metabolism,isolate_only_multicopy
+,NodB-like y domain-containing protein,NodB-like y,5,1,1,1,-4,Other,I6_only_multicopy
+,Pentapeptide repeat-containing protein,Pentapeptide repeat-containing protein,0,4,4,4,4,Other,isolate_only_multicopy
+,Peptidase M23 family protein,Peptidase M23,0,4,4,4,4,Other,isolate_only_multicopy
+,Periplasmic binding family protein,Periplasmic binding,1,5,5,5,4,Other,isolate_only_multicopy
+,Periplasmic binding protein domain-containing protein,Periplasmic binding protein,4,0,0,0,-4,ABC transporter,I6_only_multicopy
+,Phage integrase family protein,Phage integrase,0,4,4,4,4,Phage,isolate_only_multicopy
+,Response regulatory domain-containing protein,Response regulatory,4,0,0,0,-4,Other,I6_only_multicopy
+,S1 motif domain-containing protein,S1 motif,4,0,0,0,-4,Other,I6_only_multicopy
+,SAM-dependent methyltransferase,SAM-dependent methyltransferase,7,3,3,3,-4,Metabolism,I6_expanded
+,SDR family oxidoreductase,SDR family oxidoreductase,3,7,7,7,4,Metabolism,isolate_expanded
+,"Sigma-70, region 4 family protein","Sigma-70, region 4",0,4,4,4,4,Other,isolate_only_multicopy
+,Solute-binding protein family 5 domain-containing protein,Solute-binding protein family 5,4,0,0,0,-4,ABC transporter,I6_only_multicopy
+,Transposase IS1182 family protein,Transposase IS1182,4,0,0,0,-4,IS transposase,I6_only_multicopy
+,VOC domain-containing protein,VOC,7,3,3,3,-4,Other,I6_expanded
+,VWFA domain-containing protein,VWFA,5,1,1,1,-4,Other,I6_only_multicopy
+,XRE family transcriptional regulator,XRE family transcriptional regulator,1,5,5,5,4,Regulator,isolate_only_multicopy
+,YheC/YheD family protein,YheC/YheD,1,5,5,5,4,Other,isolate_only_multicopy
+trxA,thioredoxin,trxA,0,4,4,4,4,Other,isolate_only_multicopy
+map,type I methionyl aminopeptidase,map,0,4,4,4,4,Other,isolate_only_multicopy
+rpmG,50S ribosomal protein L33,rpmG,0,3,3,3,3,Ribosomal/RNA,isolate_only_multicopy
+,AB hydrolase-1 domain-containing protein,AB hydrolase-1,4,1,1,1,-3,Metabolism,I6_only_multicopy
+,ABC transporter ATP-binding protein,ABC transporter ATP-binding protein,11,8,8,8,-3,ABC transporter,I6_expanded
+,ABC-type dipeptide transporter,ABC-type dipeptide transporter,3,0,0,0,-3,Other,I6_only_multicopy
+,AI-2E family transporter,AI-2E,2,5,5,5,3,Other,isolate_only_multicopy
+clpP,ATP-dependent Clp endopeptidase proteolytic subunit ClpP,clpP,0,3,3,3,3,Other,isolate_only_multicopy
+,ATP-dependent Clp protease proteolytic subunit,ATP-dependent Clp protease proteolytic subunit,3,0,0,0,-3,Other,I6_only_multicopy
+,Acyltransferase 3 domain-containing protein,Acyltransferase 3,3,0,0,0,-3,Metabolism,I6_only_multicopy
+,Amino acid permease,Amino acid permease,2,5,5,5,3,ABC transporter,isolate_only_multicopy
+,Amino acid permease family protein,Amino acid permease,0,3,3,3,3,ABC transporter,isolate_only_multicopy
+,Amino acid permease/ SLC12A domain-containing protein,Amino acid permease/ SLC12A,3,0,0,0,-3,ABC transporter,I6_only_multicopy
+,Aminoglycoside phosphotransferase domain-containing protein,Aminoglycoside phosphotransferase,3,0,0,0,-3,Metabolism,I6_only_multicopy
+,Aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,Aminotransferase class I/II-fold pyridoxal phospha,1,4,4,4,3,Metabolism,isolate_only_multicopy
+,Anaerobic ribonucleoside-triphosphate reductase-activating protein,Anaerobic ribonucleoside-triphosphate reductase-ac,3,0,0,0,-3,Metabolism,I6_only_multicopy
+,Bacterial transcriptional regulator family protein,Bacterial transcriptional regulator,0,3,3,3,3,Regulator,isolate_only_multicopy
+,Bacterial type II secretion system protein E domain-containing protein,Bacterial type II secretion system protein E,3,0,0,0,-3,Other,I6_only_multicopy
+,Baseplate J-like family protein,Baseplate J-like,0,3,3,3,3,Other,isolate_only_multicopy
+,Beta-glucoside-specific PTS transporter subunit IIABC,Beta-glucoside-specific PTS transporter subunit II,3,0,0,0,-3,Other,I6_only_multicopy
+,Beta-glucuronidase,Beta-glucuronidase,3,0,0,0,-3,Other,I6_only_multicopy
+,CAAX protease self-immunity family protein,CAAX protease self-immunity,0,3,3,3,3,Other,isolate_only_multicopy
+cas2,CRISPR-associated endonuclease Cas2,cas2,0,3,3,3,3,Other,isolate_only_multicopy
+,Calcineurin-like phosphoesterase family protein,Calcineurin-like phosphoesterase,0,3,3,3,3,Other,isolate_only_multicopy
+,Cell envelope-related function transcriptional attenuator common domain protein,Cell envelope-related function transcriptional att,1,4,4,4,3,Other,isolate_only_multicopy
+,Class C beta-lactamase-related serine hydrolase,Class C beta-lactamase-related serine hydrolase,0,3,3,3,3,Metabolism,isolate_only_multicopy
+,Cobalt transport family protein,Cobalt transport,0,3,3,3,3,Other,isolate_only_multicopy
+,Cobalt/nickel transport system permease,Cobalt/nickel transport system permease,3,0,0,0,-3,ABC transporter,I6_only_multicopy
+,"Cof subfamily of IIB subfamily of haloacid dehalogenase superfamily/HAD-superfamily hydrolase, subfamily IIB",Cof subfamily of IIB subfamily of haloacid dehalog,3,0,0,0,-3,Metabolism,I6_only_multicopy
+,Cof-like hydrolase family protein,Cof-like hydrolase,0,3,3,3,3,Metabolism,isolate_only_multicopy
+,Conjugal transfer protein,Conjugal transfer protein,0,3,3,3,3,Conjugation,isolate_only_multicopy
+cwlV,CwlV,cwlV,0,3,3,3,3,Other,isolate_only_multicopy
+,DJ-1/PfpI domain-containing protein,DJ-1/PfpI,3,0,0,0,-3,Other,I6_only_multicopy
+,DJ-1/PfpI family protein,DJ-1/PfpI,0,3,3,3,3,Other,isolate_only_multicopy
+,DSBA-like thioredoxin domain protein,DSBA-like thioredoxin,0,3,3,3,3,Other,isolate_only_multicopy
+,DUF1266 domain-containing protein,DUF1266,0,3,3,3,3,DUF/domain,isolate_only_multicopy
+,DUF4179 domain-containing protein,DUF4179,9,12,12,12,3,DUF/domain,isolate_expanded
+,DUF4309 domain-containing protein,DUF4309,1,4,4,4,3,DUF/domain,isolate_only_multicopy
+,DUF6075 domain-containing protein,DUF6075,0,3,3,3,3,DUF/domain,isolate_only_multicopy
+degV,DegV family EDD domain-containing protein,degV,0,3,3,3,3,Other,isolate_only_multicopy
+,Dienelactone hydrolase family protein,Dienelactone hydrolase,0,3,3,3,3,Metabolism,isolate_only_multicopy
+,Diguanylate cyclase,Diguanylate cyclase,2,5,5,5,3,Other,isolate_only_multicopy
+,Endoglucanase,Endoglucanase,2,5,5,5,3,Other,isolate_only_multicopy
+,Esterase family protein,Esterase,0,3,3,3,3,Other,isolate_only_multicopy
+,Extracellular solute-binding protein family 1,Extracellular solute-binding protein family 1,6,3,3,3,-3,ABC transporter,I6_expanded
+,Ferric iron reductase FhuF-like transporter family protein,Ferric iron reductase FhuF-like transporter,1,4,4,4,3,Metabolism,isolate_only_multicopy
+,Flavin oxidoreductase / NADH oxidase family protein,Flavin oxidoreductase / NADH oxidase,0,3,3,3,3,Metabolism,isolate_only_multicopy
+,Flavodoxin family protein,Flavodoxin,0,3,3,3,3,Other,isolate_only_multicopy
+,GDSL-like Lipase/Acylhydrolase family protein,GDSL-like Lipase/Acylhydrolase,1,4,4,4,3,Metabolism,isolate_only_multicopy
+,GTP-binding protein,GTP-binding protein,0,3,3,3,3,ABC transporter,isolate_only_multicopy
+,GlcNAc-PI de-N-acetylase family protein,GlcNAc-PI de-N-acetylase,0,3,3,3,3,Other,isolate_only_multicopy
+,Glycosyl hydrolases 2 family protein,Glycosyl hydrolases 2,0,3,3,3,3,Metabolism,isolate_only_multicopy
+,Glycosyl hydrolases 43 family protein,Glycosyl hydrolases 43,0,3,3,3,3,Metabolism,isolate_only_multicopy
+,Glycosyltransferase subfamily 4-like N-terminal domain-containing protein,Glycosyltransferase subfamily 4-like N-terminal,4,1,1,1,-3,Metabolism,I6_only_multicopy
+,Glyoxalase/Bleomycin resistance /Dioxygenase superfamily protein,Glyoxalase/Bleomycin resistance /Dioxygenase super,2,5,5,5,3,Other,isolate_only_multicopy
+,HPr family phosphocarrier protein,HPr family phosphocarrier protein,0,3,3,3,3,Other,isolate_only_multicopy
+,HTH rpiR-type domain-containing protein,HTH rpiR-type,3,0,0,0,-3,Other,I6_only_multicopy
+,Helicase,Helicase,0,3,3,3,3,Other,isolate_only_multicopy
+,Hsp20 family protein,Hsp20,0,3,3,3,3,Other,isolate_only_multicopy
+,HxlR-like helix-turn-helix family protein,HxlR-like helix-turn-helix,0,3,3,3,3,Other,isolate_only_multicopy
+,Hydantoinase B/oxoprolinase domain-containing protein,Hydantoinase B/oxoprolinase,3,0,0,0,-3,Other,I6_only_multicopy
+,Hydantoinase B/oxoprolinase family protein,Hydantoinase B/oxoprolinase,0,3,3,3,3,Other,isolate_only_multicopy
+,Inositol 2-dehydrogenase,Inositol 2-dehydrogenase,3,0,0,0,-3,Metabolism,I6_only_multicopy
+yjbE,"Integral membrane, YjbE family protein",yjbE,0,3,3,3,3,Other,isolate_only_multicopy
+,Iron chelate uptake ABC transporter family permease subunit,Iron chelate uptake ABC transporter family permeas,0,3,3,3,3,ABC transporter,isolate_only_multicopy
+,Isochorismatase family protein,Isochorismatase,3,6,6,6,3,Other,isolate_expanded
+lysR,LysR family transcriptional regulator,lysR,6,3,3,3,-3,Regulator,I6_expanded
+marR,MarR family transcriptional regulator,marR,4,7,7,7,3,Regulator,isolate_expanded
+,Methionine aminopeptidase,Methionine aminopeptidase,3,0,0,0,-3,Other,I6_only_multicopy
+,Methylated-DNA--protein-cysteine methyltransferase,Methylated-DNA--protein-cysteine methyltransferase,3,0,0,0,-3,Metabolism,I6_only_multicopy
+,Methyltransferase,Methyltransferase,2,5,5,5,3,Metabolism,isolate_only_multicopy
+,Multidrug ABC transporter permease,Multidrug ABC transporter permease,3,0,0,0,-3,ABC transporter,I6_only_multicopy
+,N-acetylmuramoyl-L-alanine amidase,N-acetylmuramoyl-L-alanine amidase,5,2,2,2,-3,Other,I6_only_multicopy
+,NAD-dependent epimerase/dehydratase family protein,NAD-dependent epimerase/dehydratase,2,5,5,5,3,Other,isolate_only_multicopy
+,NADP-dependent oxidoreductase domain-containing protein,NADP-dependent oxidoreductase,4,1,1,1,-3,Metabolism,I6_only_multicopy
+,Nitroreductase,Nitroreductase,0,3,3,3,3,Metabolism,isolate_only_multicopy
+,Nucleotide sugar dehydrogenase family protein,Nucleotide sugar dehydrogenase,0,3,3,3,3,Metabolism,isolate_only_multicopy
+,Oxidoreductase,Oxidoreductase,3,6,6,6,3,Metabolism,isolate_expanded
+,"Oxidoreductase, NAD-binding Rossmann fold family protein","Oxidoreductase, NAD-binding Rossmann fold",0,3,3,3,3,Metabolism,isolate_only_multicopy
+,PAP2 superfamily protein,PAP2 superfamily protein,0,3,3,3,3,Other,isolate_only_multicopy
+,PD-(D/E)XK endonuclease-like domain-containing protein,PD-(D/E)XK endonuclease-like,0,3,3,3,3,Other,isolate_only_multicopy
+,PNPLA domain-containing protein,PNPLA,3,0,0,0,-3,Other,I6_only_multicopy
+,PTS EIIA type-1 domain-containing protein,PTS EIIA type-1,3,0,0,0,-3,Other,I6_only_multicopy
+,PTS beta-glucoside transporter subunit EIIBCA,PTS beta-glucoside transporter subunit EIIBCA,0,3,3,3,3,Other,isolate_only_multicopy
+,PTS system EIIA component,PTS system EIIA component,3,0,0,0,-3,Other,I6_only_multicopy
+,PTS system glucose-specific EIICBA component,PTS system glucose-specific EIICBA component,3,0,0,0,-3,Other,I6_only_multicopy
+,Penicillinase repressor,Penicillinase repressor,3,0,0,0,-3,Other,I6_only_multicopy
+,PepSY domain-containing protein,PepSY,1,4,4,4,3,Other,isolate_only_multicopy
+,Peptidase M23 domain-containing protein,Peptidase M23,4,1,1,1,-3,Other,I6_only_multicopy
+,Peptidase propeptide and YPEB domain protein,Peptidase propeptide and YPEB,2,5,5,5,3,Other,isolate_only_multicopy
+pfkB,PfkB carbohydrate kinase family protein,pfkB,0,3,3,3,3,Metabolism,isolate_only_multicopy
+,Phage tail fiber repeat family protein,Phage tail fiber repeat,0,3,3,3,3,Phage,isolate_only_multicopy
+,Phosphatidic acid phosphatase type 2/haloperoxidase domain-containing protein,Phosphatidic acid phosphatase type 2/haloperoxidas,3,0,0,0,-3,Other,I6_only_multicopy
+,Phosphocarrier protein HPr,Phosphocarrier protein HPr,3,0,0,0,-3,Other,I6_only_multicopy
+,Polyketide cyclase,Polyketide cyclase,0,3,3,3,3,Other,isolate_only_multicopy
+,Polyprenyl synthetase family protein,Polyprenyl synthetase,0,3,3,3,3,Other,isolate_only_multicopy
+,Prenyltransferase-like family protein,Prenyltransferase-like,0,3,3,3,3,Metabolism,isolate_only_multicopy
+,Protein kinase domain-containing protein,Protein kinase,3,0,0,0,-3,Metabolism,I6_only_multicopy
+lplB,Protein lplB,lplB,3,0,0,0,-3,Other,I6_only_multicopy
+ytcP,Putative ABC transporter permease protein YtcP,ytcP,3,0,0,0,-3,ABC transporter,I6_only_multicopy
+,Putative permease family protein,Putative permease,0,3,3,3,3,ABC transporter,isolate_only_multicopy
+,RDD family protein,RDD,2,5,5,5,3,Other,isolate_only_multicopy
+,Radical SAM superfamily protein,Radical SAM superfamily protein,0,3,3,3,3,Other,isolate_only_multicopy
+,Response regulatory protein,Response regulatory protein,3,0,0,0,-3,Other,I6_only_multicopy
+,Rpn family recombination-promoting nuclease/putative transposase,Rpn family recombination-promoting nuclease/putati,0,3,3,3,3,IS transposase,isolate_only_multicopy
+,Rrf2 family transcriptional regulator,Rrf2 family transcriptional regulator,4,1,1,1,-3,Regulator,I6_only_multicopy
+,S-layer-like y domain-containing protein,S-layer-like y,0,3,3,3,3,Other,isolate_only_multicopy
+,SGNH hydrolase-type esterase domain-containing protein,SGNH hydrolase-type esterase,4,1,1,1,-3,Metabolism,I6_only_multicopy
+,SPFH domain / Band 7 family protein,SPFH domain / Band 7,0,3,3,3,3,Other,isolate_only_multicopy
+,Signal peptidase I,Signal peptidase I,3,0,0,0,-3,Other,I6_only_multicopy
+,Solute-binding protein family 3/N-terminal domain-containing protein,Solute-binding protein family 3/N-terminal,3,0,0,0,-3,ABC transporter,I6_only_multicopy
+potA,Spermidine/putrescine import ATP-binding protein PotA,potA,4,1,1,1,-3,ABC transporter,I6_only_multicopy
+,Spore germination GerAC-like C-terminal domain-containing protein,Spore germination GerAC-like C-terminal,5,2,2,2,-3,Sporulation,I6_only_multicopy
+,Spore germination gerPA/gerPF family protein,Spore germination gerPA/gerPF,0,3,3,3,3,Sporulation,isolate_only_multicopy
+,Stress-response A/B barrel domain-containing protein,Stress-response A/B barrel,3,0,0,0,-3,Other,I6_only_multicopy
+,Thioredoxin domain-containing protein,Thioredoxin,5,2,2,2,-3,Other,I6_only_multicopy
+padR,Transcription regulator PadR N-terminal domain-containing protein,padR,4,1,1,1,-3,Other,I6_only_multicopy
+,Transcriptional regulator PadR-like family protein,Transcriptional regulator PadR-like,1,4,4,4,3,Regulator,isolate_only_multicopy
+gntR,"Transcriptional regulator, GntR family",gntR,3,0,0,0,-3,Regulator,I6_only_multicopy
+,Transglutaminase-like domain-containing protein,Transglutaminase-like,3,0,0,0,-3,Other,I6_only_multicopy
+,Transglutaminase-like superfamily protein,Transglutaminase-like superfamily protein,0,3,3,3,3,Other,isolate_only_multicopy
+,Type I phosphodiesterase / nucleotide pyrophosphatase family protein,Type I phosphodiesterase / nucleotide pyrophosphat,0,3,3,3,3,Other,isolate_only_multicopy
+,UTRA domain protein,UTRA,1,4,4,4,3,Other,isolate_only_multicopy
+vanZ,VanZ like family protein,vanZ,0,3,3,3,3,Other,isolate_only_multicopy
+,VanZ-like domain-containing protein,VanZ-like,4,1,1,1,-3,Other,I6_only_multicopy
+,"VirD4-like conjugal transfer protein, CD1115 family","VirD4-like conjugal transfer protein, CD1115 famil",0,3,3,3,3,Conjugation,isolate_only_multicopy
+,WYL domain protein,WYL,0,3,3,3,3,Other,isolate_only_multicopy
+,"Xylan beta-1,4-xylosidase","Xylan beta-1,4-xylosidase",0,3,3,3,3,Other,isolate_only_multicopy
+,Xylose isomerase-like TIM barrel family protein,Xylose isomerase-like TIM barrel,2,5,5,5,3,Other,isolate_only_multicopy
+yfhD,YfhD family protein,yfhD,1,4,4,4,3,Other,isolate_only_multicopy
+,beta-glucosidase,beta-glucosidase,3,0,0,0,-3,Other,I6_only_multicopy
+fba,"class II fructose-1,6-bisphosphate aldolase",fba,0,3,3,3,3,Other,isolate_only_multicopy
+gmk,guanylate kinase,gmk,0,3,3,3,3,Metabolism,isolate_only_multicopy
+ccmA,heme ABC exporter ATP-binding protein CcmA,ccmA,0,3,3,3,3,ABC transporter,isolate_only_multicopy
+,putative sugar-binding periplasmic protein,putative sugar-binding periplasmic protein,4,1,1,1,-3,Other,I6_only_multicopy
+rbsK,ribokinase,rbsK,0,3,3,3,3,Metabolism,isolate_only_multicopy
+rpe,ribulose-phosphate 3-epimerase,rpe,0,3,3,3,3,Other,isolate_only_multicopy
+,transcriptional regulator,transcriptional regulator,0,3,3,3,3,Regulator,isolate_only_multicopy
+,AAA domain protein,AAA,1,3,3,3,2,Other,isolate_only_multicopy
+,ABM domain-containing protein,ABM,3,1,1,1,-2,Other,I6_only_multicopy
+,ACT domain-containing protein,ACT,1,3,3,3,2,Other,isolate_only_multicopy
+,Acetyl-CoA acetyltransferase,Acetyl-CoA acetyltransferase,3,1,1,1,-2,Metabolism,I6_only_multicopy
+,Aldo/keto reductase,Aldo/keto reductase,1,3,3,3,2,Metabolism,isolate_only_multicopy
+,Alpha-galactosidase,Alpha-galactosidase,6,4,4,4,-2,Other,I6_expanded
+,Amidohydrolase,Amidohydrolase,1,3,3,3,2,Metabolism,isolate_only_multicopy
+,Amidohydrolase-related domain-containing protein,Amidohydrolase-related,3,1,1,1,-2,Metabolism,I6_only_multicopy
+,Aminotransferase class-V family protein,Aminotransferase class-V,1,3,3,3,2,Metabolism,isolate_only_multicopy
+,Ascorbate-specific PTS system EIIC component,Ascorbate-specific PTS system EIIC component,4,2,2,2,-2,Other,I6_only_multicopy
+,Aspartate ammonia-lyase,Aspartate ammonia-lyase,1,3,3,3,2,Other,isolate_only_multicopy
+,BIG2 domain-containing protein,BIG2,1,3,3,3,2,Other,isolate_only_multicopy
+,Bacterial PH domain protein,Bacterial PH,1,3,3,3,2,Other,isolate_only_multicopy
+,Beta-lactamase family protein,Beta-lactamase,1,3,3,3,2,Other,isolate_only_multicopy
+,BlaI/MecI/CopY family transcriptional regulator,BlaI/MecI/CopY family transcriptional regulator,2,4,4,4,2,Regulator,isolate_only_multicopy
+pfkB,Carbohydrate kinase PfkB domain-containing protein,pfkB,3,1,1,1,-2,Metabolism,I6_only_multicopy
+,Catabolite control protein A,Catabolite control protein A,3,1,1,1,-2,Other,I6_only_multicopy
+,Cation diffusion facilitator transporter family protein,Cation diffusion facilitator transporter,1,3,3,3,2,Other,isolate_only_multicopy
+dnaK,Chaperone protein DnaK,dnaK,3,1,1,1,-2,Other,I6_only_multicopy
+cobW,CobW C-terminal domain-containing protein,cobW,1,3,3,3,2,Other,isolate_only_multicopy
+,Copper amine oxidase N-terminal domain-containing protein,Copper amine oxidase N-terminal,2,4,4,4,2,Other,isolate_only_multicopy
+,Coproporphyrinogen III oxidase,Coproporphyrinogen III oxidase,3,1,1,1,-2,Other,I6_only_multicopy
+,Crp/Fnr family transcriptional regulator,Crp/Fnr family transcriptional regulator,4,2,2,2,-2,Regulator,I6_only_multicopy
+,DUF1292 domain-containing protein,DUF1292,1,3,3,3,2,DUF/domain,isolate_only_multicopy
+,DUF2313 domain-containing protein,DUF2313,1,3,3,3,2,DUF/domain,isolate_only_multicopy
+,DUF2634 domain-containing protein,DUF2634,2,4,4,4,2,DUF/domain,isolate_only_multicopy
+,DUF2642 domain-containing protein,DUF2642,1,3,3,3,2,DUF/domain,isolate_only_multicopy
+,DUF3502 domain-containing protein,DUF3502,3,1,1,1,-2,DUF/domain,I6_only_multicopy
+,DUF4352 domain-containing protein,DUF4352,1,3,3,3,2,DUF/domain,isolate_only_multicopy
+,DUF4386 domain-containing protein,DUF4386,1,3,3,3,2,DUF/domain,isolate_only_multicopy
+,DUF664 domain-containing protein,DUF664,1,3,3,3,2,DUF/domain,isolate_only_multicopy
+,Dihydrodipicolinate synthase family protein,Dihydrodipicolinate synthase,1,3,3,3,2,Metabolism,isolate_only_multicopy
+doxX,DoxX family protein,doxX,2,4,4,4,2,Other,isolate_only_multicopy
+,FAD-dependent oxidoreductase,FAD-dependent oxidoreductase,4,6,6,6,2,Metabolism,isolate_expanded
+,Ferric uptake regulator family protein,Ferric uptake regulator,1,3,3,3,2,Other,isolate_only_multicopy
+fliK,Flagellar hook-length control protein FliK,fliK,1,3,3,3,2,Motility,isolate_only_multicopy
+,GAF domain-containing protein,GAF,3,1,1,1,-2,Other,I6_only_multicopy
+,GGDEF domain-containing protein,GGDEF,3,1,1,1,-2,Other,I6_only_multicopy
+,Glucose 1-dehydrogenase,Glucose 1-dehydrogenase,1,3,3,3,2,Metabolism,isolate_only_multicopy
+,Glycosidase,Glycosidase,1,3,3,3,2,Other,isolate_only_multicopy
+,Glycoside hydrolase family 38 central domain-containing protein,Glycoside hydrolase family 38 central,2,4,4,4,2,Metabolism,isolate_only_multicopy
+,Glycosyltransferase,Glycosyltransferase,10,12,12,12,2,Metabolism,isolate_expanded
+,HD domain-containing protein,HD,2,4,4,4,2,Other,isolate_only_multicopy
+,Hydrolase,Hydrolase,3,1,1,1,-2,Metabolism,I6_only_multicopy
+araQ,L-arabinose transport system permease protein AraQ,araQ,3,1,1,1,-2,ABC transporter,I6_only_multicopy
+,MATE efflux family protein,MATE efflux,2,4,4,4,2,Drug efflux,isolate_only_multicopy
+,Methyl-accepting chemotaxis protein,Methyl-accepting chemotaxis protein,4,2,2,2,-2,Motility,I6_only_multicopy
+,Methyl-accepting transducer domain-containing protein,Methyl-accepting transducer,3,1,1,1,-2,Other,I6_only_multicopy
+,Mor transcription activator family protein,Mor transcription activator,1,3,3,3,2,Other,isolate_only_multicopy
+,MurR/RpiR family transcriptional regulator,MurR/RpiR family transcriptional regulator,1,3,3,3,2,Regulator,isolate_only_multicopy
+,NAD dependent epimerase/dehydratase family protein,NAD dependent epimerase/dehydratase,1,3,3,3,2,Other,isolate_only_multicopy
+,NUDIX domain-containing protein,NUDIX,1,3,3,3,2,Other,isolate_only_multicopy
+nikD,Nickel import system ATP-binding protein NikD,nikD,3,1,1,1,-2,ABC transporter,I6_only_multicopy
+,Nucleotidyltransferase family protein,Nucleotidyltransferase,2,4,4,4,2,Metabolism,isolate_only_multicopy
+,O-antigen ligase-related domain-containing protein,O-antigen ligase-related,3,1,1,1,-2,Metabolism,I6_only_multicopy
+,PDZ domain-containing protein,PDZ,4,2,2,2,-2,Other,I6_only_multicopy
+ulaA,PTS sugar transporter subunit IIC,ulaA,1,3,3,3,2,Other,isolate_only_multicopy
+,Peptidase,Peptidase,1,3,3,3,2,Other,isolate_only_multicopy
+,Phage holin family protein,Phage holin,1,3,3,3,2,Phage,isolate_only_multicopy
+,Phage portal protein,Phage portal protein,6,4,4,4,-2,Phage,I6_expanded
+,Phage protein,Phage protein,3,5,5,5,2,Phage,isolate_expanded
+,Polysaccharide deacetylase,Polysaccharide deacetylase,3,1,1,1,-2,Other,I6_only_multicopy
+prgI,PrgI family protein,prgI,1,3,3,3,2,Other,isolate_only_multicopy
+,Putative acetyltransferase,Putative acetyltransferase,3,1,1,1,-2,Metabolism,I6_only_multicopy
+,Pyrroline-5-carboxylate reductase,Pyrroline-5-carboxylate reductase,3,1,1,1,-2,Metabolism,I6_only_multicopy
+,Redoxin domain-containing protein,Redoxin,1,3,3,3,2,Other,isolate_only_multicopy
+,SCP domain-containing protein,SCP,1,3,3,3,2,Other,isolate_only_multicopy
+,SMI1/KNR4 family protein,SMI1/KNR4,1,3,3,3,2,Other,isolate_only_multicopy
+,SnoaL-like domain-containing protein,SnoaL-like,3,1,1,1,-2,Other,I6_only_multicopy
+,Spo0E like sporulation regulatory family protein,Spo0E like sporulation regulatory,2,4,4,4,2,Sporulation,isolate_only_multicopy
+,Spo0E like sporulation regulatory protein,Spo0E like sporulation regulatory protein,3,1,1,1,-2,Sporulation,I6_only_multicopy
+,Spore germination protein KA,Spore germination protein KA,4,2,2,2,-2,Sporulation,I6_only_multicopy
+,Spore gernimation protein,Spore gernimation protein,3,1,1,1,-2,Sporulation,I6_only_multicopy
+,TetR/AcrR family transcriptional regulator,TetR/AcrR family transcriptional regulator,2,4,4,4,2,Regulator,isolate_only_multicopy
+,Thermostable beta-glucosidase B,Thermostable beta-glucosidase B,4,2,2,2,-2,Other,I6_only_multicopy
+thiF,ThiF family protein,thiF,1,3,3,3,2,Other,isolate_only_multicopy
+,Thioredoxin,Thioredoxin,4,2,2,2,-2,Other,I6_only_multicopy
+,Transglutaminase,Transglutaminase,3,1,1,1,-2,Other,I6_only_multicopy
+,Transketolase,Transketolase,3,1,1,1,-2,Other,I6_only_multicopy
+,Transporter,Transporter,2,4,4,4,2,Other,isolate_only_multicopy
+,Transposase,Transposase,14,12,12,12,-2,IS transposase,I6_expanded
+murA,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,murA,1,3,3,3,2,Metabolism,isolate_only_multicopy
+,UDP-glucose 4-epimerase,UDP-glucose 4-epimerase,3,1,1,1,-2,Other,I6_only_multicopy
+yetF,YetF C-terminal domain-containing protein,yetF,3,1,1,1,-2,Other,I6_only_multicopy
+,YheC/D like ATP-grasp family protein,YheC/D like ATP-grasp,1,3,3,3,2,Other,isolate_only_multicopy
+,Zinc-ribbon domain protein,Zinc-ribbon,1,3,3,3,2,Other,isolate_only_multicopy
+,"oligo-1,6-glucosidase","oligo-1,6-glucosidase",1,3,3,3,2,Other,isolate_only_multicopy
+dapA,4-hydroxy-tetrahydrodipicolinate synthase,dapA,4,3,3,3,-1,Regulator,shared_same
+,6-phospho-beta-glucosidase,6-phospho-beta-glucosidase,5,6,6,6,1,Other,shared_same
+,ADP-ribosylglycohydrolase family protein,ADP-ribosylglycohydrolase,2,3,3,3,1,Metabolism,isolate_only_multicopy
+,ATPase,ATPase,4,3,3,3,-1,Other,shared_same
+,Alpha-amylase,Alpha-amylase,3,2,2,2,-1,Other,I6_only_multicopy
+,Alpha/beta hydrolase,Alpha/beta hydrolase,4,3,3,3,-1,Metabolism,shared_same
+,Aminopeptidase,Aminopeptidase,4,5,5,5,1,Other,shared_same
+,Antitoxin,Antitoxin,3,2,2,2,-1,Other,I6_only_multicopy
+arsR,ArsR family transcriptional regulator,arsR,6,5,5,5,-1,Regulator,shared_same
+,Asparaginase,Asparaginase,3,2,2,2,-1,Other,I6_only_multicopy
+,Beta-galactosidase,Beta-galactosidase,3,4,4,4,1,Other,shared_same
+,Beta-xylosidase,Beta-xylosidase,2,3,3,3,1,Other,isolate_only_multicopy
+,Copper amine oxidase-like N-terminal domain-containing protein,Copper amine oxidase-like N-terminal,11,12,12,12,1,Other,shared_same
+,DNA primase,DNA primase,2,3,3,3,1,Other,isolate_only_multicopy
+,DUF1450 domain-containing protein,DUF1450,2,3,3,3,1,DUF/domain,isolate_only_multicopy
+,DUF2768 domain-containing protein,DUF2768,3,2,2,2,-1,DUF/domain,I6_only_multicopy
+,DUF3139 domain-containing protein,DUF3139,2,3,3,3,1,DUF/domain,isolate_only_multicopy
+,DUF4097 domain-containing protein,DUF4097,2,3,3,3,1,DUF/domain,isolate_only_multicopy
+,DUF4183 domain-containing protein,DUF4183,2,3,3,3,1,DUF/domain,isolate_only_multicopy
+,DUF4190 domain-containing protein,DUF4190,2,3,3,3,1,DUF/domain,isolate_only_multicopy
+,DUF4367 domain-containing protein,DUF4367,8,9,9,9,1,DUF/domain,shared_same
+,FHA domain-containing protein,FHA,3,2,2,2,-1,Other,I6_only_multicopy
+,Fibronectin type-III domain-containing protein,Fibronectin type-III,3,2,2,2,-1,Other,I6_only_multicopy
+,GTP cyclohydrolase 1 type 2-like protein,GTP cyclohydrolase 1 type 2-like protein,3,2,2,2,-1,Metabolism,I6_only_multicopy
+,GerMN domain-containing protein,GerMN,3,2,2,2,-1,Other,I6_only_multicopy
+,Glucanase,Glucanase,2,3,3,3,1,Other,isolate_only_multicopy
+,Glutathione peroxidase,Glutathione peroxidase,2,3,3,3,1,Other,isolate_only_multicopy
+,Glycerophosphoryl diester phosphodiesterase,Glycerophosphoryl diester phosphodiesterase,2,3,3,3,1,Other,isolate_only_multicopy
+,Glycosyl hydrolases 28 family protein,Glycosyl hydrolases 28,3,2,2,2,-1,Metabolism,I6_only_multicopy
+,Glycosyl transferase,Glycosyl transferase,4,3,3,3,-1,Metabolism,shared_same
+,HAD family hydrolase,HAD family hydrolase,3,2,2,2,-1,Metabolism,I6_only_multicopy
+,Helix-turn-helix conjugative transposon-like domain-containing protein,Helix-turn-helix conjugative transposon-like,2,3,3,3,1,Other,isolate_only_multicopy
+,Heptaprenyl diphosphate synthase,Heptaprenyl diphosphate synthase,2,3,3,3,1,Metabolism,isolate_only_multicopy
+,Histidinol-phosphatase,Histidinol-phosphatase,3,2,2,2,-1,Other,I6_only_multicopy
+,IDEAL domain-containing protein,IDEAL,5,4,4,4,-1,Other,shared_same
+,Maltodextrin-binding protein,Maltodextrin-binding protein,3,2,2,2,-1,ABC transporter,I6_only_multicopy
+ubiE,Methyltransferase domain-containing protein,ubiE,5,6,6,6,1,Metabolism,shared_same
+,O-methyltransferase,O-methyltransferase,3,2,2,2,-1,Metabolism,I6_only_multicopy
+,OmpR/PhoB-type domain-containing protein,OmpR/PhoB-type,3,4,4,4,1,Other,shared_same
+,PTS EIIB type-2 domain-containing protein,PTS EIIB type-2,3,2,2,2,-1,Other,I6_only_multicopy
+,PTS glucose transporter subunit IIA,PTS glucose transporter subunit IIA,2,3,3,3,1,Other,isolate_only_multicopy
+padR,PadR family transcriptional regulator,padR,2,3,3,3,1,Regulator,isolate_only_multicopy
+pucR,PucR family transcriptional regulator,pucR,3,4,4,4,1,Regulator,shared_same
+,RNA polymerase sigma factor,RNA polymerase sigma factor,7,6,6,6,-1,Other,shared_same
+,RNA-binding protein,RNA-binding protein,3,2,2,2,-1,ABC transporter,I6_only_multicopy
+,Radical SAM protein,Radical SAM protein,2,3,3,3,1,Other,isolate_only_multicopy
+,SPOR domain-containing protein,SPOR,3,2,2,2,-1,Other,I6_only_multicopy
+,Sigma-70 family RNA polymerase sigma factor,Sigma-70 family RNA polymerase sigma factor,6,5,5,5,-1,Other,shared_same
+,Spore coat protein,Spore coat protein,4,3,3,3,-1,Sporulation,shared_same
+,Sugar ABC transporter ATP-binding protein,Sugar ABC transporter ATP-binding protein,5,4,4,4,-1,ABC transporter,shared_same
+,Tetratricopeptide repeat protein,Tetratricopeptide repeat protein,4,5,5,5,1,Regulator,shared_same
+,Transporter associated domain protein,Transporter associated,4,3,3,3,-1,Other,shared_same
+,VCBS repeat-containing protein,VCBS repeat-containing protein,2,3,3,3,1,Other,isolate_only_multicopy
+,VWA domain-containing protein,VWA,3,4,4,4,1,Other,shared_same
+,WYL domain-containing protein,WYL,3,2,2,2,-1,Other,I6_only_multicopy
+,Xylose isomerase-like TIM barrel domain-containing protein,Xylose isomerase-like TIM barrel,3,2,2,2,-1,Other,I6_only_multicopy
+yitT,YitT family protein,yitT,3,4,4,4,1,Other,shared_same
+nagZ,beta-N-acetylhexosaminidase,nagZ,3,4,4,4,1,Other,shared_same
+,chitinase,chitinase,3,2,2,2,-1,Other,I6_only_multicopy
+,cysteine-S-conjugate beta-lyase,cysteine-S-conjugate beta-lyase,2,3,3,3,1,Other,isolate_only_multicopy
+,helix-turn-helix transcriptional regulator,helix-turn-helix transcriptional regulator,2,3,3,3,1,Regulator,isolate_only_multicopy
+,non-reducing end alpha-L-arabinofuranosidase,non-reducing end alpha-L-arabinofuranosidase,2,3,3,3,1,Other,isolate_only_multicopy
+norM,putative multidrug resistance protein NorM,norM,5,4,4,4,-1,Drug efflux,shared_same
+,serine-type D-Ala-D-Ala carboxypeptidase,serine-type D-Ala-D-Ala carboxypeptidase,3,2,2,2,-1,Other,I6_only_multicopy
+,"ABC transporter, permease protein","ABC transporter, permease protein",3,3,3,3,0,ABC transporter,shared_same
+,ABC-2 type transporter transmembrane domain-containing protein,ABC-2 type transporter transmembrane,3,3,3,3,0,Other,shared_same
+,Beta-xylanase,Beta-xylanase,4,4,4,4,0,Other,shared_same
+,Binding-protein-dependent transport systems inner membrane component,Binding-protein-dependent transport systems inner ,3,3,3,3,0,Other,shared_same
+,CBS domain-containing protein,CBS,3,3,3,3,0,Other,shared_same
+,Cellobiose phosphorylase,Cellobiose phosphorylase,3,3,3,3,0,Other,shared_same
+cheA,Chemotaxis protein CheA,cheA,3,3,3,3,0,Motility,shared_same
+,DNA-binding protein,DNA-binding protein,3,3,3,3,0,ABC transporter,shared_same
+,DUF5643 domain-containing protein,DUF5643,3,3,3,3,0,DUF/domain,shared_same
+,DUF58 domain-containing protein,DUF58,4,4,4,4,0,DUF/domain,shared_same
+,Efflux RND transporter periplasmic adaptor subunit,Efflux RND transporter periplasmic adaptor subunit,4,4,4,4,0,Drug efflux,shared_same
+,Endospore germination permease,Endospore germination permease,3,3,3,3,0,ABC transporter,shared_same
+,Glycoside hydrolase family 2,Glycoside hydrolase family 2,3,3,3,3,0,Metabolism,shared_same
+,Glycosyl hydrolase,Glycosyl hydrolase,6,6,6,6,0,Metabolism,shared_same
+gntR,GntR family transcriptional regulator,gntR,3,3,3,3,0,Regulator,shared_same
+,Gp5/Type VI secretion system Vgr protein OB-fold domain-containing protein,Gp5/Type VI secretion system Vgr protein OB-fold,4,4,4,4,0,Other,shared_same
+,Permease IIC component,Permease IIC component,3,3,3,3,0,ABC transporter,shared_same
+,Phage tail protein,Phage tail protein,5,5,5,5,0,Phage,shared_same
+,Phosphoenolpyruvate-protein phosphotransferase,Phosphoenolpyruvate-protein phosphotransferase,3,3,3,3,0,Metabolism,shared_same
+,Pseudouridine synthase,Pseudouridine synthase,6,6,6,6,0,Metabolism,shared_same
+,SLH domain-containing protein,SLH,14,14,14,14,0,Other,shared_same
+,Sensor histidine kinase,Sensor histidine kinase,3,3,3,3,0,Metabolism,shared_same
+,Sucrose-6-phosphate hydrolase,Sucrose-6-phosphate hydrolase,3,3,3,3,0,Metabolism,shared_same
+,beta-fructofuranosidase,beta-fructofuranosidase,3,3,3,3,0,Other,shared_same
+,fructokinase,fructokinase,3,3,3,3,0,Metabolism,shared_same
+,peptidoglycan glycosyltransferase,peptidoglycan glycosyltransferase,3,3,3,3,0,Metabolism,shared_same

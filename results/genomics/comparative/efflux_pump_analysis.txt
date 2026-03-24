@@ -1,0 +1,1534 @@
+# Efflux Pump Analysis — H7 Assessment
+# Date: 2026-03-23
+
+## Summary
+M5 efflux pump genes: 521
+I6 efflux pump genes: 823
+Difference: -302
+
+## M5 efflux genes
+Locus_tag	Start	Stop	Product	IS_within_5kb
+NKFIDM_00030	37452	39083	formate--tetrahydrofolate ligase	YES (2 IS)
+NKFIDM_00077	88545	90335	ABC transporter substrate-binding protein	YES (1 IS)
+NKFIDM_00079	91313	92248	oligopeptide ABC transporter permease	YES (1 IS)
+NKFIDM_00080	92260	93240	ABC transporter domain-containing protein	YES (1 IS)
+NKFIDM_00081	93233	94198	Oligopeptide ABC transporter, ATP-binding protein AppF	YES (1 IS)
+NKFIDM_00095	111762	112343	aminodeoxychorismate/anthranilate synthase component II	no
+NKFIDM_00096	112340	113269	4-amino-4-deoxychorismate lyase	no
+NKFIDM_00172	184603	185724	sn-glycerol-3-phosphate ABC transporter ATP-binding protein UgpC	no
+NKFIDM_00196	209932	210765	ABC transporter permease subunit	no
+NKFIDM_00197	210769	211701	ABC transporter permease subunit	no
+NKFIDM_00201	216001	216735	ABC transporter permease	no
+NKFIDM_00203	217450	218364	ABC transporter family protein	no
+NKFIDM_00237	247986	248843	Sugar ABC transporter ATP-binding protein	no
+NKFIDM_00240	251851	252702	Spermidine/putrescine ABC transporter, permease protein PotB	no
+NKFIDM_00258	272760	273548	ABC transporter permease subunit	no
+NKFIDM_00260	274609	275307	ABC transporter family protein	no
+NKFIDM_00267	284349	285617	Glutamate-aspartate carrier protein	no
+NKFIDM_00280	298116	299276	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase	no
+NKFIDM_00281	300229	302004	ABC transporter family protein	no
+NKFIDM_00288	306305	307060	ABC transporter family protein	no
+NKFIDM_00307	326082	327329	MFS transporter	no
+NKFIDM_00327	345628	346524	MerR regulatory family protein	no
+NKFIDM_00329	349361	350188	Sugar ABC transporter ATP-binding protein	no
+NKFIDM_00367	397285	398208	ABC transporter family protein	no
+NKFIDM_00372	400815	401129	ABC transporter permease subunit	no
+NKFIDM_00381	409117	409941	MerR family transcriptional regulator	YES (1 IS)
+NKFIDM_00386	414515	416992	Na+/H+ antiporter subunit A	YES (1 IS)
+NKFIDM_00387	416979	417401	Na(+)/H(+) antiporter subunit B	YES (1 IS)
+NKFIDM_00388	417403	417744	Na(+)/H(+) antiporter subunit C	YES (1 IS)
+NKFIDM_00389	417737	419212	Na+/H+ antiporter subunit D	no
+NKFIDM_00390	419228	419707	Na(+)/H(+) antiporter subunit E	no
+NKFIDM_00391	419704	419985	Na(+)/H(+) antiporter subunit F1	no
+NKFIDM_00392	419969	420382	Na+/H+ antiporter subunit G	no
+NKFIDM_00405	438427	439368	Carbohydrate ABC transporter permease	no
+NKFIDM_00414	449767	450687	ABC transporter permease subunit	no
+NKFIDM_00415	450687	451496	ABC transporter, permease protein	no
+NKFIDM_00416	451493	452536	ABC transporter ATP-binding protein	no
+NKFIDM_00455	493156	494970	ABC transporter family protein	no
+NKFIDM_00456	494960	496708	ABC transporter family protein	no
+NKFIDM_00487	534360	535235	ABC transporter permease subunit	no
+NKFIDM_00488	535235	536071	ABC transporter permease subunit	no
+NKFIDM_00527	581847	582224	MerR family transcriptional regulator	YES (1 IS)
+NKFIDM_00528	582391	583761	Efflux RND transporter periplasmic adaptor subunit	YES (1 IS)
+NKFIDM_00529	583754	586903	AcrB/AcrD/AcrF family protein	YES (1 IS)
+NKFIDM_00533	590742	591668	ABC transporter permease subunit	no
+NKFIDM_00550	619313	620476	multiple monosaccharide ABC transporter permease	no
+NKFIDM_00551	620481	622010	multiple monosaccharide ABC transporter ATP-binding protein	no
+NKFIDM_00552	622150	623319	multiple monosaccharide ABC transporter substrate-binding protein	no
+NKFIDM_00555	626976	627989	Sugar ABC transporter	no
+NKFIDM_00561	634071	634967	Sugar ABC transporter permease	no
+NKFIDM_00637	741445	742803	putative multidrug resistance protein NorM	no
+NKFIDM_00645	753747	754895	D-glutamate N-acetyltransferase-like C-terminal domain-containing protein	no
+NKFIDM_00646	754918	756063	D-glutamate N-acetyltransferase-like C-terminal domain-containing protein	no
+NKFIDM_00648	757384	758766	3-phosphoshikimate 1-carboxyvinyltransferase	no
+NKFIDM_00649	758827	760224	MATE efflux family protein	no
+NKFIDM_00681	797390	798265	ABC transporter permease subunit	no
+NKFIDM_00682	798290	799120	ABC transporter permease subunit	no
+NKFIDM_00691	808158	808961	ABC transporter family protein	no
+NKFIDM_00704	820500	821576	Sulfate ABC transporter substrate-binding protein	YES (3 IS)
+NKFIDM_00705	821676	822506	sulfate ABC transporter permease subunit CysT	YES (3 IS)
+NKFIDM_00706	822548	823408	sulfate ABC transporter permease subunit CysW	YES (2 IS)
+NKFIDM_00742	860963	861841	ABC transporter permease subunit	YES (1 IS)
+NKFIDM_00748	870981	872999	Na+/H+ antiporter	no
+NKFIDM_00761	885646	886644	ABC transporter substrate-binding protein	no
+NKFIDM_00795	912345	912731	MerR family transcriptional regulator	no
+NKFIDM_00801	918825	919679	ABC transporter permease subunit	no
+NKFIDM_00802	919752	920576	ABC transporter permease protein YtcP	no
+NKFIDM_00823	951293	952390	Autoinducer 2 ABC transporter substrate-binding protein	no
+NKFIDM_00835	968031	968915	ABC transporter permease subunit	no
+NKFIDM_00836	968918	969739	ABC transporter permease subunit	no
+NKFIDM_00844	976201	977502	ABC transporter family protein	no
+NKFIDM_00880	1022604	1023323	ABC transporter permease	YES (1 IS)
+NKFIDM_00882	1023782	1024708	ABC transporter family protein	YES (1 IS)
+NKFIDM_00893	1033398	1034663	MFS transporter	no
+NKFIDM_00897	1038040	1038861	ABC transporter permease subunit	no
+NKFIDM_00898	1038858	1039727	ABC transporter permease subunit	no
+NKFIDM_00903	1045110	1046522	MATE efflux family protein	no
+NKFIDM_00911	1055344	1055946	ABC transporter ATP-binding protein	no
+NKFIDM_00914	1061475	1063004	Drug resistance MFS transporter, drug:H+ antiporter-2 family protein	no
+NKFIDM_00917	1063709	1064179	MarR family protein	no
+NKFIDM_00918	1064443	1065147	ABC transporter family protein	no
+NKFIDM_00919	1065162	1066433	Bacterial ABC transporter EcsB family protein	no
+NKFIDM_00925	1072895	1073554	ABC transporter permease subunit	no
+NKFIDM_00926	1073548	1074612	ABC transporter family protein	no
+NKFIDM_00928	1075837	1076661	Methionine ABC transporter substrate-binding protein	no
+NKFIDM_00964	1120194	1121144	ABC transporter permease subunit	YES (1 IS)
+NKFIDM_00965	1121146	1122012	ABC transporter permease subunit	YES (1 IS)
+NKFIDM_00966	1122154	1123611	ABC transporter substrate-binding protein	YES (1 IS)
+NKFIDM_00967	1123765	1124886	5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase	YES (1 IS)
+NKFIDM_00970	1128697	1130010	glutamate-1-semialdehyde 2,1-aminomutase	YES (1 IS)
+NKFIDM_00990	1157038	1157955	ABC transporter family protein	no
+NKFIDM_01001	1171628	1172590	ABC transporter permease subunit	no
+NKFIDM_01020	1193589	1194374	ABC transporter family protein	no
+NKFIDM_01023	1196263	1197276	ABC transporter family protein	YES (1 IS)
+NKFIDM_01030	1204604	1205068	MarR family protein	YES (1 IS)
+NKFIDM_01042	1214203	1215180	ABC transporter substrate-binding protein	no
+NKFIDM_01063	1240416	1241144	Glutamine ABC transporter, ATP-binding protein GlnQ	no
+NKFIDM_01065	1242129	1242779	ABC transporter permease subunit	no
+NKFIDM_01066	1242810	1243460	ABC transporter permease subunit	no
+NKFIDM_01084	1265248	1266072	ABC transporter family protein	YES (1 IS)
+NKFIDM_01085	1266069	1266821	ABC transporter permease	YES (1 IS)
+NKFIDM_01118	1298928	1299407	ABC transporter permease	no
+NKFIDM_01119	1299489	1299878	ABC transporter permease	no
+NKFIDM_01172	1352727	1354112	MFS-type transporter YcnB	no
+NKFIDM_01224	1413244	1414530	MFS transporter	no
+NKFIDM_01230	1422647	1424089	MFS-type transporter YcnB	no
+NKFIDM_01237	1431033	1431410	MerR family transcriptional regulator	no
+NKFIDM_01250	1445323	1445646	MerR regulatory family protein	no
+NKFIDM_01261	1453345	1454691	MFS transporter	YES (1 IS)
+NKFIDM_01262	1454688	1455164	Daunorubicin/doxorubicin resistance ABC transporter permease protein drrB	YES (1 IS)
+NKFIDM_01277	1475158	1476456	ABC transporter substrate-binding protein	no
+NKFIDM_01278	1476571	1477455	Carbohydrate ABC transporter membrane protein 1 (CUT1 family)	no
+NKFIDM_01279	1477482	1478321	ABC transporter permease subunit	no
+NKFIDM_01289	1487849	1489627	ABC transporter family protein	no
+NKFIDM_01290	1489614	1491389	ABC transporter family protein	no
+NKFIDM_01357	1587733	1588863	D-xylose ABC transporter substrate-binding protein	no
+NKFIDM_01358	1588915	1590426	xylose ABC transporter ATP-binding protein	no
+NKFIDM_01367	1601040	1602470	Putative basic amino acid antiporter YfcC	no
+NKFIDM_01370	1605866	1606582	Lantibiotic protection ABC transporter ATP-binding subunit	no
+NKFIDM_01371	1606575	1607333	Lantibiotic immunity ABC transporter MutE/EpiE family permease subunit	no
+NKFIDM_01372	1607336	1608127	Lantibiotic protection ABC transporter permease subunit, MutG family protein	no
+NKFIDM_01416	1656096	1657013	ABC transporter permease subunit	no
+NKFIDM_01418	1658041	1659018	ABC transporter domain-containing protein	no
+NKFIDM_01419	1659018	1660193	ABC transporter domain-containing protein	no
+NKFIDM_01441	1686178	1686954	ABC transporter permease	no
+NKFIDM_01442	1686951	1687949	ABC transporter permease	no
+NKFIDM_01443	1688096	1689253	ABC transporter family protein	no
+NKFIDM_01449	1699700	1701070	Efflux transporter, RND family, MFP subunit	YES (1 IS)
+NKFIDM_01450	1701067	1702329	ABC transporter permease	YES (1 IS)
+NKFIDM_01454	1706373	1707077	ABC transporter family protein	YES (1 IS)
+NKFIDM_01459	1712973	1713764	ABC transporter family protein	no
+NKFIDM_01460	1713757	1714437	ABC transporter permease subunit	no
+NKFIDM_01472	1729556	1730440	ABC transporter permease subunit	YES (1 IS)
+NKFIDM_01473	1730458	1731300	ABC transporter permease subunit	YES (1 IS)
+NKFIDM_01481	1745788	1746447	ABC transporter permease subunit	no
+NKFIDM_01486	1752522	1753403	ABC transporter permease subunit	no
+NKFIDM_01487	1753403	1754233	ABC transporter permease subunit	no
+NKFIDM_01497	1766626	1767507	Sugar ABC transporter permease	YES (1 IS)
+NKFIDM_01498	1767518	1768405	Carbohydrate ABC transporter permease	YES (1 IS)
+NKFIDM_01504	1775685	1776542	ABC transporter permease subunit	no
+NKFIDM_01505	1776557	1777381	ABC transporter permease subunit	no
+NKFIDM_01534	1806308	1810909	glutamate synthase large subunit	no
+NKFIDM_01538	1812778	1813692	ABC transporter family protein	no
+NKFIDM_01539	1813685	1814461	ABC transporter permease subunit	no
+NKFIDM_01571	1845104	1845925	ABC transporter permease subunit	YES (1 IS)
+NKFIDM_01572	1845918	1846664	ABC transporter family protein	YES (1 IS)
+NKFIDM_01576	1850038	1850904	ABC transporter permease subunit	no
+NKFIDM_01578	1851659	1852450	ABC transporter family protein	no
+NKFIDM_01605	1882115	1883053	ABC transporter, permease protein	no
+NKFIDM_01606	1883053	1883892	ABC transporter permease subunit	no
+NKFIDM_01624	1897798	1898532	ABC transporter ATP-binding protein	no
+NKFIDM_01645	1921118	1922056	ABC transporter family protein	no
+NKFIDM_01646	1922043	1922984	ABC transporter permease subunit	no
+NKFIDM_01659	1941015	1942079	Sulfate ABC transporter ATP-binding protein	YES (1 IS)
+NKFIDM_01661	1943606	1944613	ABC transporter family protein	YES (1 IS)
+NKFIDM_01666	1949132	1949929	glutamate racemase	YES (1 IS)
+NKFIDM_01675	1958180	1959055	ABC transporter permease subunit	no
+NKFIDM_01676	1959081	1959926	ABC transporter permease subunit	no
+NKFIDM_01683	1968179	1969255	ABC transporter substrate-binding protein	no
+NKFIDM_01684	1969269	1970060	ABC transporter family protein	no
+NKFIDM_01690	1977228	1978247	ABC transporter substrate-binding protein	no
+NKFIDM_01692	1979290	1980123	ABC transporter family protein	no
+NKFIDM_01700	1988654	1990198	Drug resistance MFS transporter, drug:H+ antiporter-2 family protein	no
+NKFIDM_01707	1996983	1998029	ABC transporter substrate-binding protein	no
+NKFIDM_01763	2066510	2068048	ABC transporter family protein	no
+NKFIDM_01765	2069116	2070075	ABC transporter permease	no
+NKFIDM_01826	2137049	2138092	bifunctional 3-deoxy-7-phosphoheptulonate synthase/chorismate mutase	YES (1 IS)
+NKFIDM_01827	2138344	2139768	type I glutamate--ammonia ligase	YES (1 IS)
+NKFIDM_01831	2144660	2145553	ABC transporter permease subunit	YES (1 IS)
+NKFIDM_01848	2171180	2171563	Branched-chain amino acid ABC transporter substrate-binding protein	no
+NKFIDM_01899	2224763	2225605	(pseudo) glutamate-1-semialdehyde 2,1-aminomutase	no
+NKFIDM_01915	2242283	2243599	C4-dicarboxylate ABC transporter	no
+NKFIDM_01924	2249431	2250357	ribose ABC transporter substrate-binding protein RbsB	YES (1 IS)
+NKFIDM_01925	2250370	2251296	Ribose ABC transporter permease	YES (1 IS)
+NKFIDM_01959	2284781	2286916	formate dehydrogenase subunit alpha	no
+NKFIDM_01965	2293250	2294068	formate dehydrogenase accessory sulfurtransferase FdhD	no
+NKFIDM_02000	2335306	2335482	Glutamate decarboxylase	no
+NKFIDM_02022	2360198	2360953	phosphate ABC transporter ATP-binding protein PstB	no
+NKFIDM_02031	2368695	2369597	phosphate ABC transporter permease subunit PstC	YES (1 IS)
+NKFIDM_02032	2369594	2370481	phosphate ABC transporter permease PstA	YES (1 IS)
+NKFIDM_02033	2370494	2371252	phosphate ABC transporter ATP-binding protein PstB	YES (1 IS)
+NKFIDM_02039	2375363	2376196	ABC transporter permease subunit	YES (1 IS)
+NKFIDM_02040	2376219	2377106	ABC transporter permease subunit	YES (1 IS)
+NKFIDM_02050	2387622	2388437	glutamate racemase	no
+NKFIDM_02055	2392295	2393236	oligopeptide ABC transporter permease	no
+NKFIDM_02056	2393259	2394944	Peptide ABC transporter substrate-binding protein	no
+NKFIDM_02058	2396549	2398144	ABC transporter substrate-binding protein	no
+NKFIDM_02059	2398230	2399180	ABC transporter permease subunit	no
+NKFIDM_02060	2399209	2400138	ABC transporter permease subunit	no
+NKFIDM_02062	2401187	2402191	Dipeptide ABC transporter ATP-binding protein	no
+NKFIDM_02085	2423925	2424749	ABC transporter permease subunit	no
+NKFIDM_02099	2441158	2442567	putative multidrug resistance protein NorM	YES (1 IS)
+NKFIDM_02120	2460635	2462005	putative multidrug resistance protein NorM	no
+NKFIDM_02133	2471822	2472247	MerR family transcriptional regulator	no
+NKFIDM_02168	2508327	2509937	nickel ABC transporter substrate-binding protein	no
+NKFIDM_02169	2509950	2510891	nickel ABC transporter permease	no
+NKFIDM_02171	2511754	2512620	ABC transporter family protein	no
+NKFIDM_02172	2512598	2513401	ABC transporter family protein	no
+NKFIDM_02186	2522354	2523133	ABC transporter family protein	no
+NKFIDM_02190	2527033	2527851	MerR family transcriptional regulator	no
+NKFIDM_02207	2545565	2545879	QacE family quaternary ammonium compound efflux SMR transporter	no
+NKFIDM_02208	2545881	2546228	Small Multidrug Resistance family protein	no
+NKFIDM_02225	2567873	2568820	ABC transporter permease subunit	no
+NKFIDM_02226	2568817	2569620	ABC transporter permease subunit	no
+NKFIDM_02228	2570419	2571207	ABC transporter family protein	no
+NKFIDM_02252	2602200	2603180	Glutamate/Leucine/Phenylalanine/Valine dehydrogenase family protein	YES (2 IS)
+NKFIDM_02262	2614234	2615121	ABC transporter permease subunit	no
+NKFIDM_02263	2615135	2615965	Sugar ABC transporter ATP-binding protein	no
+NKFIDM_02264	2616026	2617378	ABC transporter substrate-binding protein	no
+NKFIDM_02275	2630396	2631463	ABC transporter family protein	no
+NKFIDM_02276	2631460	2632140	ABC transporter permease subunit	no
+NKFIDM_02282	2636070	2636384	Multidrug resistance protein ykkD	no
+NKFIDM_02283	2636381	2636722	Multidrug resistance protein ykkC	no
+NKFIDM_02288	2644284	2645693	MFS transporter	no
+NKFIDM_02300	2654622	2655701	Iron chelate uptake ABC transporter family permease subunit	YES (1 IS)
+NKFIDM_02301	2655706	2656467	ABC transporter family protein	YES (1 IS)
+NKFIDM_02302	2656484	2657512	ABC transporter substrate-binding protein	YES (1 IS)
+NKFIDM_02313	2674638	2675345	ABC transporter family protein	no
+NKFIDM_02315	2676144	2677313	ABC transporter substrate-binding protein	no
+NKFIDM_02317	2678672	2680960	5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase	no
+NKFIDM_02318	2681400	2681591	Small Multidrug Resistance family protein	no
+NKFIDM_02343	2710678	2711793	ABC transporter family protein	no
+NKFIDM_02345	2712697	2713518	ABC transporter permease subunit	no
+NKFIDM_02361	2730267	2731124	ABC transporter permease subunit	no
+NKFIDM_02362	2731152	2732039	ABC transporter permease subunit	no
+NKFIDM_02381	2757902	2759131	Multidrug resistance family protein	no
+NKFIDM_02396	2779179	2780546	MFS transporter	no
+NKFIDM_02408	2793929	2794756	ABC transporter permease	no
+NKFIDM_02409	2794753	2795547	ABC transporter family protein	no
+NKFIDM_02410	2795561	2796625	ABC transporter, substrate-binding, aliphatic sulfonates family protein	no
+NKFIDM_02417	2805427	2806776	MFS transporter	no
+NKFIDM_02426	2817499	2818134	Chromate transporter	no
+NKFIDM_02427	2818148	2818681	Chromate transporter	no
+NKFIDM_02458	2859747	2861066	MFS transporter	no
+NKFIDM_02465	2869576	2870544	ABC transporter permease subunit	YES (2 IS)
+NKFIDM_02481	2891327	2892238	ABC transporter permease subunit	no
+NKFIDM_02482	2892231	2893055	ABC transporter permease subunit	no
+NKFIDM_02484	2894246	2894746	MarR family transcriptional regulator	no
+NKFIDM_02529	2932790	2933152	MarR family transcriptional regulator	no
+NKFIDM_02603	3017663	3019033	MFS transporter	no
+NKFIDM_02605	3021966	3023252	MFS transporter	no
+NKFIDM_02607	3024605	3025435	ABC transporter permease subunit	no
+NKFIDM_02608	3025460	3026347	ABC transporter permease subunit	no
+NKFIDM_02642	3073634	3074350	ABC transporter family protein	no
+NKFIDM_02643	3074367	3075668	ABC transporter permease	no
+NKFIDM_02668	3108147	3109376	MFS transporter	no
+NKFIDM_02669	3109389	3110171	ABC transporter family protein	no
+NKFIDM_02726	3170512	3171759	glutamate-5-semialdehyde dehydrogenase	YES (1 IS)
+NKFIDM_02727	3171789	3172895	Glutamate 5-kinase	YES (1 IS)
+NKFIDM_02762	3213604	3214278	molybdate ABC transporter permease subunit	YES (1 IS)
+NKFIDM_02763	3214288	3215136	molybdate ABC transporter substrate-binding protein	YES (1 IS)
+NKFIDM_02774	3228448	3229635	formate-dependent phosphoribosylglycinamide formyltransferase	YES (1 IS)
+NKFIDM_02780	3235845	3236645	ABC transporter family protein	YES (1 IS)
+NKFIDM_02781	3236642	3237346	ABC transporter family protein	no
+NKFIDM_02789	3246932	3247942	galactose/methyl galactoside ABC transporter permease MglC	YES (1 IS)
+NKFIDM_02799	3258166	3259155	ABC transporter permease subunit	no
+NKFIDM_02804	3267095	3267505	MarR family protein	no
+NKFIDM_02807	3269516	3271270	ABC transporter family protein	no
+NKFIDM_02809	3272779	3273558	ABC transporter family protein	no
+NKFIDM_02821	3284608	3285525	ABC transporter permease subunit	no
+NKFIDM_02822	3285548	3286408	ABC transporter permease subunit	no
+NKFIDM_02858	3327780	3328991	MFS transporter	no
+NKFIDM_02863	3332657	3333640	ABC transporter family protein	no
+NKFIDM_02864	3333637	3334506	ABC transporter permease subunit	no
+NKFIDM_02886	3356275	3357225	ABC transporter permease subunit	no
+NKFIDM_02895	3367902	3368735	Inner membrane ABC transporter permease protein YcjP	no
+NKFIDM_02902	3377483	3378898	Sugar ABC transporter substrate-binding protein	no
+NKFIDM_02914	3391307	3392077	ABC transporter family protein	no
+NKFIDM_02916	3394321	3395754	Drug resistance MFS transporter, drug:H+ antiporter-2 family protein	YES (1 IS)
+NKFIDM_02918	3396862	3397593	ABC transporter permease	YES (1 IS)
+NKFIDM_02919	3397590	3398309	ABC transporter family protein	YES (1 IS)
+NKFIDM_02928	3408864	3409745	ABC transporter permease subunit	no
+NKFIDM_02959	3445834	3446211	MerR family transcriptional regulator	no
+NKFIDM_02961	3447614	3448747	MFS transporter	YES (2 IS)
+NKFIDM_03018	3500469	3501878	DHA2 family efflux MFS transporter permease subunit	no
+NKFIDM_03041	3529170	3530432	MFS transporter	YES (1 IS)
+NKFIDM_03043	3531256	3532242	ABC transporter family protein	YES (1 IS)
+NKFIDM_03045	3532784	3533647	ABC transporter family protein	YES (1 IS)
+NKFIDM_03048	3536330	3537844	Sugar ABC transporter substrate-binding protein	YES (1 IS)
+NKFIDM_03049	3537935	3538888	ABC transporter permease subunit	YES (1 IS)
+NKFIDM_03050	3538885	3539700	ABC transporter permease subunit	YES (1 IS)
+NKFIDM_03074	3568114	3568944	ABC transporter family protein	no
+NKFIDM_03091	3589054	3590382	type I glutamate--ammonia ligase	no
+NKFIDM_03111	3612267	3612755	ABC transporter permease	no
+NKFIDM_03133	3633699	3635186	Glutamate synthase (NADPH/NADH) small chain	no
+NKFIDM_03145	3647236	3647970	ABC transporter family protein	no
+NKFIDM_03156	3661118	3661780	ABC transporter permease subunit	YES (1 IS)
+NKFIDM_03157	3661767	3662489	Arginine ABC transporter, ATP-binding protein ArtM	YES (1 IS)
+NKFIDM_03168	3672102	3672548	MarR family transcriptional regulator	no
+NKFIDM_03188	3691215	3691613	MerR family DNA-binding transcriptional regulator	YES (2 IS)
+NKFIDM_03252	3746351	3746710	MerR regulatory family protein	no
+NKFIDM_03262	3757798	3758685	MarR family transcriptional regulator	no
+NKFIDM_03284	3782183	3782434	ABC transporter family protein	no
+NKFIDM_03285	3782542	3783753	MFS transporter	no
+NKFIDM_03318	3816554	3817978	MDR family MFS transporter	no
+NKFIDM_03353	3852564	3853394	Sugar ABC transporter ATP-binding protein	no
+NKFIDM_03361	3860371	3861519	Sodium:proton antiporter	YES (1 IS)
+NKFIDM_03385	3888447	3889358	ABC transporter permease subunit	no
+NKFIDM_03395	3902211	3903701	ABC transporter family protein	no
+NKFIDM_03419	3931130	3932308	MFS transporter	no
+NKFIDM_03433	3945160	3945585	MarR family protein	no
+NKFIDM_03434	3945743	3947221	DHA2 family efflux MFS transporter permease subunit	no
+NKFIDM_03453	3964795	3965562	ABC transporter family protein	no
+NKFIDM_03454	3965592	3966260	ABC transporter permease subunit	no
+NKFIDM_03455	3966241	3966906	ABC transporter permease subunit	no
+NKFIDM_03462	3974794	3975558	MerR family transcriptional regulator	no
+NKFIDM_03466	3980026	3980994	ABC transporter permease subunit	YES (1 IS)
+NKFIDM_03476	3991433	3992476	ABC transporter substrate-binding protein	no
+NKFIDM_03478	3992686	3993666	Iron chelate uptake ABC transporter family permease subunit	no
+NKFIDM_03479	3993666	3994715	Iron chelate uptake ABC transporter family permease subunit	no
+NKFIDM_03509	4033317	4034264	ABC transporter permease subunit	no
+NKFIDM_03532	4061476	4062261	ABC transporter permease	no
+NKFIDM_03533	4062269	4063072	ABC transporter permease	no
+NKFIDM_03534	4063065	4064114	ABC transporter, ATP-binding protein	no
+NKFIDM_03556	4086403	4087044	ABC transporter permease	YES (1 IS)
+NKFIDM_03604	4121696	4122967	MFS transporter	no
+NKFIDM_03605	4122964	4123443	MarR family transcriptional regulator	no
+NKFIDM_03621	4137715	4138104	fluoride efflux transporter CrcB	YES (2 IS)
+NKFIDM_03622	4138101	4138466	fluoride efflux transporter CrcB	YES (2 IS)
+NKFIDM_03638	4150934	4151731	ABC transporter family protein	no
+NKFIDM_03639	4151731	4152645	ABC transporter permease	no
+NKFIDM_03645	4159013	4160260	Chromate transporter, chromate ion transporter family protein	no
+NKFIDM_03659	4171567	4173393	ABC transporter ATP-binding protein	no
+NKFIDM_03671	4187855	4188721	ABC transporter family protein	no
+NKFIDM_03675	4190760	4191986	MFS transporter	no
+NKFIDM_03683	4198709	4200472	ABC transporter family protein	no
+NKFIDM_03686	4201995	4203740	Putative multidrug resistance ABC transporter ATP-binding/permease protein YheI	no
+NKFIDM_03687	4203757	4205829	Putative multidrug resistance ABC transporter ATP-binding/permease protein YheH	no
+NKFIDM_03695	4215038	4216540	Drug resistance MFS transporter, drug:H+ antiporter-2 family protein	no
+NKFIDM_03769	4296363	4297877	Protein-glutamate methylesterase/protein-glutamine glutaminase	no
+NKFIDM_03804	4331964	4332926	ABC transporter domain-containing protein	YES (1 IS)
+NKFIDM_03805	4332923	4333900	ABC transporter domain-containing protein	YES (1 IS)
+NKFIDM_03807	4335280	4336884	ABC transporter substrate-binding protein	YES (1 IS)
+NKFIDM_03808	4336936	4337832	ABC transporter permease subunit	no
+NKFIDM_03870	4402617	4404011	MFS transporter	no
+NKFIDM_03876	4411995	4413068	bifunctional 3-deoxy-7-phosphoheptulonate synthase/chorismate mutase	no
+NKFIDM_03885	4424670	4426181	DHA2 family efflux MFS transporter permease subunit	no
+NKFIDM_03886	4426174	4426623	MarR family protein	no
+NKFIDM_03898	4440698	4442080	MFS transporter	no
+NKFIDM_03929	4473202	4473972	ABC transporter family protein	no
+NKFIDM_03937	4479796	4480788	ABC transporter substrate-binding protein	no
+NKFIDM_03941	4483784	4484692	Alpha-L-glutamate ligase, RimK family protein	no
+NKFIDM_03995	4538275	4538649	chorismate mutase	no
+NKFIDM_03997	4539745	4540914	chorismate synthase	no
+NKFIDM_03999	4542522	4543349	protein-glutamate O-methyltransferase	no
+NKFIDM_04002	4544894	4545763	Chorismate dehydratase	no
+NKFIDM_04010	4550630	4552030	MFS transporter	no
+NKFIDM_04058	4597652	4597750	MerR family transcriptional regulator	no
+NKFIDM_04062	4603716	4604948	Sodium:proton antiporter	no
+NKFIDM_04071	4612787	4613674	ABC transporter permease subunit	no
+NKFIDM_04072	4613720	4614538	ABC transporter permease subunit	no
+NKFIDM_04077	4620108	4620950	ABC transporter permease subunit	no
+NKFIDM_04147	4684855	4685616	ABC transporter family protein	no
+NKFIDM_04148	4685707	4686732	ABC transporter substrate-binding protein	no
+NKFIDM_04155	4698090	4698917	ABC transporter permease subunit	no
+NKFIDM_04158	4701471	4702226	pyruvate formate-lyase-activating protein	no
+NKFIDM_04159	4702302	4704563	formate C-acetyltransferase	no
+NKFIDM_04162	4708881	4709690	Formate/nitrite transporter family protein	no
+NKFIDM_04258	4818199	4819491	3-phosphoshikimate 1-carboxyvinyltransferase	no
+NKFIDM_04259	4819520	4820032	Shikimate kinase	no
+NKFIDM_04263	4823366	4824628	MFS transporter	no
+NKFIDM_04294	4846687	4847577	ABC transporter domain-containing protein	no
+NKFIDM_04296	4850478	4851566	Efflux RND transporter periplasmic adaptor subunit	no
+NKFIDM_04297	4851529	4852377	ABC transporter family protein	no
+NKFIDM_04321	4880180	4880992	MerR family transcriptional regulator	YES (1 IS)
+NKFIDM_04330	4889912	4890817	UDP-N-acetylmuramate dehydrogenase	no
+NKFIDM_04333	4893320	4894744	UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase	no
+NKFIDM_04336	4897136	4898626	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase	no
+NKFIDM_04349	4916135	4917076	Oligopeptide ABC transporter, ATP-binding protein OppF	no
+NKFIDM_04351	4918080	4919036	ABC transporter permease subunit	no
+NKFIDM_04352	4919039	4919971	ABC transporter permease subunit	no
+NKFIDM_04452	5031013	5032479	DHA2 family efflux MFS transporter permease subunit	no
+NKFIDM_04453	5032668	5033153	MarR family protein	no
+NKFIDM_04480	5063961	5064899	ABC transporter permease subunit	no
+NKFIDM_04481	5064921	5065880	ABC transporter permease subunit	no
+NKFIDM_04493	5078682	5079572	ABC transporter permease subunit	YES (1 IS)
+NKFIDM_04523	5109126	5109752	ABC transporter family protein	no
+NKFIDM_04524	5110000	5110677	ABC transporter family protein	YES (2 IS)
+NKFIDM_04526	5113562	5114521	ABC transporter transmembrane region family protein	YES (2 IS)
+NKFIDM_04541	5128937	5129830	ABC transporter permease subunit	YES (1 IS)
+NKFIDM_04549	5134450	5135340	shikimate dehydrogenase	no
+NKFIDM_04577	5174493	5175407	ABC transporter permease subunit	no
+NKFIDM_04578	5175454	5176332	ABC transporter permease subunit	no
+NKFIDM_04582	5181590	5182423	ABC transporter permease subunit	no
+NKFIDM_04664	5273130	5274005	ABC transporter permease subunit	no
+NKFIDM_04665	5274039	5274941	Polysaccharide ABC transporter ATP-binding protein	YES (1 IS)
+NKFIDM_04671	5283866	5284828	carbamate kinase	YES (1 IS)
+NKFIDM_04672	5284866	5286281	arginine-ornithine antiporter	YES (1 IS)
+NKFIDM_04702	5319290	5321038	ABC transporter family protein	no
+NKFIDM_04776	5419674	5421329	Drug resistance MFS transporter, drug:H+ antiporter-2 family protein	YES (1 IS)
+NKFIDM_04777	5421329	5421769	MarR family protein	YES (1 IS)
+NKFIDM_04781	5425238	5426566	Carbohydrate ABC transporter substrate-binding protein	YES (1 IS)
+NKFIDM_04801	5452091	5453128	ABC transporter substrate-binding protein	no
+NKFIDM_04803	5454163	5454945	ABC transporter family protein	no
+NKFIDM_04809	5458859	5459899	Protein-glutamate methylesterase/protein-glutamine glutaminase	no
+NKFIDM_04810	5459924	5460739	protein-glutamate O-methyltransferase	no
+NKFIDM_04895	5573192	5574163	ABC transporter substrate-binding protein	no
+NKFIDM_04901	5579359	5580120	ABC transporter family protein	no
+NKFIDM_04902	5580117	5580914	ABC transporter family protein	no
+NKFIDM_04904	5581759	5582706	nickel ABC transporter permease	no
+NKFIDM_04905	5582707	5584260	nickel ABC transporter substrate-binding protein	no
+NKFIDM_04912	5591065	5591667	ABC transporter family protein	no
+NKFIDM_04916	5594408	5596063	ABC transporter substrate-binding protein	no
+NKFIDM_04918	5597120	5597899	ABC transporter family protein	no
+NKFIDM_04919	5597880	5598893	ABC transporter substrate-binding protein	no
+NKFIDM_04920	5599160	5599318	ABC transporter ATP-binding protein	no
+NKFIDM_04924	5601016	5602410	Drug resistance MFS transporter, drug:H+ antiporter-2 family protein	no
+NKFIDM_05031	5691819	5693204	UDP-N-acetylmuramate--L-alanine ligase	YES (1 IS)
+NKFIDM_05037	5701732	5702673	ABC transporter family protein	no
+NKFIDM_05040	5704347	5705648	glutamate-1-semialdehyde 2,1-aminomutase	no
+NKFIDM_05061	5731427	5732431	Dipeptide ABC transporter, permease protein DppB	YES (1 IS)
+NKFIDM_05063	5734214	5735194	ABC transporter domain-containing protein	YES (1 IS)
+NKFIDM_05064	5735191	5736180	Oligopeptide ABC transporter, ATP-binding protein AppD	no
+NKFIDM_05070	5740205	5741113	ABC transporter family protein	no
+NKFIDM_05071	5741110	5741817	ABC transporter permease	no
+NKFIDM_05091	5761835	5762281	HTH marR-type domain-containing protein	no
+NKFIDM_05141	5816772	5817989	Bacterial ABC transporter EcsB family protein	no
+NKFIDM_05157	5834177	5834926	MerR regulatory family protein	YES (1 IS)
+NKFIDM_05212	5893984	5894838	ABC transporter permease subunit	no
+NKFIDM_05213	5894855	5895808	ABC transporter permease subunit	no
+NKFIDM_05216	5899551	5900816	MFS transporter	YES (1 IS)
+NKFIDM_05284	5972052	5973089	methionine ABC transporter ATP-binding protein	no
+NKFIDM_05299	5993560	5994441	ABC transporter permease subunit	no
+NKFIDM_05309	6004938	6006071	Outer membrane efflux family protein	no
+NKFIDM_05310	6006274	6007731	Efflux RND transporter periplasmic adaptor subunit	no
+NKFIDM_05311	6007728	6008450	ABC transporter family protein	no
+NKFIDM_05318	6017750	6018919	MFS transporter	no
+NKFIDM_05357	6055865	6056782	ABC transporter family protein	no
+NKFIDM_05360	6058589	6059593	UDP-N-acetylmuramate dehydrogenase	no
+NKFIDM_05379	6073272	6074543	MFS transporter	no
+NKFIDM_05472	6175264	6175758	K(+)/H(+) antiporter subunit khtT	no
+NKFIDM_05477	6180674	6181984	ABC transporter ATP-binding protein	no
+NKFIDM_05484	6193388	6194389	Sugar ABC transporter permease	no
+NKFIDM_05565	6268669	6269532	ABC transporter permease	YES (1 IS)
+NKFIDM_05568	6272336	6273223	ABC transporter family protein	no
+NKFIDM_05581	6284422	6285132	(pseudo) MFS transporter	no
+NKFIDM_05600	6309050	6309883	ABC transporter permease subunit	YES (1 IS)
+NKFIDM_05601	6309898	6310806	ABC transporter permease subunit	YES (1 IS)
+NKFIDM_05652	6350877	6351518	ABC transporter permease	YES (1 IS)
+NKFIDM_05666	6360816	6361829	carbohydrate ABC transporter permease	YES (1 IS)
+NKFIDM_05669	6365357	6365845	MarR family protein	YES (1 IS)
+NKFIDM_05675	6371210	6371488	MarR family winged helix-turn-helix transcriptional regulator	YES (1 IS)
+NKFIDM_05678	6373188	6374027	MFS transporter	no
+NKFIDM_05684	6377974	6378405	MerR family transcriptional regulator	no
+NKFIDM_05755	6431298	6432155	ABC transporter permease subunit	no
+NKFIDM_05756	6432152	6433033	ABC transporter permease subunit	no
+NKFIDM_05779	6457976	6459436	glutamate--tRNA ligase	no
+NKFIDM_05800	6484837	6486342	Efflux transporter, RND family, MFP subunit	no
+NKFIDM_05801	6486371	6487909	DHA2 family efflux MFS transporter permease subunit	no
+NKFIDM_05882	6591467	6592306	Acetylglutamate kinase	no
+NKFIDM_05883	6592424	6593659	bifunctional glutamate N-acetyltransferase/amino-acid acetyltransferase ArgJ	no
+NKFIDM_05961	6689242	6690600	Efflux RND transporter periplasmic adaptor subunit	no
+NKFIDM_05962	6690635	6693769	AcrB/AcrD/AcrF family protein	no
+NKFIDM_05998	6731953	6732837	ABC transporter permease subunit	YES (2 IS)
+NKFIDM_06007	6741954	6743015	ABC transporter family protein	YES (1 IS)
+NKFIDM_06008	6743047	6744702	ABC transporter permease subunit	YES (1 IS)
+NKFIDM_06016	6752770	6753333	Putative manganese efflux pump MntP	no
+NKFIDM_06031	6767735	6768025	MarR family transcriptional regulator	no
+NKFIDM_06110	6820228	6820656	ABC transporter permease	no
+NKFIDM_06126	6833983	6835194	MFS transporter	YES (1 IS)
+NKFIDM_06131	6840013	6841239	MFS transporter	no
+NKFIDM_06133	6843966	6844811	Formate/nitrite transporter	no
+NKFIDM_06136	6847997	6848860	ABC transporter ATP-binding protein	no
+NKFIDM_06161	6877141	6879069	ABC transporter ATP-binding protein	YES (1 IS)
+NKFIDM_06162	6879066	6880802	ABC transporter family protein	YES (1 IS)
+NKFIDM_06163	6880818	6881282	HTH marR-type domain-containing protein	no
+NKFIDM_06170	6887580	6888953	NADP-specific glutamate dehydrogenase	no
+NKFIDM_06179	6899521	6901197	ABC transporter permease	no
+NKFIDM_06180	6901200	6901988	ABC transporter family protein	no
+NKFIDM_06185	6905513	6907345	ABC transporter family protein	no
+NKFIDM_06190	6910877	6911917	ABC transporter substrate-binding protein	no
+NKFIDM_06191	6911983	6912744	ABC transporter family protein	no
+NKFIDM_06202	6921035	6922516	DHA2 family efflux MFS transporter permease subunit	YES (1 IS)
+NKFIDM_06209	6928263	6928751	MarR family protein	YES (1 IS)
+NKFIDM_06216	6937941	6938771	ABC transporter permease subunit	no
+NKFIDM_06222	6946659	6947975	Carbohydrate ABC transporter substrate-binding protein	no
+NKFIDM_06223	6948052	6948924	ABC transporter permease subunit	no
+NKFIDM_06224	6948924	6949754	ABC transporter permease subunit	no
+NKFIDM_06233	6961614	6962561	Formate/nitrite transporter family protein	no
+NKFIDM_06240	6970908	6971870	ABC transporter permease subunit	no
+NKFIDM_06250	6983594	6984052	MarR family protein	no
+NKFIDM_06253	6986683	6987885	MFS transporter	no
+NKFIDM_06261	7001867	7002748	ABC transporter permease subunit	no
+NKFIDM_06275	7020762	7021604	ABC transporter permease subunit	no
+NKFIDM_06276	7021624	7022502	ABC transporter permease subunit	no
+NKFIDM_06277	7022495	7023553	ABC transporter family protein	no
+NKFIDM_06283	7029775	7030785	Phosphate/phosphite/phosphonate ABC transporter substrate-binding protein	no
+NKFIDM_06284	7030965	7031765	phosphonate ABC transporter ATP-binding protein	no
+NKFIDM_06285	7031765	7032580	phosphonate ABC transporter, permease protein PhnE	no
+NKFIDM_06286	7032577	7033383	phosphonate ABC transporter, permease protein PhnE	no
+NKFIDM_06288	7034211	7034651	MarR family protein	no
+NKFIDM_06297	7044246	7045079	ABC transporter permease subunit	YES (1 IS)
+NKFIDM_06298	7045079	7045921	ABC transporter permease subunit	YES (1 IS)
+NKFIDM_06313	7058607	7060184	L-glutamate gamma-semialdehyde dehydrogenase	no
+NKFIDM_06314	7060235	7061497	Glutamate dehydrogenase	no
+NKFIDM_06321	7068752	7069912	RND transporter	YES (1 IS)
+NKFIDM_06322	7069930	7070802	ABC transporter permease subunit	YES (1 IS)
+NKFIDM_06335	7082394	7083290	ABC transporter permease subunit	no
+NKFIDM_06359	7114297	7115817	putative multidrug resistance protein NorM	YES (1 IS)
+NKFIDM_06396	7152233	7153057	ABC transporter permease subunit	no
+NKFIDM_06397	7153076	7154011	ABC transporter permease subunit	no
+NKFIDM_06425	7180289	7181989	ABC transporter family protein	no
+NKFIDM_06430	7188106	7188810	ABC transporter family protein	no
+NKFIDM_06469	7227867	7228673	ABC transporter permease subunit	no
+NKFIDM_06470	7228709	7229512	ABC transporter family protein	no
+NKFIDM_06471	7229499	7230872	MATE efflux family protein	no
+NKFIDM_06472	7230934	7232043	Aliphatic sulfonate ABC transporter substrate-binding protein	no
+NKFIDM_06475	7233359	7234819	p-aminobenzoyl-glutamate hydrolase subunit B	no
+NKFIDM_06534	7289571	7290557	MerR family transcriptional regulator	no
+NKFIDM_06543	7301302	7301802	MerR family transcriptional regulator	no
+NKFIDM_06545	7302750	7303832	Iron-siderophore ABC transporter substrate-binding protein	no
+NKFIDM_06548	7305893	7306690	ABC transporter family protein	no
+NKFIDM_06557	7317016	7317390	MerR family transcriptional regulator	no
+NKFIDM_06564	7322884	7324275	MATE efflux family protein	no
+NKFIDM_06574	7330340	7331602	MATE family efflux transporter	YES (1 IS)
+NKFIDM_06578	7335133	7335906	ABC transporter family protein	YES (1 IS)
+NKFIDM_06580	7336884	7337378	MarR family transcriptional regulator	YES (1 IS)
+NKFIDM_06635	7398673	7399344	ABC transporter permease subunit	YES (1 IS)
+NKFIDM_06663	7430989	7432032	ABC transporter domain-containing protein	no
+NKFIDM_06666	7434040	7435011	ABC transporter, permease protein	no
+NKFIDM_06672	7439739	7441004	MFS transporter	no
+
+## I6 efflux genes
+Locus_tag	Start	Stop	Product
+LMZ02_RS00085	14820	15314	cation:proton antiporter regulatory subunit
+LMZ02_RS00105	18551	20233	ABC transporter permease
+LMZ02_RS00110	20230	21510	ABC transporter ATP-binding protein
+LMZ02_RS00140	31890	32813	carbohydrate ABC transporter permease
+LMZ02_RS00145	32785	33786	carbohydrate ABC transporter permease
+LMZ02_RS00545	106021	108222	ABC transporter permease/M1 family aminopeptidase
+LMZ02_RS00550	108219	109106	ABC transporter ATP-binding protein
+LMZ02_RS00625	119757	121013	MFS transporter
+LMZ02_RS00680	133572	134378	carbohydrate ABC transporter permease
+LMZ02_RS00685	134380	135267	carbohydrate ABC transporter permease
+LMZ02_RS00690	135347	136687	ABC transporter substrate-binding protein
+LMZ02_RS00720	143586	145007	ABC transporter substrate-binding protein
+LMZ02_RS00725	145048	145881	carbohydrate ABC transporter permease
+LMZ02_RS00730	145896	146804	carbohydrate ABC transporter permease
+LMZ02_RS00750	151141	152454	MFS transporter
+LMZ02_RS00770	158179	159123	carbohydrate ABC transporter permease
+LMZ02_RS00775	159174	160094	ABC transporter permease
+LMZ02_RS00810	167665	168543	carbohydrate ABC transporter permease
+LMZ02_RS00815	168562	169551	carbohydrate ABC transporter permease
+LMZ02_RS00820	169592	170917	ABC transporter substrate-binding protein
+LMZ02_RS00840	175710	176189	MarR family transcriptional regulator
+LMZ02_RS00870	181380	181832	MarR family winged helix-turn-helix transcriptional regulator
+LMZ02_RS00880	182988	184370	MFS transporter
+LMZ02_RS00905	187982	188155	MFS transporter
+LMZ02_RS00910	188317	188730	MerR family transcriptional regulator
+LMZ02_RS01265	241526	242380	carbohydrate ABC transporter permease
+LMZ02_RS01270	242380	243261	carbohydrate ABC transporter permease
+LMZ02_RS01275	243298	244617	ABC transporter substrate-binding protein
+LMZ02_RS01390	268204	269667	glutamate--tRNA ligase
+LMZ02_RS01470	288061	289455	ABC transporter substrate-binding protein
+LMZ02_RS01475	289534	290949	ABC transporter substrate-binding protein
+LMZ02_RS01480	290991	292406	ABC transporter substrate-binding protein
+LMZ02_RS01495	294785	296290	efflux RND transporter periplasmic adaptor subunit
+LMZ02_RS01500	296319	297857	DHA2 family efflux MFS transporter permease subunit
+LMZ02_RS01595	323614	325263	ABC transporter ATP-binding protein
+LMZ02_RS01600	325274	326056	ABC transporter permease
+LMZ02_RS01630	332688	333539	carbohydrate ABC transporter permease
+LMZ02_RS01635	333543	334427	carbohydrate ABC transporter permease
+LMZ02_RS01800	380959	382320	CynX/NimT family MFS transporter
+LMZ02_RS01805	382803	383603	MFS transporter
+LMZ02_RS01840	392239	393078	acetylglutamate kinase
+LMZ02_RS01845	393178	394413	bifunctional glutamate N-acetyltransferase/amino-acid acetyltransferase ArgJ
+LMZ02_RS02225	488837	490195	efflux RND transporter periplasmic adaptor subunit
+LMZ02_RS02230	490230	493364	efflux RND transporter permease subunit
+LMZ02_RS02400	529948	531267	ABC transporter substrate-binding protein
+LMZ02_RS02405	531358	532242	carbohydrate ABC transporter permease
+LMZ02_RS02410	532239	533072	carbohydrate ABC transporter permease
+LMZ02_RS02435	538682	539704	ABC transporter substrate-binding protein
+LMZ02_RS02440	539754	540815	ABC transporter ATP-binding protein
+LMZ02_RS02445	540847	542502	ABC transporter permease
+LMZ02_RS02450	542522	543589	ABC transporter substrate-binding protein
+LMZ02_RS02485	550569	551129	manganese efflux pump MntP family protein
+LMZ02_RS02590	572215	573426	MFS transporter
+LMZ02_RS02615	578245	579471	MFS transporter
+LMZ02_RS02625	582198	583043	formate/nitrite transporter family protein
+LMZ02_RS02640	586230	587093	ABC transporter ATP-binding protein
+LMZ02_RS02760	613655	614908	OFA family MFS transporter
+LMZ02_RS02765	615374	617302	ABC transporter ATP-binding protein
+LMZ02_RS02770	617299	619026	ABC transporter ATP-binding protein
+LMZ02_RS02775	619051	619515	MarR family winged helix-turn-helix transcriptional regulator
+LMZ02_RS02810	625812	627185	NADP-specific glutamate dehydrogenase
+LMZ02_RS02860	639427	640224	ABC transporter ATP-binding protein
+LMZ02_RS02875	642343	643704	ABC transporter substrate-binding protein
+LMZ02_RS02880	643733	645463	ABC transporter ATP-binding protein
+LMZ02_RS02905	649097	650137	siderophore ABC transporter substrate-binding protein
+LMZ02_RS02910	650203	650964	ABC transporter ATP-binding protein
+LMZ02_RS02915	650961	651914	iron chelate uptake ABC transporter family permease subunit
+LMZ02_RS02920	651898	652857	ABC transporter permease
+LMZ02_RS02965	658990	660471	MDR family MFS transporter
+LMZ02_RS02995	664695	665183	MarR family winged helix-turn-helix transcriptional regulator
+LMZ02_RS03010	668335	669660	ABC transporter substrate-binding protein
+LMZ02_RS03025	673486	674373	carbohydrate ABC transporter permease
+LMZ02_RS03030	674373	675203	carbohydrate ABC transporter permease
+LMZ02_RS03060	683109	684404	ABC transporter substrate-binding protein
+LMZ02_RS03065	684481	685353	carbohydrate ABC transporter permease
+LMZ02_RS03070	685353	686183	carbohydrate ABC transporter permease
+LMZ02_RS03125	698240	699187	formate/nitrite transporter family protein
+LMZ02_RS03160	706572	707531	carbohydrate ABC transporter permease
+LMZ02_RS03165	707533	708495	ABC transporter permease
+LMZ02_RS03220	720217	720675	MarR family winged helix-turn-helix transcriptional regulator
+LMZ02_RS03235	723306	724508	MFS transporter
+LMZ02_RS03275	738798	739679	carbohydrate ABC transporter permease
+LMZ02_RS03280	739695	740627	ABC transporter permease
+LMZ02_RS03315	751017	752231	MFS transporter
+LMZ02_RS03340	756336	757670	ABC transporter substrate-binding protein
+LMZ02_RS03345	757747	758565	ABC transporter permease subunit
+LMZ02_RS03350	758609	759487	carbohydrate ABC transporter permease
+LMZ02_RS03355	759480	760538	ABC transporter ATP-binding protein
+LMZ02_RS03385	766761	767771	phosphate/phosphite/phosphonate ABC transporter substrate-binding protein
+LMZ02_RS03390	767951	768751	phosphonate ABC transporter ATP-binding protein
+LMZ02_RS03395	768751	769566	phosphonate ABC transporter%2C permease protein PhnE
+LMZ02_RS03400	769563	770369	phosphonate ABC transporter%2C permease protein PhnE
+LMZ02_RS03410	771196	771636	MarR family winged helix-turn-helix transcriptional regulator
+LMZ02_RS03425	773061	774107	ABC transporter substrate-binding protein
+LMZ02_RS03430	774357	775562	MFS transporter
+LMZ02_RS03445	778015	778155	sugar ABC transporter permease
+LMZ02_RS03465	781253	782086	carbohydrate ABC transporter permease
+LMZ02_RS03470	782086	782928	carbohydrate ABC transporter permease
+LMZ02_RS03475	783010	784389	ABC transporter substrate-binding protein
+LMZ02_RS03535	795417	796994	L-glutamate gamma-semialdehyde dehydrogenase
+LMZ02_RS03575	804155	805489	ABC transporter substrate-binding protein
+LMZ02_RS03580	805562	806722	efflux RND transporter periplasmic adaptor subunit
+LMZ02_RS03585	806740	807612	carbohydrate ABC transporter permease
+LMZ02_RS03590	807642	808559	carbohydrate ABC transporter permease
+LMZ02_RS03650	818453	819187	carbohydrate ABC transporter permease
+LMZ02_RS03655	819203	820099	carbohydrate ABC transporter permease
+LMZ02_RS03660	820171	821469	ABC transporter substrate-binding protein
+LMZ02_RS03770	849632	850954	MATE family efflux transporter
+LMZ02_RS03935	883390	884214	carbohydrate ABC transporter permease
+LMZ02_RS03940	884233	885168	carbohydrate ABC transporter permease
+LMZ02_RS03945	885185	886477	ABC transporter substrate-binding protein
+LMZ02_RS03975	893527	894252	MerR family DNA-binding transcriptional regulator
+LMZ02_RS04260	947417	948223	ABC transporter permease
+LMZ02_RS04265	948259	949062	ABC transporter ATP-binding protein
+LMZ02_RS04270	949049	950422	MATE family efflux transporter
+LMZ02_RS04275	950484	951593	ABC transporter substrate-binding protein
+LMZ02_RS04580	1008955	1010169	MerR family transcriptional regulator
+LMZ02_RS04630	1020901	1021401	MerR family transcriptional regulator
+LMZ02_RS04640	1022355	1023431	iron-siderophore ABC transporter substrate-binding protein
+LMZ02_RS04645	1023424	1024464	FecCD family ABC transporter permease
+LMZ02_RS04650	1024461	1025492	FecCD family ABC transporter permease
+LMZ02_RS04655	1025492	1026289	ABC transporter ATP-binding protein
+LMZ02_RS04695	1035495	1035950	MarR family winged helix-turn-helix transcriptional regulator
+LMZ02_RS04700	1036612	1036986	MerR family transcriptional regulator
+LMZ02_RS04735	1042480	1043871	MATE family efflux transporter
+LMZ02_RS04780	1049846	1051198	MATE family efflux transporter
+LMZ02_RS04800	1054729	1055502	ABC transporter ATP-binding protein
+LMZ02_RS04810	1056480	1056974	MarR family winged helix-turn-helix transcriptional regulator
+LMZ02_RS04825	1059333	1060776	ABC transporter permease
+LMZ02_RS04830	1060773	1061456	ABC transporter ATP-binding protein
+LMZ02_RS04855	1065539	1067032	peptide MFS transporter
+LMZ02_RS04890	1072301	1072750	MerR family transcriptional regulator
+LMZ02_RS04925	1077912	1078388	MarR family transcriptional regulator
+LMZ02_RS04970	1084542	1085978	MFS transporter
+LMZ02_RS05040	1096228	1097082	carbohydrate ABC transporter permease
+LMZ02_RS05045	1097156	1097971	carbohydrate ABC transporter permease
+LMZ02_RS05050	1098028	1099449	ABC transporter substrate-binding protein
+LMZ02_RS05120	1115522	1116259	amino acid ABC transporter ATP-binding protein
+LMZ02_RS05125	1116274	1116945	amino acid ABC transporter permease
+LMZ02_RS05130	1116979	1117773	amino acid ABC transporter substrate-binding protein
+LMZ02_RS05260	1148584	1149627	ABC transporter ATP-binding protein
+LMZ02_RS05265	1149624	1150652	ABC transporter ATP-binding protein
+LMZ02_RS05270	1150619	1151629	ABC transporter permease
+LMZ02_RS05275	1151635	1152606	ABC transporter permease
+LMZ02_RS05305	1157334	1158599	MFS transporter
+LMZ02_RS05510	1199583	1200467	carbohydrate ABC transporter permease
+LMZ02_RS05515	1200486	1201325	carbohydrate ABC transporter permease
+LMZ02_RS05520	1201394	1202815	ABC transporter substrate-binding protein
+LMZ02_RS05590	1223831	1225462	formate--tetrahydrofolate ligase
+LMZ02_RS05820	1273422	1275203	ABC transporter substrate-binding protein
+LMZ02_RS05825	1275209	1276165	ABC transporter permease
+LMZ02_RS05830	1276181	1277116	oligopeptide ABC transporter permease
+LMZ02_RS05835	1277128	1278108	ABC transporter ATP-binding protein
+LMZ02_RS05840	1278101	1279066	ABC transporter ATP-binding protein
+LMZ02_RS05910	1296630	1297211	aminodeoxychorismate/anthranilate synthase component II
+LMZ02_RS06285	1369253	1370374	ABC transporter ATP-binding protein
+LMZ02_RS06400	1394710	1395543	carbohydrate ABC transporter permease
+LMZ02_RS06405	1395547	1396479	carbohydrate ABC transporter permease
+LMZ02_RS06410	1396562	1397878	ABC transporter substrate-binding protein
+LMZ02_RS06425	1400779	1401513	ABC transporter permease
+LMZ02_RS06430	1401515	1402231	ABC transporter permease
+LMZ02_RS06435	1402228	1403142	ABC transporter ATP-binding protein
+LMZ02_RS06580	1429740	1431041	ABC transporter substrate-binding protein
+LMZ02_RS06590	1431824	1432771	carbohydrate ABC transporter permease
+LMZ02_RS06595	1432761	1433618	carbohydrate ABC transporter permease
+LMZ02_RS06605	1435655	1436629	ABC transporter ATP-binding protein
+LMZ02_RS06610	1436626	1437477	ABC transporter permease
+LMZ02_RS06615	1437474	1438280	ABC transporter permease
+LMZ02_RS06620	1438755	1439807	ABC transporter substrate-binding protein
+LMZ02_RS06665	1448450	1449733	ABC transporter substrate-binding protein
+LMZ02_RS06710	1459185	1459973	ABC transporter permease
+LMZ02_RS06715	1459948	1461024	ABC transporter substrate-binding protein
+LMZ02_RS06720	1461034	1461732	ABC transporter ATP-binding protein
+LMZ02_RS06780	1476323	1477540	MFS transporter
+LMZ02_RS06925	1505046	1506293	MFS transporter
+LMZ02_RS06975	1517249	1517915	carbohydrate ABC transporter permease
+LMZ02_RS31825	1539089	1539176	carbohydrate ABC transporter permease
+LMZ02_RS07110	1541857	1542153	ABC transporter permease subunit
+LMZ02_RS07210	1568534	1569328	ABC transporter permease
+LMZ02_RS07215	1569342	1570121	ABC transporter permease
+LMZ02_RS07220	1570114	1571037	ABC transporter ATP-binding protein
+LMZ02_RS07240	1573644	1573958	ABC transporter permease
+LMZ02_RS07245	1573955	1574266	ABC transporter permease
+LMZ02_RS07295	1582225	1583049	MerR family transcriptional regulator
+LMZ02_RS07315	1586460	1588916	Na+/H+ antiporter subunit A
+LMZ02_RS07320	1588903	1589325	Na(+)/H(+) antiporter subunit B
+LMZ02_RS07325	1589327	1589668	Na(+)/H(+) antiporter subunit C
+LMZ02_RS07330	1589661	1591136	Na+/H+ antiporter subunit D
+LMZ02_RS07335	1591151	1591630	Na+/H+ antiporter subunit E
+LMZ02_RS07340	1591627	1591908	Na(+)/H(+) antiporter subunit F1
+LMZ02_RS07345	1591883	1592308	Na+/H+ antiporter subunit G
+LMZ02_RS07405	1607863	1609482	ABC transporter substrate-binding protein
+LMZ02_RS07410	1609498	1610409	ABC transporter permease
+LMZ02_RS07415	1610436	1611377	carbohydrate ABC transporter permease
+LMZ02_RS07480	1626626	1627783	ABC transporter substrate-binding protein
+LMZ02_RS07485	1627895	1628815	ABC transporter permease
+LMZ02_RS07490	1628815	1629624	ABC transporter permease
+LMZ02_RS07495	1629621	1630670	ABC transporter ATP-binding protein
+LMZ02_RS07685	1670297	1672111	ABC transporter ATP-binding protein
+LMZ02_RS07690	1672101	1673849	ABC transporter ATP-binding protein
+LMZ02_RS07845	1710114	1711391	sugar ABC transporter substrate-binding protein
+LMZ02_RS07850	1711495	1712370	carbohydrate ABC transporter permease
+LMZ02_RS07855	1712370	1713206	carbohydrate ABC transporter permease
+LMZ02_RS08045	1757225	1757602	MerR family transcriptional regulator
+LMZ02_RS08050	1757769	1759139	efflux RND transporter periplasmic adaptor subunit
+LMZ02_RS08055	1759132	1762281	efflux RND transporter permease subunit
+LMZ02_RS08075	1766177	1767046	carbohydrate ABC transporter permease
+LMZ02_RS08080	1767046	1767885	carbohydrate ABC transporter permease
+LMZ02_RS08155	1794503	1795666	multiple monosaccharide ABC transporter permease
+LMZ02_RS08160	1795671	1797200	multiple monosaccharide ABC transporter ATP-binding protein
+LMZ02_RS08165	1797340	1798494	multiple monosaccharide ABC transporter substrate-binding protein
+LMZ02_RS08175	1799346	1800692	MFS transporter
+LMZ02_RS08250	1831773	1832606	carbohydrate ABC transporter permease
+LMZ02_RS08255	1832603	1833499	carbohydrate ABC transporter permease
+LMZ02_RS08260	1833517	1834821	ABC transporter substrate-binding protein
+LMZ02_RS08335	1857927	1858739	formate/nitrite transporter family protein
+LMZ02_RS08370	1869733	1871229	ABC transporter substrate-binding protein
+LMZ02_RS08375	1871318	1872247	ABC transporter permease
+LMZ02_RS08380	1872273	1873190	carbohydrate ABC transporter permease
+LMZ02_RS08615	1941065	1942189	sugar ABC transporter substrate-binding protein
+LMZ02_RS08625	1942926	1944284	MATE family efflux transporter
+LMZ02_RS08650	1951597	1952910	maltose ABC transporter substrate-binding protein
+LMZ02_RS08655	1953009	1954310	carbohydrate ABC transporter permease
+LMZ02_RS08660	1954307	1955152	sugar ABC transporter permease
+LMZ02_RS08680	1958991	1960373	3-phosphoshikimate 1-carboxyvinyltransferase
+LMZ02_RS08685	1960435	1961832	MATE family efflux transporter
+LMZ02_RS08750	1978147	1979418	SLC45 family MFS transporter
+LMZ02_RS08755	1979512	1980746	MFS transporter
+LMZ02_RS08840	1999571	2000860	ABC transporter substrate-binding protein
+LMZ02_RS08845	2000950	2001825	carbohydrate ABC transporter permease
+LMZ02_RS08850	2001850	2002680	carbohydrate ABC transporter permease
+LMZ02_RS08890	2011672	2012475	ABC transporter ATP-binding protein
+LMZ02_RS08895	2012536	2013309	ABC transporter permease
+LMZ02_RS08905	2013636	2014685	ABC transporter substrate-binding protein
+LMZ02_RS08935	2020793	2021869	sulfate ABC transporter substrate-binding protein
+LMZ02_RS08940	2021969	2022799	sulfate ABC transporter permease subunit CysT
+LMZ02_RS08945	2022841	2023701	sulfate ABC transporter permease subunit CysW
+LMZ02_RS09135	2061917	2062795	carbohydrate ABC transporter permease
+LMZ02_RS09140	2062830	2063708	carbohydrate ABC transporter permease
+LMZ02_RS09165	2071935	2073953	Na+/H+ antiporter
+LMZ02_RS09225	2086600	2087598	ABC transporter substrate-binding protein
+LMZ02_RS09380	2113300	2113686	MerR family transcriptional regulator
+LMZ02_RS09405	2119744	2120634	ABC transporter permease
+LMZ02_RS09410	2120653	2121531	carbohydrate ABC transporter permease
+LMZ02_RS09515	2153139	2154236	autoinducer 2 ABC transporter substrate-binding protein
+LMZ02_RS09535	2158205	2159527	MFS transporter
+LMZ02_RS09570	2168422	2169723	ABC transporter substrate-binding protein
+LMZ02_RS09575	2169877	2170761	carbohydrate ABC transporter permease
+LMZ02_RS09580	2170758	2171585	carbohydrate ABC transporter permease
+LMZ02_RS09815	2226733	2227638	ABC transporter ATP-binding protein
+LMZ02_RS09820	2227631	2228920	ABC transporter permease
+LMZ02_RS09895	2246207	2247373	MFS transporter
+LMZ02_RS09915	2250849	2251670	carbohydrate ABC transporter permease
+LMZ02_RS09920	2251667	2252536	carbohydrate ABC transporter permease
+LMZ02_RS09930	2253934	2255202	ABC transporter substrate-binding protein
+LMZ02_RS09985	2267507	2269120	ABC transporter ATP-binding protein
+LMZ02_RS10000	2273282	2274811	MDR family MFS transporter
+LMZ02_RS10015	2275516	2275986	MarR family winged helix-turn-helix transcriptional regulator
+LMZ02_RS10020	2276250	2276954	ABC transporter ATP-binding protein
+LMZ02_RS10025	2276969	2278240	ABC transporter permease
+LMZ02_RS10055	2284702	2285361	methionine ABC transporter permease
+LMZ02_RS10060	2285355	2286389	methionine ABC transporter ATP-binding protein
+LMZ02_RS10070	2287644	2288468	MetQ/NlpA family ABC transporter substrate-binding protein
+LMZ02_RS10255	2332128	2332967	carbohydrate ABC transporter permease
+LMZ02_RS10260	2332969	2333835	carbohydrate ABC transporter permease
+LMZ02_RS10265	2333977	2335434	ABC transporter substrate-binding protein
+LMZ02_RS10270	2335588	2336709	5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase
+LMZ02_RS10280	2338897	2340210	glutamate-1-semialdehyde 2%2C1-aminomutase
+LMZ02_RS10350	2356244	2357044	ABC transporter ATP-binding protein
+LMZ02_RS10355	2357044	2358039	FecCD family ABC transporter permease
+LMZ02_RS10360	2358039	2358995	ABC transporter substrate-binding protein
+LMZ02_RS10380	2363339	2364244	heme ABC transporter substrate-binding protein IsdE
+LMZ02_RS10385	2364289	2365281	FecCD family ABC transporter permease
+LMZ02_RS10390	2365271	2366041	ABC transporter ATP-binding protein
+LMZ02_RS10405	2367234	2368970	ABC transporter ATP-binding protein/permease
+LMZ02_RS10440	2379696	2380430	ABC transporter permease
+LMZ02_RS10445	2380442	2381197	ABC transporter permease
+LMZ02_RS10450	2381197	2382114	ABC transporter ATP-binding protein
+LMZ02_RS10500	2394355	2395710	ABC transporter substrate-binding protein
+LMZ02_RS10505	2395823	2396785	carbohydrate ABC transporter permease
+LMZ02_RS10510	2396782	2397645	carbohydrate ABC transporter permease
+LMZ02_RS10520	2399492	2400856	ABC transporter substrate-binding protein
+LMZ02_RS10570	2411680	2413209	MFS transporter
+LMZ02_RS10595	2416516	2417631	ABC transporter substrate-binding protein
+LMZ02_RS10600	2417749	2418522	ABC transporter ATP-binding protein
+LMZ02_RS10605	2418531	2419541	FecCD family ABC transporter permease
+LMZ02_RS10650	2427347	2428639	MFS transporter
+LMZ02_RS10655	2428764	2429228	MarR family winged helix-turn-helix transcriptional regulator
+LMZ02_RS10720	2438365	2439342	ABC transporter substrate-binding protein
+LMZ02_RS10815	2461740	2462849	ABC transporter substrate-binding protein
+LMZ02_RS10820	2462866	2463735	ABC transporter permease
+LMZ02_RS10825	2463732	2464475	ABC transporter ATP-binding protein
+LMZ02_RS10875	2473185	2473913	amino acid ABC transporter ATP-binding protein
+LMZ02_RS10880	2473933	2474802	glutamate ABC transporter substrate-binding protein
+LMZ02_RS10885	2474898	2475548	amino acid ABC transporter permease
+LMZ02_RS10890	2475579	2476229	amino acid ABC transporter permease
+LMZ02_RS10980	2498144	2498842	ABC transporter ATP-binding protein
+LMZ02_RS11155	2533760	2535058	MFS transporter
+LMZ02_RS11190	2541994	2543436	DHA2 family efflux MFS transporter permease subunit
+LMZ02_RS11230	2550201	2550578	MerR family transcriptional regulator
+LMZ02_RS11270	2557260	2558465	MFS transporter
+LMZ02_RS11280	2558923	2559246	MerR family transcriptional regulator
+LMZ02_RS11335	2566935	2568281	MFS transporter
+LMZ02_RS11425	2588839	2590137	ABC transporter substrate-binding protein
+LMZ02_RS11430	2590252	2591136	carbohydrate ABC transporter permease
+LMZ02_RS11435	2591163	2592002	carbohydrate ABC transporter permease
+LMZ02_RS11485	2601530	2603308	ABC transporter ATP-binding protein
+LMZ02_RS11490	2603295	2605070	ABC transporter ATP-binding protein
+LMZ02_RS11670	2654222	2655427	PstS family phosphate ABC transporter substrate-binding protein
+LMZ02_RS11760	2686170	2688341	ABC transporter substrate-binding protein
+LMZ02_RS11835	2702941	2704071	D-xylose ABC transporter substrate-binding protein
+LMZ02_RS11840	2704123	2705634	xylose ABC transporter ATP-binding protein
+LMZ02_RS11845	2705636	2706829	sugar ABC transporter permease
+LMZ02_RS11900	2720946	2721662	lantibiotic protection ABC transporter ATP-binding protein
+LMZ02_RS11905	2721655	2722413	lantibiotic immunity ABC transporter MutE/EpiE family permease subunit
+LMZ02_RS11910	2722416	2723207	lantibiotic immunity ABC transporter MutG family permease subunit
+LMZ02_RS12095	2756986	2758563	ABC transporter substrate-binding protein
+LMZ02_RS12100	2758639	2759556	ABC transporter permease
+LMZ02_RS12105	2759571	2760521	ABC transporter permease
+LMZ02_RS12110	2760584	2761561	ABC transporter ATP-binding protein
+LMZ02_RS12115	2761561	2762736	ABC transporter ATP-binding protein
+LMZ02_RS12230	2788829	2789605	ABC transporter permease
+LMZ02_RS12235	2789809	2790600	ABC transporter permease
+LMZ02_RS12240	2790747	2791904	ABC transporter ATP-binding protein
+LMZ02_RS12275	2803715	2804977	ABC transporter permease
+LMZ02_RS12295	2809012	2809716	ABC transporter ATP-binding protein
+LMZ02_RS12300	2809713	2812235	ABC transporter permease
+LMZ02_RS12305	2812375	2813772	MFS transporter
+LMZ02_RS12320	2815637	2816401	methionine ABC transporter ATP-binding protein
+LMZ02_RS12325	2816394	2817074	methionine ABC transporter permease
+LMZ02_RS12330	2817179	2818054	MetQ/NlpA family ABC transporter substrate-binding protein
+LMZ02_RS12380	2830792	2832132	ABC transporter substrate-binding protein
+LMZ02_RS12385	2832194	2833078	carbohydrate ABC transporter permease
+LMZ02_RS12390	2833096	2833938	carbohydrate ABC transporter permease
+LMZ02_RS12430	2847416	2848204	amino acid ABC transporter substrate-binding protein
+LMZ02_RS12435	2848422	2849081	amino acid ABC transporter permease
+LMZ02_RS12440	2849100	2849843	amino acid ABC transporter ATP-binding protein
+LMZ02_RS12460	2855140	2856021	carbohydrate ABC transporter permease
+LMZ02_RS12465	2856021	2856851	carbohydrate ABC transporter permease
+LMZ02_RS12470	2856910	2858214	ABC transporter substrate-binding protein
+LMZ02_RS12520	2869237	2870118	carbohydrate ABC transporter permease
+LMZ02_RS12525	2870132	2871016	carbohydrate ABC transporter permease
+LMZ02_RS12555	2877931	2878788	carbohydrate ABC transporter permease
+LMZ02_RS12560	2878803	2879627	carbohydrate ABC transporter permease
+LMZ02_RS12670	2900048	2901394	ABC transporter substrate-binding protein
+LMZ02_RS12710	2908709	2913307	glutamate synthase large subunit
+LMZ02_RS12720	2915013	2915927	ABC transporter ATP-binding protein
+LMZ02_RS12725	2915911	2916696	ABC transporter permease
+LMZ02_RS12885	2945646	2946467	ABC transporter permease
+LMZ02_RS12890	2946460	2947206	ABC transporter ATP-binding protein
+LMZ02_RS12900	2947978	2949597	ABC transporter substrate-binding protein
+LMZ02_RS12905	2949597	2950583	ABC transporter permease
+LMZ02_RS12910	2950580	2951446	ABC transporter permease
+LMZ02_RS12915	2951446	2952198	ABC transporter ATP-binding protein
+LMZ02_RS12920	2952201	2952992	ABC transporter ATP-binding protein
+LMZ02_RS12950	2958086	2959000	glycine betaine ABC transporter substrate-binding protein
+LMZ02_RS12955	2959002	2959844	ABC transporter permease
+LMZ02_RS12960	2959804	2961051	quaternary amine ABC transporter ATP-binding protein
+LMZ02_RS12965	2961390	2961941	GbsR/MarR family transcriptional regulator
+LMZ02_RS12980	2965963	2967213	MDR family MFS transporter
+LMZ02_RS13060	2981299	2982597	ABC transporter substrate-binding protein
+LMZ02_RS13065	2982659	2983597	carbohydrate ABC transporter permease
+LMZ02_RS13070	2983597	2984436	carbohydrate ABC transporter permease
+LMZ02_RS13120	2992407	2993669	MFS transporter
+LMZ02_RS13155	2996407	2997123	AzlC family ABC transporter permease
+LMZ02_RS13180	3000542	3001258	ABC transporter ATP-binding protein
+LMZ02_RS13185	3001255	3002460	ABC transporter permease
+LMZ02_RS13250	3015150	3016199	FecCD family ABC transporter permease
+LMZ02_RS13255	3016196	3017230	FecCD family ABC transporter permease
+LMZ02_RS13285	3023844	3024782	ABC transporter ATP-binding protein
+LMZ02_RS13290	3024769	3025710	ABC transporter permease
+LMZ02_RS13350	3042118	3043182	sulfate/molybdate ABC transporter ATP-binding protein
+LMZ02_RS13355	3043649	3044758	ABC transporter permease
+LMZ02_RS13360	3044755	3045750	ABC transporter ATP-binding protein
+LMZ02_RS13385	3050281	3051078	glutamate racemase
+LMZ02_RS13430	3059319	3060194	carbohydrate ABC transporter permease
+LMZ02_RS13435	3060220	3061065	carbohydrate ABC transporter permease
+LMZ02_RS13440	3061125	3062456	ABC transporter substrate-binding protein
+LMZ02_RS13460	3067043	3067792	MarR family winged helix-turn-helix transcriptional regulator
+LMZ02_RS13470	3069292	3070368	ABC transporter substrate-binding protein
+LMZ02_RS13475	3070382	3071173	ABC transporter ATP-binding protein
+LMZ02_RS13480	3071188	3071967	ABC transporter permease
+LMZ02_RS13505	3078330	3079349	ABC transporter substrate-binding protein
+LMZ02_RS13510	3079349	3080395	FecCD family ABC transporter permease
+LMZ02_RS13515	3080392	3081225	ABC transporter ATP-binding protein
+LMZ02_RS13555	3089801	3091297	MDR family MFS transporter
+LMZ02_RS13600	3098083	3099129	ABC transporter substrate-binding protein
+LMZ02_RS13635	3104074	3105252	MFS transporter
+LMZ02_RS13730	3131680	3133038	ABC transporter substrate-binding protein
+LMZ02_RS13735	3133041	3133922	carbohydrate ABC transporter permease
+LMZ02_RS13740	3133957	3134772	carbohydrate ABC transporter permease
+LMZ02_RS13925	3171838	3173376	ABC transporter ATP-binding protein
+LMZ02_RS13930	3173369	3174442	ABC transporter permease
+LMZ02_RS13935	3174444	3175403	ABC transporter permease
+LMZ02_RS14095	3206649	3207905	MFS transporter
+LMZ02_RS14250	3239689	3241113	type I glutamate--ammonia ligase
+LMZ02_RS14265	3244520	3245884	ABC transporter substrate-binding protein
+LMZ02_RS14270	3246000	3246893	carbohydrate ABC transporter permease
+LMZ02_RS14275	3246895	3247731	carbohydrate ABC transporter permease
+LMZ02_RS14615	3325562	3326872	glutamate-1-semialdehyde 2%2C1-aminomutase
+LMZ02_RS14675	3337016	3338365	ABC transporter substrate-binding protein
+LMZ02_RS14745	3349653	3350861	MFS transporter
+LMZ02_RS14750	3351203	3352129	ribose ABC transporter substrate-binding protein RbsB
+LMZ02_RS14755	3352142	3353068	ABC transporter permease subunit
+LMZ02_RS14760	3353065	3354552	sugar ABC transporter ATP-binding protein
+LMZ02_RS14815	3365374	3366702	MFS transporter
+LMZ02_RS14885	3380152	3380337	ABC transporter substrate-binding protein
+LMZ02_RS14915	3386502	3388637	formate dehydrogenase subunit alpha
+LMZ02_RS14945	3394972	3395790	formate dehydrogenase accessory sulfurtransferase FdhD
+LMZ02_RS15225	3462048	3462803	phosphate ABC transporter ATP-binding protein PstB
+LMZ02_RS15265	3469494	3470456	phosphate ABC transporter substrate-binding protein
+LMZ02_RS15270	3470545	3471447	phosphate ABC transporter permease subunit PstC
+LMZ02_RS15275	3471444	3472331	phosphate ABC transporter permease PstA
+LMZ02_RS15280	3472344	3473102	phosphate ABC transporter ATP-binding protein PstB
+LMZ02_RS15305	3477213	3478046	carbohydrate ABC transporter permease
+LMZ02_RS15310	3478069	3478956	carbohydrate ABC transporter permease
+LMZ02_RS15315	3478993	3480366	ABC transporter substrate-binding protein
+LMZ02_RS15360	3489484	3490299	glutamate racemase
+LMZ02_RS15370	3491059	3492033	ABC transporter ATP-binding protein
+LMZ02_RS15375	3492046	3493104	ABC transporter ATP-binding protein
+LMZ02_RS15380	3493119	3494162	ABC transporter permease
+LMZ02_RS15385	3494159	3495058	ABC transporter permease
+LMZ02_RS15390	3495123	3496808	peptide ABC transporter substrate-binding protein
+LMZ02_RS15400	3498413	3500008	ABC transporter substrate-binding protein
+LMZ02_RS15405	3500094	3501044	ABC transporter permease
+LMZ02_RS15410	3501073	3502002	ABC transporter permease
+LMZ02_RS15415	3502041	3503054	ABC transporter ATP-binding protein
+LMZ02_RS15420	3503051	3504055	ABC transporter ATP-binding protein
+LMZ02_RS15500	3517133	3518314	MFS transporter
+LMZ02_RS15535	3526038	3527015	carbohydrate ABC transporter permease
+LMZ02_RS15540	3527012	3527836	carbohydrate ABC transporter permease
+LMZ02_RS15545	3527921	3529327	ABC transporter substrate-binding protein
+LMZ02_RS15560	3531588	3532811	MFS transporter
+LMZ02_RS15620	3545655	3547007	MATE family efflux transporter
+LMZ02_RS15705	3559624	3560817	MFS transporter
+LMZ02_RS15730	3564092	3565462	MATE family efflux transporter
+LMZ02_RS15795	3575279	3575704	MerR family transcriptional regulator
+LMZ02_RS15890	3595940	3597247	MFS transporter
+LMZ02_RS16035	3625389	3626990	ABC transporter substrate-binding protein
+LMZ02_RS16040	3626990	3627937	ABC transporter permease
+LMZ02_RS16045	3627937	3628737	ABC transporter permease
+LMZ02_RS16050	3628737	3629591	ABC transporter ATP-binding protein
+LMZ02_RS16055	3629566	3630324	ABC transporter ATP-binding protein
+LMZ02_RS16075	3635437	3636375	ABC transporter permease
+LMZ02_RS16080	3636385	3637269	carbohydrate ABC transporter permease
+LMZ02_RS16085	3637353	3638885	ABC transporter substrate-binding protein
+LMZ02_RS16120	3648751	3649641	carbohydrate ABC transporter permease
+LMZ02_RS16125	3649653	3650495	carbohydrate ABC transporter permease
+LMZ02_RS16130	3650616	3651980	ABC transporter substrate-binding protein
+LMZ02_RS16215	3671777	3672670	carbohydrate ABC transporter permease
+LMZ02_RS16220	3672684	3673514	carbohydrate ABC transporter permease
+LMZ02_RS16225	3673575	3674927	ABC transporter substrate-binding protein
+LMZ02_RS16275	3685501	3686196	YbfB/YjiJ family MFS transporter
+LMZ02_RS16285	3687914	3688981	methionine ABC transporter ATP-binding protein
+LMZ02_RS16290	3688978	3689658	methionine ABC transporter permease
+LMZ02_RS16305	3691031	3691879	MetQ/NlpA family ABC transporter substrate-binding protein
+LMZ02_RS16340	3695870	3697375	ABC transporter substrate-binding protein
+LMZ02_RS16350	3699371	3700780	MFS transporter
+LMZ02_RS16375	3705802	3707022	MFS transporter
+LMZ02_RS16395	3709709	3710788	FecCD family ABC transporter permease
+LMZ02_RS16400	3710793	3711554	ABC transporter ATP-binding protein
+LMZ02_RS16405	3711571	3712599	ABC transporter substrate-binding protein
+LMZ02_RS16460	3729737	3730444	metal ABC transporter ATP-binding protein
+LMZ02_RS16465	3730390	3731262	metal ABC transporter permease
+LMZ02_RS16470	3731243	3732412	metal ABC transporter substrate-binding protein
+LMZ02_RS16480	3733771	3736059	5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase
+LMZ02_RS16490	3736508	3736690	SMR family transporter
+LMZ02_RS16615	3764560	3765735	ABC transporter substrate-binding protein
+LMZ02_RS16620	3765766	3766881	ABC transporter ATP-binding protein
+LMZ02_RS16625	3766878	3767795	ABC transporter permease
+LMZ02_RS16630	3767785	3768606	ABC transporter permease
+LMZ02_RS16640	3769961	3771163	MFS transporter
+LMZ02_RS16710	3785361	3786218	ABC transporter permease
+LMZ02_RS16715	3786246	3787133	carbohydrate ABC transporter permease
+LMZ02_RS16815	3812997	3814226	MFS transporter
+LMZ02_RS16860	3826310	3827587	ABC transporter substrate-binding protein
+LMZ02_RS16865	3827639	3828529	carbohydrate ABC transporter permease
+LMZ02_RS16870	3828567	3829418	carbohydrate ABC transporter permease
+LMZ02_RS16890	3834275	3835642	MFS transporter
+LMZ02_RS16930	3844686	3846011	MFS transporter
+LMZ02_RS16945	3848972	3849799	ABC transporter permease
+LMZ02_RS16950	3849796	3850590	ABC transporter ATP-binding protein
+LMZ02_RS16955	3850604	3851668	aliphatic sulfonate ABC transporter substrate-binding protein
+LMZ02_RS16990	3860466	3861815	MFS transporter
+LMZ02_RS17035	3872538	3873173	chromate transporter
+LMZ02_RS17040	3873187	3873720	chromate transporter
+LMZ02_RS17100	3886992	3888104	MFS transporter
+LMZ02_RS17145	3901266	3902225	ABC transporter permease
+LMZ02_RS17150	3902240	3903145	carbohydrate ABC transporter permease
+LMZ02_RS17195	3914814	3916133	MFS transporter
+LMZ02_RS17220	3924632	3925600	ABC transporter permease
+LMZ02_RS17225	3925670	3926545	carbohydrate ABC transporter permease
+LMZ02_RS17290	3943531	3944883	ABC transporter substrate-binding protein
+LMZ02_RS17295	3945028	3945918	carbohydrate ABC transporter permease
+LMZ02_RS17300	3945911	3946735	carbohydrate ABC transporter permease
+LMZ02_RS17315	3949447	3949947	MarR family transcriptional regulator
+LMZ02_RS17715	4042314	4043789	ABC transporter substrate-binding protein
+LMZ02_RS17720	4043825	4045222	ABC transporter substrate-binding protein
+LMZ02_RS17730	4046758	4048128	MFS transporter
+LMZ02_RS17740	4051061	4052347	MFS transporter
+LMZ02_RS17750	4053699	4054529	carbohydrate ABC transporter permease
+LMZ02_RS17755	4054554	4055441	carbohydrate ABC transporter permease
+LMZ02_RS17760	4055547	4056797	sugar ABC transporter substrate-binding protein
+LMZ02_RS17900	4094226	4094435	oligopeptide/dipeptide ABC transporter ATP-binding protein
+LMZ02_RS17915	4097550	4098842	ABC transporter substrate-binding protein
+LMZ02_RS17925	4100092	4101672	MFS transporter
+LMZ02_RS17935	4102757	4103473	ABC transporter ATP-binding protein
+LMZ02_RS17945	4104808	4106925	peptidase domain-containing ABC transporter
+LMZ02_RS17975	4113998	4115341	ABC transporter substrate-binding protein
+LMZ02_RS17980	4115353	4116216	carbohydrate ABC transporter permease
+LMZ02_RS17985	4116219	4117049	carbohydrate ABC transporter permease
+LMZ02_RS18010	4124101	4125804	ABC transporter substrate-binding protein
+LMZ02_RS18045	4133852	4134814	ABC transporter permease
+LMZ02_RS18050	4134840	4135739	carbohydrate ABC transporter permease
+LMZ02_RS18055	4135791	4137440	ABC transporter substrate-binding protein
+LMZ02_RS18100	4145188	4146417	MFS transporter
+LMZ02_RS18105	4146430	4147212	ABC transporter ATP-binding protein
+LMZ02_RS18230	4173481	4174440	carbohydrate ABC transporter permease
+LMZ02_RS18235	4174480	4175304	carbohydrate ABC transporter permease
+LMZ02_RS18390	4205971	4207218	glutamate-5-semialdehyde dehydrogenase
+LMZ02_RS18395	4207248	4208354	glutamate 5-kinase
+LMZ02_RS18570	4247539	4248213	molybdate ABC transporter permease subunit
+LMZ02_RS18575	4248223	4249071	molybdate ABC transporter substrate-binding protein
+LMZ02_RS18635	4262206	4263393	formate-dependent phosphoribosylglycinamide formyltransferase
+LMZ02_RS18650	4266033	4267280	branched-chain amino acid ABC transporter substrate-binding protein
+LMZ02_RS18655	4267317	4268300	branched-chain amino acid ABC transporter permease
+LMZ02_RS18660	4268320	4269606	branched-chain amino acid ABC transporter permease
+LMZ02_RS18665	4269603	4270403	ABC transporter ATP-binding protein
+LMZ02_RS18670	4270400	4271104	ABC transporter ATP-binding protein
+LMZ02_RS18700	4277954	4278997	galactose ABC transporter substrate-binding protein
+LMZ02_RS18705	4279164	4280675	sugar ABC transporter ATP-binding protein
+LMZ02_RS18710	4280700	4281710	galactose/methyl galactoside ABC transporter permease MglC
+LMZ02_RS18755	4290957	4291940	ABC transporter ATP-binding protein
+LMZ02_RS18760	4291933	4292922	ABC transporter permease
+LMZ02_RS18785	4300862	4301272	MarR family winged helix-turn-helix transcriptional regulator
+LMZ02_RS18800	4303283	4305037	ABC transporter ATP-binding protein
+LMZ02_RS18810	4306498	4307277	ABC transporter ATP-binding protein
+LMZ02_RS18865	4316797	4318245	ABC transporter substrate-binding protein
+LMZ02_RS18870	4318327	4319244	carbohydrate ABC transporter permease
+LMZ02_RS18875	4319267	4320127	carbohydrate ABC transporter permease
+LMZ02_RS19040	4359937	4361148	multidrug efflux MFS transporter
+LMZ02_RS19070	4364814	4365797	ABC transporter ATP-binding protein
+LMZ02_RS19075	4365794	4366663	ABC transporter permease subunit
+LMZ02_RS19195	4388409	4389029	sugar ABC transporter permease
+LMZ02_RS19200	4389028	4389180	ABC transporter permease subunit
+LMZ02_RS19205	4389193	4390794	ABC transporter substrate-binding protein
+LMZ02_RS19240	4398831	4399664	carbohydrate ABC transporter permease
+LMZ02_RS19245	4399668	4400543	carbohydrate ABC transporter permease
+LMZ02_RS19250	4400647	4401996	ABC transporter substrate-binding protein
+LMZ02_RS19275	4408413	4409828	ABC transporter substrate-binding protein
+LMZ02_RS19280	4409920	4410855	carbohydrate ABC transporter permease
+LMZ02_RS19285	4410852	4411685	carbohydrate ABC transporter permease
+LMZ02_RS19335	4422225	4422995	ABC transporter ATP-binding protein
+LMZ02_RS19340	4422970	4424904	ABC transporter permease
+LMZ02_RS19345	4425238	4426670	DHA2 family efflux MFS transporter permease subunit
+LMZ02_RS19360	4428506	4429231	ABC transporter ATP-binding protein
+LMZ02_RS19395	4437190	4438104	carbohydrate ABC transporter permease
+LMZ02_RS19400	4438129	4439004	carbohydrate ABC transporter permease
+LMZ02_RS19415	4442755	4444146	ABC transporter substrate-binding protein
+LMZ02_RS19550	4475095	4475472	MerR family transcriptional regulator
+LMZ02_RS19560	4476875	4478073	MFS transporter
+LMZ02_RS19645	4492414	4493097	ABC transporter ATP-binding protein
+LMZ02_RS19650	4493094	4495400	ABC transporter permease
+LMZ02_RS19835	4529718	4531139	DHA2 family efflux MFS transporter permease subunit
+LMZ02_RS19940	4558467	4559693	MFS transporter
+LMZ02_RS19950	4560517	4561503	ABC transporter ATP-binding protein/permease
+LMZ02_RS19960	4562045	4562908	ABC transporter ATP-binding protein
+LMZ02_RS19970	4564069	4565583	ABC transporter substrate-binding protein
+LMZ02_RS19975	4565676	4566629	carbohydrate ABC transporter permease
+LMZ02_RS19980	4566626	4567459	carbohydrate ABC transporter permease
+LMZ02_RS20005	4574361	4575029	ABC transporter permease
+LMZ02_RS20010	4575046	4575804	ABC transporter permease
+LMZ02_RS20015	4575801	4576712	ABC transporter ATP-binding protein
+LMZ02_RS20065	4585685	4586065	MerR family transcriptional regulator
+LMZ02_RS20125	4599924	4600943	ABC transporter substrate-binding protein
+LMZ02_RS20130	4601251	4602081	ABC transporter ATP-binding protein
+LMZ02_RS20135	4602119	4602865	ABC transporter permease
+LMZ02_RS20210	4621747	4622157	MerR family transcriptional regulator
+LMZ02_RS20215	4622182	4623510	type I glutamate--ammonia ligase
+LMZ02_RS20430	4666825	4668312	glutamate synthase subunit beta
+LMZ02_RS20485	4680549	4681283	phosphonate ABC transporter ATP-binding protein
+LMZ02_RS20540	4694431	4695093	amino acid ABC transporter permease
+LMZ02_RS20545	4695080	4695802	amino acid ABC transporter ATP-binding protein
+LMZ02_RS20600	4705440	4705886	MarR family winged helix-turn-helix transcriptional regulator
+LMZ02_RS20610	4706532	4707782	MFS transporter
+LMZ02_RS20665	4718101	4719312	MFS transporter
+LMZ02_RS20700	4724546	4724944	MerR family transcriptional regulator
+LMZ02_RS20900	4761206	4762108	carbohydrate ABC transporter permease
+LMZ02_RS20905	4762312	4763211	carbohydrate ABC transporter permease
+LMZ02_RS20910	4763546	4764949	ABC transporter substrate-binding protein
+LMZ02_RS20930	4771063	4772010	iron-hydroxamate ABC transporter substrate-binding protein
+LMZ02_RS20935	4772027	4773049	FecCD family ABC transporter permease
+LMZ02_RS20940	4773046	4774059	FecCD family ABC transporter permease
+LMZ02_RS20945	4774658	4775407	ABC transporter permease
+LMZ02_RS20950	4775408	4776169	ABC transporter ATP-binding protein
+LMZ02_RS20990	4781964	4783193	MFS transporter
+LMZ02_RS20995	4783343	4783822	MarR family transcriptional regulator
+LMZ02_RS21065	4802133	4802954	carbohydrate ABC transporter permease
+LMZ02_RS21070	4802955	4803878	carbohydrate ABC transporter permease
+LMZ02_RS21075	4803943	4805232	ABC transporter substrate-binding protein
+LMZ02_RS21105	4815048	4816406	MFS transporter
+LMZ02_RS21125	4821400	4821818	MFS transporter
+LMZ02_RS21200	4837463	4838668	MFS transporter
+LMZ02_RS21330	4868100	4869311	MFS transporter
+LMZ02_RS21480	4902161	4903573	MDR family MFS transporter
+LMZ02_RS21560	4919143	4919979	ABC transporter ATP-binding protein
+LMZ02_RS21565	4920038	4921081	FecCD family ABC transporter permease
+LMZ02_RS21570	4921078	4922091	FecCD family ABC transporter permease
+LMZ02_RS21575	4922109	4923137	ABC transporter substrate-binding protein
+LMZ02_RS21630	4935474	4936304	carbohydrate ABC transporter permease
+LMZ02_RS21635	4936310	4937134	carbohydrate ABC transporter permease
+LMZ02_RS21640	4937241	4938617	ABC transporter substrate-binding protein
+LMZ02_RS21675	4943281	4944429	cation:proton antiporter
+LMZ02_RS21785	4969834	4970745	carbohydrate ABC transporter permease
+LMZ02_RS21790	4970945	4971814	ABC transporter permease
+LMZ02_RS21810	4978407	4979789	MFS transporter
+LMZ02_RS21825	4982617	4983597	ABC transporter permease
+LMZ02_RS21830	4983605	4985095	sugar ABC transporter ATP-binding protein
+LMZ02_RS21835	4985174	4986160	sugar ABC transporter substrate-binding protein
+LMZ02_RS21900	5001013	5001768	ABC transporter ATP-binding protein
+LMZ02_RS21955	5011384	5012688	MFS transporter
+LMZ02_RS22040	5027769	5028194	MarR family winged helix-turn-helix transcriptional regulator
+LMZ02_RS22045	5028353	5029831	MFS transporter
+LMZ02_RS22145	5047710	5048477	amino acid ABC transporter ATP-binding protein
+LMZ02_RS22150	5048507	5049175	amino acid ABC transporter permease
+LMZ02_RS22155	5049156	5049821	amino acid ABC transporter permease
+LMZ02_RS22180	5055719	5056987	MFS transporter
+LMZ02_RS22190	5057714	5058478	MerR family transcriptional regulator
+LMZ02_RS22205	5062107	5062949	carbohydrate ABC transporter permease
+LMZ02_RS22210	5062946	5063914	carbohydrate ABC transporter permease
+LMZ02_RS22235	5068651	5069964	ABC transporter substrate-binding protein
+LMZ02_RS22255	5072826	5073869	ABC transporter substrate-binding protein
+LMZ02_RS22260	5074079	5075059	FecCD family ABC transporter permease
+LMZ02_RS22265	5075059	5076108	FecCD family ABC transporter permease
+LMZ02_RS22330	5093059	5093946	carbohydrate ABC transporter permease
+LMZ02_RS22335	5093965	5094948	ABC transporter permease
+LMZ02_RS22380	5106213	5107133	carbohydrate ABC transporter permease
+LMZ02_RS22385	5107147	5108046	ABC transporter permease
+LMZ02_RS22410	5113180	5114127	carbohydrate ABC transporter permease
+LMZ02_RS22415	5114145	5115119	ABC transporter permease
+LMZ02_RS22420	5115156	5116856	ABC transporter substrate-binding protein
+LMZ02_RS22520	5140371	5141156	ABC transporter permease
+LMZ02_RS22525	5141164	5141967	ABC transporter permease
+LMZ02_RS22530	5141960	5143009	ABC transporter ATP-binding protein
+LMZ02_RS22540	5144696	5145724	FecCD family ABC transporter permease
+LMZ02_RS22545	5145717	5146754	FecCD family ABC transporter permease
+LMZ02_RS22550	5146751	5147797	ABC transporter substrate-binding protein
+LMZ02_RS22610	5161703	5162974	MFS transporter
+LMZ02_RS22615	5162971	5163450	MarR family winged helix-turn-helix transcriptional regulator
+LMZ02_RS31705	5166079	5167820	ABC transporter substrate-binding protein
+LMZ02_RS22685	5176152	5176541	fluoride efflux transporter CrcB
+LMZ02_RS22690	5176538	5176903	fluoride efflux transporter CrcB
+LMZ02_RS22745	5186071	5187312	MFS transporter
+LMZ02_RS22770	5189683	5190480	ABC transporter ATP-binding protein
+LMZ02_RS22775	5190480	5191394	ABC transporter permease
+LMZ02_RS22780	5191425	5192507	ABC transporter substrate-binding protein
+LMZ02_RS22800	5196178	5197485	MFS transporter
+LMZ02_RS22805	5197762	5199008	chromate efflux transporter
+LMZ02_RS22840	5203478	5204701	MFS transporter
+LMZ02_RS22875	5210315	5212141	ABC transporter ATP-binding protein
+LMZ02_RS22935	5226651	5227517	ABC transporter ATP-binding protein
+LMZ02_RS22955	5229556	5230782	MFS transporter
+LMZ02_RS22995	5239127	5240890	ABC transporter ATP-binding protein
+LMZ02_RS23010	5242413	5244158	ABC transporter ATP-binding protein
+LMZ02_RS23015	5244175	5246247	ABC transporter ATP-binding protein
+LMZ02_RS23055	5255531	5257033	DHA2 family efflux MFS transporter permease subunit
+LMZ02_RS23430	5336825	5338339	protein-glutamate methylesterase/protein-glutamine glutaminase
+LMZ02_RS23605	5372462	5373424	ABC transporter ATP-binding protein
+LMZ02_RS23610	5373421	5374398	ABC transporter ATP-binding protein
+LMZ02_RS23620	5375778	5377382	ABC transporter substrate-binding protein
+LMZ02_RS23625	5377434	5378330	ABC transporter permease
+LMZ02_RS23630	5378371	5379381	ABC transporter permease
+LMZ02_RS23640	5381734	5382396	aspartate/glutamate racemase family protein
+LMZ02_RS23910	5435839	5437086	MFS transporter
+LMZ02_RS23930	5441481	5442875	MFS transporter
+LMZ02_RS23960	5450984	5452057	bifunctional 3-deoxy-7-phosphoheptulonate synthase/chorismate mutase
+LMZ02_RS23990	5455904	5457169	MFS transporter
+LMZ02_RS24020	5464741	5466252	DHA2 family efflux MFS transporter permease subunit
+LMZ02_RS24025	5466245	5466694	MarR family winged helix-turn-helix transcriptional regulator
+LMZ02_RS24080	5481321	5482703	MFS transporter
+LMZ02_RS24140	5496416	5497303	carbohydrate ABC transporter permease
+LMZ02_RS24145	5497345	5498301	ABC transporter permease
+LMZ02_RS24240	5511879	5513849	ABC transporter permease
+LMZ02_RS24245	5513824	5514594	ABC transporter ATP-binding protein
+LMZ02_RS24280	5520419	5521411	iron-hydroxamate ABC transporter substrate-binding protein
+LMZ02_RS24285	5521437	5522450	FecCD family ABC transporter permease
+LMZ02_RS24290	5522451	5523437	FecCD family ABC transporter permease
+LMZ02_RS24570	5578898	5579272	chorismate mutase
+LMZ02_RS24580	5580368	5581537	chorismate synthase
+LMZ02_RS24650	5592775	5594175	sugar porter family MFS transporter
+LMZ02_RS24880	5638174	5638272	MerR family DNA-binding transcriptional regulator
+LMZ02_RS24940	5652044	5653279	sugar ABC transporter substrate-binding protein
+LMZ02_RS24945	5653304	5654191	carbohydrate ABC transporter permease
+LMZ02_RS24950	5654237	5655055	carbohydrate ABC transporter permease
+LMZ02_RS24970	5659237	5660583	ABC transporter substrate-binding protein
+LMZ02_RS24975	5660625	5661467	carbohydrate ABC transporter permease
+LMZ02_RS24980	5661468	5662409	carbohydrate ABC transporter permease
+LMZ02_RS25330	5724547	5725350	metal ABC transporter permease
+LMZ02_RS25335	5725373	5726134	metal ABC transporter ATP-binding protein
+LMZ02_RS25340	5726225	5727250	metal ABC transporter substrate-binding protein
+LMZ02_RS25385	5738609	5739436	carbohydrate ABC transporter permease
+LMZ02_RS25390	5739436	5740320	carbohydrate ABC transporter permease
+LMZ02_RS25400	5741990	5742745	pyruvate formate-lyase-activating protein
+LMZ02_RS25405	5742821	5745082	formate C-acetyltransferase
+LMZ02_RS25420	5749400	5750209	formate/nitrite transporter family protein
+LMZ02_RS25895	5858673	5859965	3-phosphoshikimate 1-carboxyvinyltransferase
+LMZ02_RS25900	5859994	5860506	shikimate kinase
+LMZ02_RS25920	5863840	5865102	MFS transporter
+LMZ02_RS26065	5883823	5885259	ABC transporter substrate-binding protein
+LMZ02_RS26070	5885658	5887172	ABC transporter substrate-binding protein
+LMZ02_RS26075	5887169	5888059	ABC transporter ATP-binding protein
+LMZ02_RS26080	5888063	5890960	ABC transporter permease
+LMZ02_RS26085	5890960	5892048	efflux RND transporter periplasmic adaptor subunit
+LMZ02_RS26090	5892011	5892859	ABC transporter ATP-binding protein
+LMZ02_RS26210	5920497	5921309	MerR family transcriptional regulator
+LMZ02_RS26255	5930230	5931135	UDP-N-acetylmuramate dehydrogenase
+LMZ02_RS26270	5933638	5935062	UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase
+LMZ02_RS26285	5937455	5938945	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2%2C6-diaminopimelate ligase
+LMZ02_RS26335	5953511	5955019	ABC transporter ATP-binding protein
+LMZ02_RS26340	5955119	5956060	ABC transporter ATP-binding protein
+LMZ02_RS26345	5956057	5957052	ABC transporter ATP-binding protein
+LMZ02_RS26350	5957064	5958023	ABC transporter permease
+LMZ02_RS26355	5958023	5958955	ABC transporter permease
+LMZ02_RS26360	5959136	5960833	peptide ABC transporter substrate-binding protein
+LMZ02_RS26390	5965376	5966647	sugar ABC transporter substrate-binding protein
+LMZ02_RS26740	6039323	6040156	carbohydrate ABC transporter permease
+LMZ02_RS26745	6040160	6041035	carbohydrate ABC transporter permease
+LMZ02_RS26750	6041157	6042492	ABC transporter substrate-binding protein
+LMZ02_RS26850	6069454	6070767	ABC transporter substrate-binding protein
+LMZ02_RS26870	6073380	6074846	MDR family MFS transporter
+LMZ02_RS26875	6075035	6075520	MarR family winged helix-turn-helix transcriptional regulator
+LMZ02_RS27010	6104585	6106093	ABC transporter substrate-binding protein
+LMZ02_RS27015	6106333	6107271	carbohydrate ABC transporter permease
+LMZ02_RS27020	6107293	6108252	ABC transporter permease
+LMZ02_RS27075	6120230	6121066	carbohydrate ABC transporter permease
+LMZ02_RS27080	6121066	6121956	carbohydrate ABC transporter permease
+LMZ02_RS27085	6121968	6123317	ABC transporter substrate-binding protein
+LMZ02_RS27210	6147246	6148430	MFS transporter
+LMZ02_RS27225	6150683	6151360	ABC transporter ATP-binding protein
+LMZ02_RS27230	6151357	6153915	ABC transporter permease
+LMZ02_RS27235	6153986	6154087	ABC transporter ATP-binding protein
+LMZ02_RS27240	6154084	6154461	ABC transporter permease
+LMZ02_RS27290	6165566	6167317	ABC transporter ATP-binding protein
+LMZ02_RS27295	6167247	6169064	ABC transporter ATP-binding protein
+LMZ02_RS27345	6177817	6179553	ABC transporter ATP-binding protein
+LMZ02_RS27350	6179673	6181127	ABC transporter permease
+LMZ02_RS27355	6181330	6182505	ABC transporter permease
+LMZ02_RS27360	6182548	6184380	ABC transporter substrate-binding protein
+LMZ02_RS27370	6185559	6186452	ABC transporter permease subunit
+LMZ02_RS27410	6191112	6192002	shikimate dehydrogenase
+LMZ02_RS27510	6215283	6217001	ABC transporter substrate-binding protein
+LMZ02_RS27515	6217135	6218040	carbohydrate ABC transporter permease
+LMZ02_RS27520	6218056	6219054	ABC transporter permease
+LMZ02_RS27555	6231235	6232149	carbohydrate ABC transporter permease
+LMZ02_RS27560	6232196	6233074	carbohydrate ABC transporter permease
+LMZ02_RS27580	6238326	6239159	carbohydrate ABC transporter permease
+LMZ02_RS27585	6239156	6240055	carbohydrate ABC transporter permease
+LMZ02_RS27590	6240121	6241449	ABC transporter substrate-binding protein
+LMZ02_RS27985	6331688	6332563	carbohydrate ABC transporter permease
+LMZ02_RS27990	6332597	6333499	ABC transporter permease
+LMZ02_RS28050	6344014	6344655	ABC transporter permease
+LMZ02_RS28280	6379961	6380923	carbamate kinase
+LMZ02_RS28285	6380961	6382376	arginine-ornithine antiporter
+LMZ02_RS28315	6387283	6388452	MFS transporter
+LMZ02_RS28515	6446829	6448463	MDR family MFS transporter
+LMZ02_RS28520	6448484	6448924	MarR family winged helix-turn-helix transcriptional regulator
+LMZ02_RS28535	6450769	6451707	ABC transporter substrate-binding protein
+LMZ02_RS28580	6463608	6464465	ABC transporter permease
+LMZ02_RS28585	6464880	6465794	carbohydrate ABC transporter permease
+LMZ02_RS28630	6475373	6476977	MFS transporter
+LMZ02_RS28640	6477652	6478689	ABC transporter substrate-binding protein
+LMZ02_RS28645	6478731	6479672	ABC transporter permease
+LMZ02_RS28650	6479724	6480506	ABC transporter ATP-binding protein
+LMZ02_RS28675	6484416	6485456	protein-glutamate methylesterase/protein-glutamine glutaminase
+LMZ02_RS29100	6598199	6599206	FecCD family ABC transporter permease
+LMZ02_RS29105	6599203	6600210	FecCD family ABC transporter permease
+LMZ02_RS29110	6600228	6601199	iron-hydroxamate ABC transporter substrate-binding protein
+LMZ02_RS29135	6604756	6605508	ABC transporter permease
+LMZ02_RS29140	6605502	6606278	ABC transporter ATP-binding protein
+LMZ02_RS29145	6606259	6607248	ABC transporter substrate-binding protein
+LMZ02_RS29175	6611719	6612228	MarR family transcriptional regulator
+LMZ02_RS29375	6643905	6645227	UDP-N-acetylmuramate--L-alanine ligase
+LMZ02_RS29380	6645287	6646666	bifunctional folylpolyglutamate synthase/dihydrofolate synthase
+LMZ02_RS29395	6651538	6652650	ABC transporter permease
+LMZ02_RS29400	6652669	6653802	ABC transporter permease
+LMZ02_RS29405	6653818	6654759	ABC transporter ATP-binding protein
+LMZ02_RS29420	6656433	6657734	glutamate-1-semialdehyde 2%2C1-aminomutase
+LMZ02_RS29530	6683065	6684069	ABC transporter permease
+LMZ02_RS29535	6684110	6685771	ABC transporter substrate-binding protein
+LMZ02_RS29540	6685850	6686830	ABC transporter ATP-binding protein
+LMZ02_RS29545	6686827	6687816	ABC transporter ATP-binding protein
+LMZ02_RS29580	6691974	6692882	ABC transporter ATP-binding protein
+LMZ02_RS29585	6692879	6693586	ABC transporter permease
+LMZ02_RS29590	6693600	6694334	ABC transporter permease
+LMZ02_RS29685	6713612	6714058	MarR family winged helix-turn-helix transcriptional regulator
+LMZ02_RS29895	6758985	6760700	ABC transporter ATP-binding protein
+LMZ02_RS29930	6768542	6769759	ABC transporter permease
+LMZ02_RS29935	6769763	6770509	ABC transporter ATP-binding protein
+LMZ02_RS30015	6785977	6786726	MerR family transcriptional regulator
+LMZ02_RS30135	6813534	6814454	carbohydrate ABC transporter permease
+LMZ02_RS30140	6814470	6815393	ABC transporter permease
+LMZ02_RS30285	6846103	6846957	carbohydrate ABC transporter permease
+LMZ02_RS30290	6846974	6847927	ABC transporter permease
+LMZ02_RS30305	6851670	6852935	MFS transporter
+LMZ02_RS30440	6889787	6891034	cation:proton antiporter
+LMZ02_RS30640	6927051	6927938	MetQ/NlpA family ABC transporter substrate-binding protein
+LMZ02_RS30645	6928000	6928668	methionine ABC transporter permease
+LMZ02_RS30650	6928668	6929684	methionine ABC transporter ATP-binding protein
+LMZ02_RS30720	6948530	6950143	ABC transporter substrate-binding protein
+LMZ02_RS30725	6950200	6951081	carbohydrate ABC transporter permease
+LMZ02_RS30730	6951382	6952305	ABC transporter permease
+LMZ02_RS30740	6954229	6955113	metal ABC transporter permease
+LMZ02_RS30745	6955115	6956068	metal ABC transporter permease
+LMZ02_RS30750	6956074	6956832	metal ABC transporter ATP-binding protein
+LMZ02_RS30755	6956909	6957892	metal ABC transporter solute-binding protein%2C Zn/Mn family
+LMZ02_RS30780	6962963	6964420	efflux RND transporter periplasmic adaptor subunit
+LMZ02_RS30785	6964417	6965139	ABC transporter ATP-binding protein
+LMZ02_RS30790	6965136	6966347	ABC transporter permease
+LMZ02_RS30820	6974499	6975668	MFS transporter
+LMZ02_RS31010	7012802	7013710	ABC transporter ATP-binding protein
+LMZ02_RS31015	7013691	7014839	ABC transporter permease
+LMZ02_RS31025	7015523	7016521	UDP-N-acetylmuramate dehydrogenase
+LMZ02_RS31115	7031446	7032717	MFS transporter
+
+## Efflux genes near IS elements (within 5 kb)
+NKFIDM_00030 (formate--tetrahydrofolate ligase) — nearest IS: NKFIDM_00033 at 3207 bp
+NKFIDM_00077 (ABC transporter substrate-binding protein) — nearest IS: NKFIDM_00082 at 4123 bp
+NKFIDM_00079 (oligopeptide ABC transporter permease) — nearest IS: NKFIDM_00082 at 2210 bp
+NKFIDM_00080 (ABC transporter domain-containing protein) — nearest IS: NKFIDM_00082 at 1218 bp
+NKFIDM_00081 (Oligopeptide ABC transporter, ATP-binding protein ) — nearest IS: NKFIDM_00082 at 260 bp
+NKFIDM_00381 (MerR family transcriptional regulator) — nearest IS: NKFIDM_00383 at 1334 bp
+NKFIDM_00386 (Na+/H+ antiporter subunit A) — nearest IS: NKFIDM_00383 at 2044 bp
+NKFIDM_00387 (Na(+)/H(+) antiporter subunit B) — nearest IS: NKFIDM_00383 at 4508 bp
+NKFIDM_00388 (Na(+)/H(+) antiporter subunit C) — nearest IS: NKFIDM_00383 at 4932 bp
+NKFIDM_00527 (MerR family transcriptional regulator) — nearest IS: NKFIDM_00525 at 1260 bp
+NKFIDM_00528 (Efflux RND transporter periplasmic adaptor subunit) — nearest IS: NKFIDM_00525 at 1804 bp
+NKFIDM_00529 (AcrB/AcrD/AcrF family protein) — nearest IS: NKFIDM_00525 at 3167 bp
+NKFIDM_00704 (Sulfate ABC transporter substrate-binding protein) — nearest IS: NKFIDM_00703 at 970 bp
+NKFIDM_00705 (sulfate ABC transporter permease subunit CysT) — nearest IS: NKFIDM_00703 at 2146 bp
+NKFIDM_00706 (sulfate ABC transporter permease subunit CysW) — nearest IS: NKFIDM_00703 at 3018 bp
+NKFIDM_00742 (ABC transporter permease subunit) — nearest IS: NKFIDM_00740 at 1908 bp
+NKFIDM_00880 (ABC transporter permease) — nearest IS: NKFIDM_00878 at 2139 bp
+NKFIDM_00882 (ABC transporter family protein) — nearest IS: NKFIDM_00878 at 3317 bp
+NKFIDM_00964 (ABC transporter permease subunit) — nearest IS: NKFIDM_00968 at 4536 bp
+NKFIDM_00965 (ABC transporter permease subunit) — nearest IS: NKFIDM_00968 at 3668 bp
+NKFIDM_00966 (ABC transporter substrate-binding protein) — nearest IS: NKFIDM_00968 at 2069 bp
+NKFIDM_00967 (5-methyltetrahydropteroyltriglutamate--homocystein) — nearest IS: NKFIDM_00968 at 794 bp
+NKFIDM_00970 (glutamate-1-semialdehyde 2,1-aminomutase) — nearest IS: NKFIDM_00968 at 1899 bp
+NKFIDM_01023 (ABC transporter family protein) — nearest IS: NKFIDM_01026 at 2105 bp
+NKFIDM_01030 (MarR family protein) — nearest IS: NKFIDM_01026 at 4309 bp
+NKFIDM_01084 (ABC transporter family protein) — nearest IS: NKFIDM_01081 at 3000 bp
+NKFIDM_01085 (ABC transporter permease) — nearest IS: NKFIDM_01081 at 3821 bp
+NKFIDM_01261 (MFS transporter) — nearest IS: NKFIDM_01265 at 4456 bp
+NKFIDM_01262 (Daunorubicin/doxorubicin resistance ABC transporte) — nearest IS: NKFIDM_01265 at 3983 bp
+NKFIDM_01449 (Efflux transporter, RND family, MFP subunit) — nearest IS: NKFIDM_01451 at 2048 bp
+NKFIDM_01450 (ABC transporter permease) — nearest IS: NKFIDM_01451 at 789 bp
+NKFIDM_01454 (ABC transporter family protein) — nearest IS: NKFIDM_01451 at 2341 bp
+NKFIDM_01472 (ABC transporter permease subunit) — nearest IS: NKFIDM_01474 at 1448 bp
+NKFIDM_01473 (ABC transporter permease subunit) — nearest IS: NKFIDM_01474 at 588 bp
+NKFIDM_01497 (Sugar ABC transporter permease) — nearest IS: NKFIDM_01495 at 1992 bp
+NKFIDM_01498 (Carbohydrate ABC transporter permease) — nearest IS: NKFIDM_01495 at 2884 bp
+NKFIDM_01571 (ABC transporter permease subunit) — nearest IS: NKFIDM_01568 at 2522 bp
+NKFIDM_01572 (ABC transporter family protein) — nearest IS: NKFIDM_01568 at 3336 bp
+NKFIDM_01659 (Sulfate ABC transporter ATP-binding protein) — nearest IS: NKFIDM_01663 at 4202 bp
+NKFIDM_01661 (ABC transporter family protein) — nearest IS: NKFIDM_01663 at 1668 bp
+NKFIDM_01666 (glutamate racemase) — nearest IS: NKFIDM_01663 at 1937 bp
+NKFIDM_01826 (bifunctional 3-deoxy-7-phosphoheptulonate synthase) — nearest IS: NKFIDM_01828 at 2293 bp
+NKFIDM_01827 (type I glutamate--ammonia ligase) — nearest IS: NKFIDM_01828 at 617 bp
+NKFIDM_01831 (ABC transporter permease subunit) — nearest IS: NKFIDM_01828 at 3358 bp
+NKFIDM_01924 (ribose ABC transporter substrate-binding protein R) — nearest IS: NKFIDM_01929 at 3238 bp
+NKFIDM_01925 (Ribose ABC transporter permease) — nearest IS: NKFIDM_01929 at 2299 bp
+NKFIDM_02031 (phosphate ABC transporter permease subunit PstC) — nearest IS: NKFIDM_02034 at 1966 bp
+NKFIDM_02032 (phosphate ABC transporter permease PstA) — nearest IS: NKFIDM_02034 at 1082 bp
+NKFIDM_02033 (phosphate ABC transporter ATP-binding protein PstB) — nearest IS: NKFIDM_02034 at 311 bp
+NKFIDM_02039 (ABC transporter permease subunit) — nearest IS: NKFIDM_02034 at 2886 bp
+NKFIDM_02040 (ABC transporter permease subunit) — nearest IS: NKFIDM_02034 at 3742 bp
+NKFIDM_02099 (putative multidrug resistance protein NorM) — nearest IS: NKFIDM_02102 at 2133 bp
+NKFIDM_02252 (Glutamate/Leucine/Phenylalanine/Valine dehydrogena) — nearest IS: NKFIDM_02251 at 242 bp
+NKFIDM_02300 (Iron chelate uptake ABC transporter family permeas) — nearest IS: NKFIDM_02299 at 306 bp
+NKFIDM_02301 (ABC transporter family protein) — nearest IS: NKFIDM_02299 at 1390 bp
+NKFIDM_02302 (ABC transporter substrate-binding protein) — nearest IS: NKFIDM_02299 at 2168 bp
+NKFIDM_02465 (ABC transporter permease subunit) — nearest IS: NKFIDM_02467 at 1388 bp
+NKFIDM_02726 (glutamate-5-semialdehyde dehydrogenase) — nearest IS: NKFIDM_02728 at 1882 bp
+NKFIDM_02727 (Glutamate 5-kinase) — nearest IS: NKFIDM_02728 at 746 bp
+NKFIDM_02762 (molybdate ABC transporter permease subunit) — nearest IS: NKFIDM_02761 at 416 bp
+NKFIDM_02763 (molybdate ABC transporter substrate-binding protei) — nearest IS: NKFIDM_02761 at 1100 bp
+NKFIDM_02774 (formate-dependent phosphoribosylglycinamide formyl) — nearest IS: NKFIDM_02776 at 976 bp
+NKFIDM_02780 (ABC transporter family protein) — nearest IS: NKFIDM_02776 at 4320 bp
+NKFIDM_02789 (galactose/methyl galactoside ABC transporter perme) — nearest IS: NKFIDM_02790 at 514 bp
+NKFIDM_02916 (Drug resistance MFS transporter, drug:H+ antiporte) — nearest IS: NKFIDM_02920 at 2878 bp
+NKFIDM_02918 (ABC transporter permease) — nearest IS: NKFIDM_02920 at 1039 bp
+NKFIDM_02919 (ABC transporter family protein) — nearest IS: NKFIDM_02920 at 323 bp
+NKFIDM_02961 (MFS transporter) — nearest IS: NKFIDM_02965 at 3086 bp
+NKFIDM_03041 (MFS transporter) — nearest IS: NKFIDM_03047 at 4434 bp
+NKFIDM_03043 (ABC transporter family protein) — nearest IS: NKFIDM_03047 at 2624 bp
+NKFIDM_03045 (ABC transporter family protein) — nearest IS: NKFIDM_03047 at 1219 bp
+NKFIDM_03048 (Sugar ABC transporter substrate-binding protein) — nearest IS: NKFIDM_03047 at 271 bp
+NKFIDM_03049 (ABC transporter permease subunit) — nearest IS: NKFIDM_03047 at 1876 bp
+NKFIDM_03050 (ABC transporter permease subunit) — nearest IS: NKFIDM_03047 at 2826 bp
+NKFIDM_03156 (ABC transporter permease subunit) — nearest IS: NKFIDM_03158 at 1292 bp
+NKFIDM_03157 (Arginine ABC transporter, ATP-binding protein ArtM) — nearest IS: NKFIDM_03158 at 583 bp
+NKFIDM_03188 (MerR family DNA-binding transcriptional regulator) — nearest IS: NKFIDM_03191 at 1486 bp
+NKFIDM_03361 (Sodium:proton antiporter) — nearest IS: NKFIDM_03364 at 1953 bp
+NKFIDM_03466 (ABC transporter permease subunit) — nearest IS: NKFIDM_03467 at 542 bp
+NKFIDM_03556 (ABC transporter permease) — nearest IS: NKFIDM_03550 at 2488 bp
+NKFIDM_03621 (fluoride efflux transporter CrcB) — nearest IS: NKFIDM_03617 at 2948 bp
+NKFIDM_03622 (fluoride efflux transporter CrcB) — nearest IS: NKFIDM_03617 at 3334 bp
+NKFIDM_03804 (ABC transporter domain-containing protein) — nearest IS: NKFIDM_03803 at 583 bp
+NKFIDM_03805 (ABC transporter domain-containing protein) — nearest IS: NKFIDM_03803 at 1542 bp
+NKFIDM_03807 (ABC transporter substrate-binding protein) — nearest IS: NKFIDM_03803 at 3899 bp
+NKFIDM_04321 (MerR family transcriptional regulator) — nearest IS: NKFIDM_04325 at 3362 bp
+NKFIDM_04493 (ABC transporter permease subunit) — nearest IS: NKFIDM_04490 at 1964 bp
+NKFIDM_04524 (ABC transporter family protein) — nearest IS: NKFIDM_04528 at 4402 bp
+NKFIDM_04526 (ABC transporter transmembrane region family protei) — nearest IS: NKFIDM_04528 at 558 bp
+NKFIDM_04541 (ABC transporter permease subunit) — nearest IS: NKFIDM_04539 at 1199 bp
+NKFIDM_04665 (Polysaccharide ABC transporter ATP-binding protein) — nearest IS: NKFIDM_04668 at 4654 bp
+NKFIDM_04671 (carbamate kinase) — nearest IS: NKFIDM_04668 at 3357 bp
+NKFIDM_04672 (arginine-ornithine antiporter) — nearest IS: NKFIDM_04668 at 4357 bp
+NKFIDM_04776 (Drug resistance MFS transporter, drug:H+ antiporte) — nearest IS: NKFIDM_04780 at 2140 bp
+NKFIDM_04777 (MarR family protein) — nearest IS: NKFIDM_04780 at 1700 bp
+NKFIDM_04781 (Carbohydrate ABC transporter substrate-binding pro) — nearest IS: NKFIDM_04780 at 651 bp
+NKFIDM_05031 (UDP-N-acetylmuramate--L-alanine ligase) — nearest IS: NKFIDM_05030 at 638 bp
+NKFIDM_05061 (Dipeptide ABC transporter, permease protein DppB) — nearest IS: NKFIDM_05059 at 1400 bp
+NKFIDM_05063 (ABC transporter domain-containing protein) — nearest IS: NKFIDM_05059 at 4187 bp
+NKFIDM_05157 (MerR regulatory family protein) — nearest IS: NKFIDM_05158 at 458 bp
+NKFIDM_05216 (MFS transporter) — nearest IS: NKFIDM_05222 at 2404 bp
+NKFIDM_05565 (ABC transporter permease) — nearest IS: NKFIDM_05561 at 4572 bp
+NKFIDM_05600 (ABC transporter permease subunit) — nearest IS: NKFIDM_05604 at 3684 bp
+NKFIDM_05601 (ABC transporter permease subunit) — nearest IS: NKFIDM_05604 at 2761 bp
+NKFIDM_05652 (ABC transporter permease) — nearest IS: NKFIDM_05658 at 2242 bp
+NKFIDM_05666 (carbohydrate ABC transporter permease) — nearest IS: NKFIDM_05658 at 4990 bp
+NKFIDM_05669 (MarR family protein) — nearest IS: NKFIDM_05671 at 1319 bp
+NKFIDM_05675 (MarR family winged helix-turn-helix transcriptiona) — nearest IS: NKFIDM_05671 at 3144 bp
+NKFIDM_05998 (ABC transporter permease subunit) — nearest IS: NKFIDM_06000 at 1089 bp
+NKFIDM_06007 (ABC transporter family protein) — nearest IS: NKFIDM_06004 at 2367 bp
+NKFIDM_06008 (ABC transporter permease subunit) — nearest IS: NKFIDM_06004 at 3460 bp
+NKFIDM_06126 (MFS transporter) — nearest IS: NKFIDM_06123 at 2258 bp
+NKFIDM_06161 (ABC transporter ATP-binding protein) — nearest IS: NKFIDM_06158 at 3038 bp
+NKFIDM_06162 (ABC transporter family protein) — nearest IS: NKFIDM_06158 at 4963 bp
+NKFIDM_06202 (DHA2 family efflux MFS transporter permease subuni) — nearest IS: NKFIDM_06206 at 3343 bp
+NKFIDM_06209 (MarR family protein) — nearest IS: NKFIDM_06206 at 1193 bp
+NKFIDM_06297 (ABC transporter permease subunit) — nearest IS: NKFIDM_06295 at 1624 bp
+NKFIDM_06298 (ABC transporter permease subunit) — nearest IS: NKFIDM_06295 at 2457 bp
+NKFIDM_06321 (RND transporter) — nearest IS: NKFIDM_06326 at 4082 bp
+NKFIDM_06322 (ABC transporter permease subunit) — nearest IS: NKFIDM_06326 at 3192 bp
+NKFIDM_06359 (putative multidrug resistance protein NorM) — nearest IS: NKFIDM_06361 at 1685 bp
+NKFIDM_06574 (MATE family efflux transporter) — nearest IS: NKFIDM_06576 at 1577 bp
+NKFIDM_06578 (ABC transporter family protein) — nearest IS: NKFIDM_06576 at 1040 bp
+NKFIDM_06580 (MarR family transcriptional regulator) — nearest IS: NKFIDM_06576 at 2791 bp
+NKFIDM_06635 (ABC transporter permease subunit) — nearest IS: NKFIDM_06632 at 3216 bp
+
+## Duplicated efflux genes (M5 vs I6)
+ABC transporter substrate-binding protein: M5=21, I6=111
+oligopeptide ABC transporter permease: M5=2, I6=1
+ABC transporter domain-containing protein: M5=8, I6=0
+ABC transporter permease subunit: M5=110, I6=6
+ABC transporter permease: M5=22, I6=107
+ABC transporter family protein: M5=84, I6=0
+Sugar ABC transporter ATP-binding protein: M5=4, I6=0
+MFS transporter: M5=30, I6=75
+MerR regulatory family protein: M5=4, I6=0
+MerR family transcriptional regulator: M5=14, I6=18
+Carbohydrate ABC transporter permease: M5=2, I6=0
+ABC transporter, permease protein: M5=3, I6=0
+ABC transporter ATP-binding protein: M5=8, I6=109
+Efflux RND transporter periplasmic adaptor subunit: M5=4, I6=0
+AcrB/AcrD/AcrF family protein: M5=2, I6=0
+Sugar ABC transporter permease: M5=3, I6=0
+putative multidrug resistance protein NorM: M5=4, I6=0
+D-glutamate N-acetyltransferase-like C-terminal domain-containing protein: M5=2, I6=0
+3-phosphoshikimate 1-carboxyvinyltransferase: M5=2, I6=2
+MATE efflux family protein: M5=4, I6=0
+Drug resistance MFS transporter, drug:H+ antiporter-2 family protein: M5=6, I6=0
+MarR family protein: M5=11, I6=0
+Bacterial ABC transporter EcsB family protein: M5=2, I6=0
+5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase: M5=2, I6=2
+glutamate-1-semialdehyde 2,1-aminomutase: M5=2, I6=0
+MFS-type transporter YcnB: M5=2, I6=0
+Efflux transporter, RND family, MFP subunit: M5=2, I6=0
+glutamate racemase: M5=2, I6=2
+bifunctional 3-deoxy-7-phosphoheptulonate synthase/chorismate mutase: M5=2, I6=1
+type I glutamate--ammonia ligase: M5=2, I6=2
+phosphate ABC transporter ATP-binding protein PstB: M5=2, I6=2
+nickel ABC transporter substrate-binding protein: M5=2, I6=0
+nickel ABC transporter permease: M5=2, I6=0
+Small Multidrug Resistance family protein: M5=2, I6=0
+Iron chelate uptake ABC transporter family permease subunit: M5=3, I6=0
+Chromate transporter: M5=2, I6=0
+MarR family transcriptional regulator: M5=7, I6=5
+Sugar ABC transporter substrate-binding protein: M5=2, I6=0
+DHA2 family efflux MFS transporter permease subunit: M5=6, I6=6
+Sodium:proton antiporter: M5=2, I6=0
+fluoride efflux transporter CrcB: M5=2, I6=2
+Protein-glutamate methylesterase/protein-glutamine glutaminase: M5=2, I6=0
+protein-glutamate O-methyltransferase: M5=2, I6=0
+Formate/nitrite transporter family protein: M5=2, I6=0
+UDP-N-acetylmuramate dehydrogenase: M5=2, I6=2
+Carbohydrate ABC transporter substrate-binding protein: M5=2, I6=0
+HTH marR-type domain-containing protein: M5=2, I6=0
+phosphonate ABC transporter, permease protein PhnE: M5=2, I6=0

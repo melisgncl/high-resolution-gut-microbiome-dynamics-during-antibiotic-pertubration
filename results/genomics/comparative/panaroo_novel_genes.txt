@@ -1,0 +1,740 @@
+# Genes present in M5/M6/M8 but ABSENT from I6
+# Total: 736 (736 in all 3 isolates, 0 partial)
+
+Group	Annotation	M5	M6	M8	In_all_3
+group_5360	hypothetical protein	NKFIDM_06067	KMIGAE_06067	ILIHOP_06067	True
+group_5311	hypothetical protein	NKFIDM_04978	KMIGAE_04978	ILIHOP_04978	True
+loaP	antiterminator LoaP	NKFIDM_03570	KMIGAE_03570	ILIHOP_03570	True
+group_4958	IS4 family transposase	NKFIDM_06206	KMIGAE_06206	ILIHOP_06206	True
+group_4957	IS4 family transposase	NKFIDM_01820	KMIGAE_01820	ILIHOP_01820	True
+group_4955	IS110 family transposase	NKFIDM_06001	KMIGAE_06001	ILIHOP_06001	True
+group_4954	IS110 family transposase	NKFIDM_04871	KMIGAE_04871	ILIHOP_04871	True
+group_4953	IS110 family transposase	NKFIDM_04528	KMIGAE_04528	ILIHOP_04528	True
+group_4952	IS110 family transposase	NKFIDM_03616	KMIGAE_03616	ILIHOP_03616	True
+group_4951	IS110 family transposase	NKFIDM_02591	KMIGAE_02591	ILIHOP_02591	True
+group_4950	IS110 family transposase	NKFIDM_02468	KMIGAE_02468	ILIHOP_02468	True
+group_4949	IS110 family transposase	NKFIDM_02250	KMIGAE_02250	ILIHOP_02250	True
+group_4948	IS110 family transposase	NKFIDM_00703	KMIGAE_00703	ILIHOP_00703	True
+group_4947	IS110 family transposase	NKFIDM_06000	KMIGAE_06000	ILIHOP_06000	True
+group_4946	IS110 family transposase	NKFIDM_04872	KMIGAE_04872	ILIHOP_04872	True
+group_4945	IS110 family transposase	NKFIDM_04529	KMIGAE_04529	ILIHOP_04529	True
+group_4944	IS110 family transposase	NKFIDM_03617	KMIGAE_03617	ILIHOP_03617	True
+group_4943	IS110 family transposase	NKFIDM_02592	KMIGAE_02592	ILIHOP_02592	True
+group_4942	IS110 family transposase	NKFIDM_02467	KMIGAE_02467	ILIHOP_02467	True
+group_4941	IS110 family transposase	NKFIDM_02251	KMIGAE_02251	ILIHOP_02251	True
+group_4940	IS110 family transposase	NKFIDM_00702	KMIGAE_00702	ILIHOP_00702	True
+group_4939	IS110 family transposase	NKFIDM_06343	KMIGAE_06343	ILIHOP_06343	True
+group_4937	IS110 family transposase	NKFIDM_04034	KMIGAE_04034	ILIHOP_04034	True
+group_4934	IS110 family transposase	NKFIDM_02761	KMIGAE_02761	ILIHOP_02761	True
+group_4932	IS110 family transposase	NKFIDM_01546	KMIGAE_01546	ILIHOP_01546	True
+group_4931	IS110 family transposase	NKFIDM_00968	KMIGAE_00968	ILIHOP_00968	True
+group_4930	IS110 family transposase	NKFIDM_00878	KMIGAE_00878	ILIHOP_00878	True
+group_4925	IS4 family transposase	NKFIDM_05888	KMIGAE_05888	ILIHOP_05888	True
+group_4924	IS4 family transposase	NKFIDM_05607	KMIGAE_05607	ILIHOP_05607	True
+group_4923	IS4 family transposase	NKFIDM_05559	KMIGAE_05559	ILIHOP_05559	True
+group_4922	IS4 family transposase	NKFIDM_05030	KMIGAE_05030	ILIHOP_05030	True
+group_4921	IS4 family transposase	NKFIDM_04761	KMIGAE_04761	ILIHOP_04761	True
+group_4919	IS4 family transposase	NKFIDM_03467	KMIGAE_03467	ILIHOP_03467	True
+group_4918	IS4 family transposase	NKFIDM_03364	KMIGAE_03364	ILIHOP_03364	True
+group_4917	IS4 family transposase	NKFIDM_03047	KMIGAE_03047	ILIHOP_03047	True
+group_4911	IS4 family transposase	NKFIDM_00383	KMIGAE_00383	ILIHOP_00383	True
+group_4910	IS4 family transposase	NKFIDM_00033	KMIGAE_00033	ILIHOP_00033	True
+group_4895	hypothetical protein	NKFIDM_05386	KMIGAE_05386	ILIHOP_05387	True
+group_4894	hypothetical protein	NKFIDM_04653	KMIGAE_04653	ILIHOP_04653	True
+group_4893	hypothetical protein	NKFIDM_03306	KMIGAE_03306	ILIHOP_03306	True
+group_4891	hypothetical protein	NKFIDM_05960	KMIGAE_05960	ILIHOP_05960	True
+group_4884	hypothetical protein	NKFIDM_01535	KMIGAE_01535	ILIHOP_01535	True
+group_4879	hypothetical protein	NKFIDM_02462	KMIGAE_02462	ILIHOP_02462	True
+group_4877	hypothetical protein	NKFIDM_06080	KMIGAE_06080	ILIHOP_06080	True
+group_4874	hypothetical protein	NKFIDM_02183	KMIGAE_02183	ILIHOP_02183	True
+group_4868	hypothetical protein	NKFIDM_02461	KMIGAE_02461	ILIHOP_02461	True
+group_4862	hypothetical protein	NKFIDM_06073	KMIGAE_06073	ILIHOP_06073	True
+group_4860	Putative membrane protein	NKFIDM_03226	KMIGAE_03226	ILIHOP_03226	True
+group_4856	hypothetical protein	NKFIDM_05363	KMIGAE_05363	ILIHOP_05363	True
+group_4854	hypothetical protein	NKFIDM_03417	KMIGAE_03417	ILIHOP_03417	True
+group_4848	hypothetical protein	NKFIDM_05845	KMIGAE_05845	ILIHOP_05845	True
+group_4847	hypothetical protein	NKFIDM_04980	KMIGAE_04980	ILIHOP_04980	True
+group_4843	Fibronectin type III domain protein	NKFIDM_01182	KMIGAE_01182	ILIHOP_01182	True
+group_4838	hypothetical protein	NKFIDM_05688	KMIGAE_05688	ILIHOP_05688	True
+group_4833	hypothetical protein	NKFIDM_04756	KMIGAE_04756	ILIHOP_04756	True
+group_4832	Lantibiotic	NKFIDM_04533	KMIGAE_04533	ILIHOP_04533	True
+group_4830	hypothetical protein	NKFIDM_01161	KMIGAE_01161	ILIHOP_01161	True
+group_4827	hypothetical protein	NKFIDM_04987	KMIGAE_04987	ILIHOP_04987	True
+group_4825	hypothetical protein	NKFIDM_03321	KMIGAE_03321	ILIHOP_03321	True
+group_4821	Putative transcriptional regulator	NKFIDM_02166	KMIGAE_02166	ILIHOP_02166	True
+group_4811	Pseudouridine synthase	NKFIDM_06431	KMIGAE_06431	ILIHOP_06431	True
+group_4810	hypothetical protein	NKFIDM_06077	KMIGAE_06077	ILIHOP_06077	True
+xkdX	XkdX family protein	NKFIDM_06043	KMIGAE_06043	ILIHOP_06043	True
+group_4806	class I SAM-dependent methyltransferase	NKFIDM_04981	KMIGAE_04981	ILIHOP_04981	True
+group_4805	hypothetical protein	NKFIDM_04939	KMIGAE_04939	ILIHOP_04939	True
+group_4802	hypothetical protein	NKFIDM_01338	KMIGAE_01338	ILIHOP_01338	True
+group_4801	Conjugal transfer protein	NKFIDM_01200	KMIGAE_01200	ILIHOP_01200	True
+rpmG	50S ribosomal protein L33	NKFIDM_02173	KMIGAE_02173	ILIHOP_02173	True
+group_4797	hypothetical protein	NKFIDM_01724	KMIGAE_01724	ILIHOP_01724	True
+group_4796	Enoyl-CoA hydratase/isomerase domain protein	NKFIDM_01204	KMIGAE_01204	ILIHOP_01204	True
+group_4794	hypothetical protein	NKFIDM_05972	KMIGAE_05972	ILIHOP_05972	True
+group_4783	DUF2179 domain-containing protein	NKFIDM_00320	KMIGAE_00320	ILIHOP_00320	True
+group_4780	hypothetical protein	NKFIDM_04680	KMIGAE_04680	ILIHOP_04680	True
+group_4773	hypothetical protein	NKFIDM_06030	KMIGAE_06030	ILIHOP_06030	True
+group_4764	hypothetical protein	NKFIDM_06108	KMIGAE_06108	ILIHOP_06108	True
+group_4763	hypothetical protein	NKFIDM_06088	KMIGAE_06088	ILIHOP_06088	True
+group_4760	Pyridine nucleotide-disulfide oxidoreductase family protein	NKFIDM_02179	KMIGAE_02179	ILIHOP_02179	True
+group_4756	hypothetical protein	NKFIDM_06114	KMIGAE_06114	ILIHOP_06114	True
+group_4749	Putative membrane protein	NKFIDM_06181	KMIGAE_06181	ILIHOP_06181	True
+group_4744	hypothetical protein	NKFIDM_00582	KMIGAE_00582	ILIHOP_00582	True
+group_4739	hypothetical protein	NKFIDM_04733	KMIGAE_04733	ILIHOP_04733	True
+group_4738	hypothetical protein	NKFIDM_04706	KMIGAE_04706	ILIHOP_04706	True
+group_4736	hypothetical protein	NKFIDM_03277	KMIGAE_03277	ILIHOP_03277	True
+group_4734	hypothetical protein	NKFIDM_02501	KMIGAE_02501	ILIHOP_02501	True
+group_4732	hypothetical protein	NKFIDM_01536	KMIGAE_01536	ILIHOP_01536	True
+group_4730	hypothetical protein	NKFIDM_06605	KMIGAE_06605	ILIHOP_06605	True
+group_4729	hypothetical protein	NKFIDM_06094	KMIGAE_06094	ILIHOP_06094	True
+group_4728	hypothetical protein	NKFIDM_06084	KMIGAE_06084	ILIHOP_06084	True
+group_4725	hypothetical protein	NKFIDM_03554	KMIGAE_03554	ILIHOP_03554	True
+group_4721	WYL domain-containing protein	NKFIDM_01159	KMIGAE_01159	ILIHOP_01159	True
+group_4720	hypothetical protein	NKFIDM_00565	KMIGAE_00565	ILIHOP_00565	True
+group_4716	hypothetical protein	NKFIDM_06606	KMIGAE_06606	ILIHOP_06606	True
+group_4715	CopG family transcriptional regulator	NKFIDM_06096	KMIGAE_06096	ILIHOP_06096	True
+group_4713	PepSY domain-containing protein	NKFIDM_04731	KMIGAE_04731	ILIHOP_04731	True
+group_4712	DUF951 domain-containing protein	NKFIDM_04729	KMIGAE_04729	ILIHOP_04729	True
+group_4706	hypothetical protein	NKFIDM_04985	KMIGAE_04985	ILIHOP_04985	True
+group_4700	DUF4316 domain-containing protein	NKFIDM_02513	KMIGAE_02513	ILIHOP_02513	True
+group_4691	Spo0E like sporulation regulatory family protein	NKFIDM_01148	KMIGAE_01148	ILIHOP_01148	True
+group_4683	Conjugal transfer protein	NKFIDM_02506	KMIGAE_02506	ILIHOP_02506	True
+group_4681	hypothetical protein	NKFIDM_02104	KMIGAE_02104	ILIHOP_02104	True
+group_4670	hypothetical protein	NKFIDM_04984	KMIGAE_04984	ILIHOP_04984	True
+group_4667	Transposase	NKFIDM_01143	KMIGAE_01143	ILIHOP_01143	True
+group_4665	hypothetical protein	NKFIDM_00282	KMIGAE_00282	ILIHOP_00282	True
+group_4661	DUF4190 domain-containing protein	NKFIDM_06599	KMIGAE_06599	ILIHOP_06599	True
+group_4658	hypothetical protein	NKFIDM_06049	KMIGAE_06049	ILIHOP_06049	True
+tnpW	transposon-encoded TnpW family protein	NKFIDM_01128	KMIGAE_01128	ILIHOP_01128	True
+group_4649	hypothetical protein	NKFIDM_06107	KMIGAE_06107	ILIHOP_06107	True
+group_4648	HTH cro/C1-type domain-containing protein	NKFIDM_04990	KMIGAE_04990	ILIHOP_04990	True
+group_4646	DUF6075 domain-containing protein	NKFIDM_01153	KMIGAE_01153	ILIHOP_01153	True
+group_4642	oligoribonuclease	NKFIDM_03582	KMIGAE_03582	ILIHOP_03582	True
+group_4640	DUF4250 domain-containing protein	NKFIDM_02504	KMIGAE_02504	ILIHOP_02504	True
+group_4639	hypothetical protein	NKFIDM_01734	KMIGAE_01734	ILIHOP_01734	True
+group_4638	hypothetical protein	NKFIDM_01390	KMIGAE_01390	ILIHOP_01390	True
+group_4632	hypothetical protein	NKFIDM_06068	KMIGAE_06068	ILIHOP_06068	True
+group_4624	hypothetical protein	NKFIDM_06089	KMIGAE_06089	ILIHOP_06089	True
+group_4623	hypothetical protein	NKFIDM_06052	KMIGAE_06052	ILIHOP_06052	True
+group_4619	hypothetical protein	NKFIDM_04965	KMIGAE_04965	ILIHOP_04965	True
+group_4606	hypothetical protein	NKFIDM_01189	KMIGAE_01189	ILIHOP_01189	True
+group_4604	Transcriptional regulator	NKFIDM_06074	KMIGAE_06074	ILIHOP_06074	True
+group_4602	hypothetical protein	NKFIDM_04906	KMIGAE_04906	ILIHOP_04906	True
+group_4599	helix-turn-helix domain-containing protein	NKFIDM_03549	KMIGAE_03549	ILIHOP_03549	True
+group_4597	Conjugal transfer protein	NKFIDM_02525	KMIGAE_02525	ILIHOP_02525	True
+group_4596	hypothetical protein	NKFIDM_02515	KMIGAE_02515	ILIHOP_02515	True
+group_4594	hypothetical protein	NKFIDM_01111	KMIGAE_01111	ILIHOP_01111	True
+group_4591	hypothetical protein	NKFIDM_00349	KMIGAE_00349	ILIHOP_00349	True
+group_4589	hypothetical protein	NKFIDM_06109	KMIGAE_06109	ILIHOP_06109	True
+group_4587	Methyltransferase	NKFIDM_04982	KMIGAE_04982	ILIHOP_04982	True
+group_4586	hypothetical protein	NKFIDM_04938	KMIGAE_04938	ILIHOP_04938	True
+group_4584	hypothetical protein	NKFIDM_03546	KMIGAE_03546	ILIHOP_03546	True
+group_4580	SHOCT domain-containing protein	NKFIDM_01165	KMIGAE_01165	ILIHOP_01165	True
+group_4577	hypothetical protein	NKFIDM_06604	KMIGAE_06604	ILIHOP_06604	True
+group_4573	Sporulation protein Cse60	NKFIDM_06092	KMIGAE_06092	ILIHOP_06092	True
+group_4569	hypothetical protein	NKFIDM_01179	KMIGAE_01179	ILIHOP_01179	True
+group_4565	hypothetical protein	NKFIDM_03135	KMIGAE_03135	ILIHOP_03135	True
+group_4561	Transposase	NKFIDM_01213	KMIGAE_01213	ILIHOP_01213	True
+hicA	HicA toxin of toxin-antitoxin	NKFIDM_06066	KMIGAE_06066	ILIHOP_06066	True
+group_4551	hypothetical protein	NKFIDM_02249	KMIGAE_02249	ILIHOP_02249	True
+group_4546	hypothetical protein	NKFIDM_06091	KMIGAE_06091	ILIHOP_06091	True
+group_4544	hypothetical protein	NKFIDM_04983	KMIGAE_04983	ILIHOP_04983	True
+group_4543	hypothetical protein	NKFIDM_04948	KMIGAE_04948	ILIHOP_04948	True
+group_4541	Periplasmic solute binding family protein	NKFIDM_02175	KMIGAE_02175	ILIHOP_02175	True
+group_4536	hypothetical protein	NKFIDM_04962	KMIGAE_04962	ILIHOP_04962	True
+group_4535	RNA polymerase sigma factor sigma-70 family protein	NKFIDM_04683	KMIGAE_04683	ILIHOP_04683	True
+group_4532	Sulfatase-modifying factor enzyme domain-containing protein	NKFIDM_03598	KMIGAE_03598	ILIHOP_03598	True
+group_4531	Aldo/keto reductase family protein	NKFIDM_03276	KMIGAE_03276	ILIHOP_03276	True
+group_4519	HTH cro/C1-type domain-containing protein	NKFIDM_04940	KMIGAE_04940	ILIHOP_04940	True
+group_4517	hypothetical protein	NKFIDM_04738	KMIGAE_04738	ILIHOP_04738	True
+group_4510	Helix-turn-helix domain-containing protein	NKFIDM_00363	KMIGAE_00363	ILIHOP_00363	True
+group_4504	hypothetical protein	NKFIDM_02969	KMIGAE_02969	ILIHOP_02969	True
+group_4500	hypothetical protein	NKFIDM_00887	KMIGAE_00887	ILIHOP_00887	True
+group_4497	NIF system FeS cluster assembly NifU C-terminal domain-containing protein	NKFIDM_04921	KMIGAE_04921	ILIHOP_04921	True
+group_4488	Conserved domain protein	NKFIDM_06029	KMIGAE_06029	ILIHOP_06029	True
+group_4472	XRE family transcriptional regulator	NKFIDM_06115	KMIGAE_06115	ILIHOP_06115	True
+group_4469	hypothetical protein	NKFIDM_04986	KMIGAE_04986	ILIHOP_04986	True
+group_4459	hypothetical protein	NKFIDM_03559	KMIGAE_03559	ILIHOP_03559	True
+group_4454	L-serine ammonia-lyase	NKFIDM_01205	KMIGAE_01205	ILIHOP_01205	True
+group_4452	hypothetical protein	NKFIDM_06602	KMIGAE_06602	ILIHOP_06602	True
+group_4450	hypothetical protein	NKFIDM_06039	KMIGAE_06039	ILIHOP_06039	True
+group_4449	hypothetical protein	NKFIDM_06038	KMIGAE_06038	ILIHOP_06038	True
+group_4446	Phosphopantetheine attachment site family protein	NKFIDM_04694	KMIGAE_04694	ILIHOP_04694	True
+group_4444	hypothetical protein	NKFIDM_03563	KMIGAE_03563	ILIHOP_03563	True
+group_4443	hypothetical protein	NKFIDM_03553	KMIGAE_03553	ILIHOP_03553	True
+group_4441	Bacterial Pleckstrin-like y domain-containing protein	NKFIDM_00322	KMIGAE_00322	ILIHOP_00322	True
+group_4436	hypothetical protein	NKFIDM_06112	KMIGAE_06112	ILIHOP_06112	True
+group_4431	hypothetical protein	NKFIDM_03560	KMIGAE_03560	ILIHOP_03560	True
+group_4427	Peptide maturation system acyl carrier-related protein	NKFIDM_00286	KMIGAE_00286	ILIHOP_00286	True
+group_4425	hypothetical protein	NKFIDM_06608	KMIGAE_06608	ILIHOP_06608	True
+group_4422	CRISPR-associated endonuclease Cas2	NKFIDM_01398	KMIGAE_01398	ILIHOP_01398	True
+group_4421	hypothetical protein	NKFIDM_00406	KMIGAE_00406	ILIHOP_00406	True
+group_4416	hypothetical protein	NKFIDM_06085	KMIGAE_06085	ILIHOP_06085	True
+group_4415	hypothetical protein	NKFIDM_05610	KMIGAE_05610	ILIHOP_05610	True
+group_4413	hypothetical protein	NKFIDM_04942	KMIGAE_04942	ILIHOP_04942	True
+group_4411	DUF6870 domain-containing protein	NKFIDM_02503	KMIGAE_02503	ILIHOP_02503	True
+group_4406	hypothetical protein	NKFIDM_04527	KMIGAE_04527	ILIHOP_04527	True
+group_4403	Bacterial mobilisation domain-containing protein	NKFIDM_02512	KMIGAE_02512	ILIHOP_02512	True
+group_4401	Helix-turn-helix domain-containing protein	NKFIDM_01126	KMIGAE_01126	ILIHOP_01126	True
+group_4397	Phage holin LL-H family	NKFIDM_03567	KMIGAE_03567	ILIHOP_03567	True
+group_4394	DUF4315 domain-containing protein	NKFIDM_02517	KMIGAE_02517	ILIHOP_02517	True
+rpsN	30S ribosomal protein S14	NKFIDM_02177	KMIGAE_02177	ILIHOP_02177	True
+group_4390	hypothetical protein	NKFIDM_06082	KMIGAE_06082	ILIHOP_06082	True
+group_4362	hypothetical protein	NKFIDM_04752	KMIGAE_04752	ILIHOP_04752	True
+group_4353	HicB-like antitoxin of toxin-antitoxin system domain-containing protein	NKFIDM_01174	KMIGAE_01174	ILIHOP_01174	True
+group_4352	hypothetical protein	NKFIDM_01135	KMIGAE_01135	ILIHOP_01135	True
+group_4344	Holin	NKFIDM_06035	KMIGAE_06035	ILIHOP_06035	True
+group_4343	LexA repressor DNA-binding domain-containing protein	NKFIDM_04937	KMIGAE_04937	ILIHOP_04937	True
+group_4341	hypothetical protein	NKFIDM_04519	KMIGAE_04519	ILIHOP_04519	True
+group_4330	MarR family transcriptional regulator	NKFIDM_06031	KMIGAE_06031	ILIHOP_06031	True
+group_4327	VRR-NUC domain-containing protein	NKFIDM_04969	KMIGAE_04969	ILIHOP_04969	True
+group_4326	hypothetical protein	NKFIDM_04922	KMIGAE_04922	ILIHOP_04922	True
+group_4325	AbrB/MazE/SpoVT family DNA-binding domain-containing protein	NKFIDM_03555	KMIGAE_03555	ILIHOP_03555	True
+group_4324	hypothetical protein	NKFIDM_01812	KMIGAE_01812	ILIHOP_01812	True
+group_4323	Antitoxin	NKFIDM_01137	KMIGAE_01137	ILIHOP_01137	True
+group_4320	DUF3139 domain-containing protein	NKFIDM_00379	KMIGAE_00379	ILIHOP_00379	True
+group_4319	CRISPR-associated endonuclease Cas2	NKFIDM_00344	KMIGAE_00344	ILIHOP_00344	True
+group_4313	DUF2187 domain-containing protein	NKFIDM_04953	KMIGAE_04953	ILIHOP_04953	True
+group_4311	hemolysin	NKFIDM_03593	KMIGAE_03593	ILIHOP_03593	True
+group_4302	STAS-like domain-containing protein	NKFIDM_06032	KMIGAE_06032	ILIHOP_06032	True
+group_4297	Mobilization protein	NKFIDM_01139	KMIGAE_01139	ILIHOP_01139	True
+group_4294	hypothetical protein	NKFIDM_04988	KMIGAE_04988	ILIHOP_04988	True
+group_4291	EscS/YscS/HrcS family type III secretion system export apparatus protein	NKFIDM_02510	KMIGAE_02510	ILIHOP_02510	True
+group_4290	TipAS antibiotic-recognition domain-containing protein	NKFIDM_01130	KMIGAE_01130	ILIHOP_01130	True
+group_4284	Phage protein	NKFIDM_06076	KMIGAE_06076	ILIHOP_06076	True
+cdiI	CdiI immunity protein domain-containing protein	NKFIDM_05387	KMIGAE_05387	ILIHOP_05388	True
+group_4279	Glutamyl-tRNA amidotransferase	NKFIDM_01145	KMIGAE_01145	ILIHOP_01145	True
+group_4276	hypothetical protein	NKFIDM_06310	KMIGAE_06310	ILIHOP_06310	True
+group_4275	hypothetical protein	NKFIDM_06071	KMIGAE_06071	ILIHOP_06071	True
+group_4272	hypothetical protein	NKFIDM_03548	KMIGAE_03548	ILIHOP_03548	True
+group_4269	HicB family toxin-antitoxin system	NKFIDM_01175	KMIGAE_01175	ILIHOP_01175	True
+group_4265	Phage protein	NKFIDM_06098	KMIGAE_06098	ILIHOP_06098	True
+group_4261	hypothetical protein	NKFIDM_03573	KMIGAE_03573	ILIHOP_03573	True
+group_4252	hypothetical protein	NKFIDM_06307	KMIGAE_06307	ILIHOP_06307	True
+group_4236	thioredoxin	NKFIDM_01169	KMIGAE_01169	ILIHOP_01169	True
+group_4235	hypothetical protein	NKFIDM_01131	KMIGAE_01131	ILIHOP_01131	True
+group_4227	hypothetical protein	NKFIDM_04734	KMIGAE_04734	ILIHOP_04734	True
+group_4225	ArsR family transcriptional regulator	NKFIDM_03568	KMIGAE_03568	ILIHOP_03568	True
+group_4223	Plasmid stabilization protein	NKFIDM_01138	KMIGAE_01138	ILIHOP_01138	True
+group_4208	Mor transcription activator family protein	NKFIDM_03565	KMIGAE_03565	ILIHOP_03565	True
+group_4199	hypothetical protein	NKFIDM_06095	KMIGAE_06095	ILIHOP_06095	True
+hicB	Toxin-antitoxin system HicB family antitoxin	NKFIDM_06065	KMIGAE_06065	ILIHOP_06065	True
+group_4192	stalk domain-containing protein	NKFIDM_06305	KMIGAE_06305	ILIHOP_06305	True
+xhlA	Hemolysin XhlA family protein	NKFIDM_06037	KMIGAE_06037	ILIHOP_06037	True
+group_4176	GNAT family N-acetyltransferase	NKFIDM_03224	KMIGAE_03224	ILIHOP_03224	True
+group_4170	DUF3553 domain-containing protein	NKFIDM_06081	KMIGAE_06081	ILIHOP_06081	True
+group_4167	Ryanodine receptor Ryr domain-containing protein	NKFIDM_04960	KMIGAE_04960	ILIHOP_04960	True
+avd	diversity-generating retroelement protein Avd	NKFIDM_03597	KMIGAE_03597	ILIHOP_03597	True
+group_4162	Helix-turn-helix family protein	NKFIDM_01147	KMIGAE_01147	ILIHOP_01147	True
+group_4156	hypothetical protein	NKFIDM_04973	KMIGAE_04973	ILIHOP_04973	True
+group_4150	Regulator of chromosome condensation (RCC1) repeat family protein	NKFIDM_06306	KMIGAE_06306	ILIHOP_06306	True
+group_4149	hypothetical protein	NKFIDM_06078	KMIGAE_06078	ILIHOP_06078	True
+group_4148	head fiber protein	NKFIDM_04956	KMIGAE_04956	ILIHOP_04956	True
+group_4145	MmcQ/YjbR family DNA-binding protein	NKFIDM_03217	KMIGAE_03217	ILIHOP_03217	True
+group_4143	hypothetical protein	NKFIDM_01149	KMIGAE_01149	ILIHOP_01149	True
+group_4140	hypothetical protein	NKFIDM_06087	KMIGAE_06087	ILIHOP_06087	True
+group_4132	hypothetical protein	NKFIDM_06090	KMIGAE_06090	ILIHOP_06090	True
+group_4131	hypothetical protein	NKFIDM_06050	KMIGAE_06050	ILIHOP_06050	True
+group_4129	Cytoplasmic protein	NKFIDM_03237	KMIGAE_03237	ILIHOP_03237	True
+group_4123	EamA domain-containing protein	NKFIDM_05825	KMIGAE_05825	ILIHOP_05825	True
+group_4120	VOC domain-containing protein	NKFIDM_04925	KMIGAE_04925	ILIHOP_04925	True
+group_4119	hypothetical protein	NKFIDM_04751	KMIGAE_04751	ILIHOP_04751	True
+group_4110	Putative membrane protein	NKFIDM_03308	KMIGAE_03308	ILIHOP_03308	True
+group_4109	DUF1048 domain-containing protein	NKFIDM_03236	KMIGAE_03236	ILIHOP_03236	True
+group_4108	Nucleoside 2-deoxyribosyltransferase-like protein	NKFIDM_02532	KMIGAE_02532	ILIHOP_02532	True
+group_4094	DUF6075 domain-containing protein	NKFIDM_01193	KMIGAE_01193	ILIHOP_01193	True
+group_4093	hypothetical protein	NKFIDM_00979	KMIGAE_00979	ILIHOP_00979	True
+group_4092	HTH cro/C1-type domain-containing protein	NKFIDM_06601	KMIGAE_06601	ILIHOP_06601	True
+group_4087	MerR regulatory family protein	NKFIDM_03252	KMIGAE_03252	ILIHOP_03252	True
+group_4086	Tyrosine protein kinase	NKFIDM_03201	KMIGAE_03201	ILIHOP_03201	True
+group_4084	rhodanese-like domain-containing protein	NKFIDM_02530	KMIGAE_02530	ILIHOP_02530	True
+group_4077	MarR family transcriptional regulator	NKFIDM_02529	KMIGAE_02529	ILIHOP_02529	True
+group_4076	cysteine-rich VLP domain-containing protein	NKFIDM_02514	KMIGAE_02514	ILIHOP_02514	True
+group_4075	PrgI family protein	NKFIDM_01150	KMIGAE_01150	ILIHOP_01150	True
+group_4069	Cdc6-related protein	NKFIDM_03578	KMIGAE_03578	ILIHOP_03578	True
+group_4068	SDR family NAD(P)-dependent oxidoreductase	NKFIDM_03248	KMIGAE_03248	ILIHOP_03248	True
+group_4056	PTS system glucose subfamily IIA component domain protein	NKFIDM_02214	KMIGAE_02214	ILIHOP_02214	True
+group_4041	HIRAN domain-containing protein	NKFIDM_04723	KMIGAE_04723	ILIHOP_04723	True
+group_4024	Phage holin family protein	NKFIDM_02196	KMIGAE_02196	ILIHOP_02196	True
+prgI	PrgI family protein	NKFIDM_02520	KMIGAE_02520	ILIHOP_02520	True
+group_4008	Fe-S protein	NKFIDM_03579	KMIGAE_03579	ILIHOP_03579	True
+group_4002	hypothetical protein	NKFIDM_05965	KMIGAE_05965	ILIHOP_05965	True
+group_3997	ABC transporter permease	NKFIDM_01119	KMIGAE_01119	ILIHOP_01119	True
+group_3993	hypothetical protein	NKFIDM_06086	KMIGAE_06086	ILIHOP_06086	True
+vapC	Type II toxin-antitoxin system VapC family toxin	NKFIDM_04737	KMIGAE_04737	ILIHOP_04737	True
+group_3989	hypothetical protein	NKFIDM_03601	KMIGAE_03601	ILIHOP_03601	True
+group_3984	hypothetical protein	NKFIDM_04740	KMIGAE_04740	ILIHOP_04740	True
+group_3975	Streptococcus thermophilus bacteriophage Gp111 protein	NKFIDM_04941	KMIGAE_04941	ILIHOP_04941	True
+group_3971	DUF7007 domain-containing protein	NKFIDM_02522	KMIGAE_02522	ILIHOP_02522	True
+group_3965	DUF2190 domain-containing protein	NKFIDM_03576	KMIGAE_03576	ILIHOP_03576	True
+group_3961	PD-(D/E)XK nuclease transposase family protein	NKFIDM_01214	KMIGAE_01214	ILIHOP_01214	True
+group_3960	Rrf2 family protein	NKFIDM_01173	KMIGAE_01173	ILIHOP_01173	True
+group_3959	hypothetical protein	NKFIDM_01160	KMIGAE_01160	ILIHOP_01160	True
+group_3953	AAA family ATPase	NKFIDM_03595	KMIGAE_03595	ILIHOP_03595	True
+group_3943	SDR family oxidoreductase	NKFIDM_03247	KMIGAE_03247	ILIHOP_03247	True
+group_3935	YopX protein domain-containing protein	NKFIDM_06079	KMIGAE_06079	ILIHOP_06079	True
+group_3934	Podophage GP4 fiber I protein gp80	NKFIDM_06046	KMIGAE_06046	ILIHOP_06046	True
+group_3920	helix-turn-helix domain-containing protein	NKFIDM_01107	KMIGAE_01107	ILIHOP_01107	True
+gtrA	GtrA family protein	NKFIDM_05818	KMIGAE_05818	ILIHOP_05818	True
+group_3915	hypothetical protein	NKFIDM_04958	KMIGAE_04958	ILIHOP_04958	True
+group_3911	RNA polymerase sigma factor 70 region 4 type 2 domain-containing protein	NKFIDM_02505	KMIGAE_02505	ILIHOP_02505	True
+group_3906	RNA polymerase sigma factor 70 region 4 type 2 domain-containing protein	NKFIDM_01192	KMIGAE_01192	ILIHOP_01192	True
+group_3905	Sigma-70 region 4 family protein	NKFIDM_01152	KMIGAE_01152	ILIHOP_01152	True
+yopX	YopX family protein	NKFIDM_06083	KMIGAE_06083	ILIHOP_06083	True
+group_3895	Ferric uptake regulator family protein	NKFIDM_02176	KMIGAE_02176	ILIHOP_02176	True
+group_3892	holin family protein	NKFIDM_04945	KMIGAE_04945	ILIHOP_04945	True
+group_3890	peptide methionine sulfoxide reductase	NKFIDM_03589	KMIGAE_03589	ILIHOP_03589	True
+group_3881	ABC transporter permease	NKFIDM_06110	KMIGAE_06110	ILIHOP_06110	True
+group_3873	single-stranded DNA-binding protein	NKFIDM_06104	KMIGAE_06104	ILIHOP_06104	True
+group_3871	Transcriptional regulator	NKFIDM_04966	KMIGAE_04966	ILIHOP_04966	True
+group_3866	VOC domain-containing protein	NKFIDM_02521	KMIGAE_02521	ILIHOP_02521	True
+group_3862	DUF3168 domain-containing protein	NKFIDM_06053	KMIGAE_06053	ILIHOP_06053	True
+group_3845	Arm DNA-binding domain-containing protein	NKFIDM_03562	KMIGAE_03562	ILIHOP_03562	True
+gemA	regulatory protein GemA	NKFIDM_03557	KMIGAE_03557	ILIHOP_03557	True
+group_3844	HTH cro/C1-type domain-containing protein	NKFIDM_03547	KMIGAE_03547	ILIHOP_03547	True
+group_3839	Immunity protein 30 domain-containing protein	NKFIDM_05388	KMIGAE_05388	ILIHOP_05389	True
+group_3837	hypothetical protein	NKFIDM_04762	KMIGAE_04762	ILIHOP_04762	True
+group_3836	hypothetical protein	NKFIDM_01125	KMIGAE_01125	ILIHOP_01125	True
+group_3830	hypothetical protein	NKFIDM_05560	KMIGAE_05560	ILIHOP_05560	True
+group_3823	DUF2634 domain-containing protein	NKFIDM_03590	KMIGAE_03590	ILIHOP_03590	True
+group_3822	tartrate dehydratase	NKFIDM_03580	KMIGAE_03580	ILIHOP_03580	True
+group_3821	Uncharacterized protein conserved in bacteria	NKFIDM_03552	KMIGAE_03552	ILIHOP_03552	True
+group_3815	hypothetical protein	NKFIDM_00321	KMIGAE_00321	ILIHOP_00321	True
+group_3806	Endoglucanase	NKFIDM_03584	KMIGAE_03584	ILIHOP_03584	True
+group_3796	hypothetical protein	NKFIDM_04967	KMIGAE_04967	ILIHOP_04967	True
+group_3792	Ferric uptake regulator family protein	NKFIDM_02182	KMIGAE_02182	ILIHOP_02182	True
+group_3781	Very short patch repair endonuclease	NKFIDM_00362	KMIGAE_00362	ILIHOP_00362	True
+group_3772	guanylate kinase	NKFIDM_03566	KMIGAE_03566	ILIHOP_03566	True
+group_3770	TetR/AcrR family transcriptional regulator	NKFIDM_03221	KMIGAE_03221	ILIHOP_03221	True
+group_3757	Nitroreductase	NKFIDM_03251	KMIGAE_03251	ILIHOP_03251	True
+group_3747	IrrE N-terminal-like domain-containing protein	NKFIDM_04992	KMIGAE_04992	ILIHOP_04992	True
+group_3746	NERD domain-containing protein	NKFIDM_04713	KMIGAE_04713	ILIHOP_04713	True
+group_3739	hypothetical protein	NKFIDM_06057	KMIGAE_06057	ILIHOP_06057	True
+group_3737	hypothetical protein	NKFIDM_05806	KMIGAE_05806	ILIHOP_05806	True
+sigK	RNA polymerase sporulation sigma factor SigK	NKFIDM_04703	KMIGAE_04703	ILIHOP_04703	True
+group_3716	hypothetical protein	NKFIDM_00324	KMIGAE_00324	ILIHOP_00324	True
+pcfB	PcfB family protein	NKFIDM_02527	KMIGAE_02527	ILIHOP_02527	True
+spoVG	SpoVG family protein	NKFIDM_02523	KMIGAE_02523	ILIHOP_02523	True
+insH	Transposase InsH N-terminal domain-containing protein	NKFIDM_01156	KMIGAE_01156	ILIHOP_01156	True
+group_3700	hypothetical protein	NKFIDM_05281	KMIGAE_05281	ILIHOP_05281	True
+group_3699	transposase	NKFIDM_04964	KMIGAE_04964	ILIHOP_04964	True
+group_3695	ABC transporter permease	NKFIDM_01118	KMIGAE_01118	ILIHOP_01118	True
+group_3678	hypothetical protein	NKFIDM_02590	KMIGAE_02590	ILIHOP_02590	True
+group_3675	Putative membrane protein	NKFIDM_00440	KMIGAE_00440	ILIHOP_00440	True
+group_3663	Transposase	NKFIDM_06061	KMIGAE_06061	ILIHOP_06061	True
+group_3658	hypothetical protein	NKFIDM_02180	KMIGAE_02180	ILIHOP_02180	True
+ardA	Antirestriction protein ArdA	NKFIDM_06603	KMIGAE_06603	ILIHOP_06603	True
+group_3642	Bacteriocin transport accessory protein	NKFIDM_04520	KMIGAE_04520	ILIHOP_04520	True
+group_3640	signal transduction protein	NKFIDM_03594	KMIGAE_03594	ILIHOP_03594	True
+group_3639	phage tail assembly chaperone	NKFIDM_03585	KMIGAE_03585	ILIHOP_03585	True
+group_3637	CRISPR-associated protein Cas4	NKFIDM_01396	KMIGAE_01396	ILIHOP_01396	True
+group_3635	ABC-three component (ABC-3C) system Middle Component 3	NKFIDM_01198	KMIGAE_01198	ILIHOP_01198	True
+group_3628	hypothetical protein	NKFIDM_04977	KMIGAE_04977	ILIHOP_04977	True
+group_3612	Lipoprotein	NKFIDM_02101	KMIGAE_02101	ILIHOP_02101	True
+group_3595	DUF4411 domain-containing protein	NKFIDM_06591	KMIGAE_06591	ILIHOP_06591	True
+group_3588	hypothetical protein	NKFIDM_04971	KMIGAE_04971	ILIHOP_04971	True
+group_3575	hypothetical protein	NKFIDM_05391	KMIGAE_05391	ILIHOP_05392	True
+group_3568	hypothetical protein	NKFIDM_03220	KMIGAE_03220	ILIHOP_03220	True
+group_3558	hypothetical protein	NKFIDM_04755	KMIGAE_04755	ILIHOP_04755	True
+group_3546	GNAT family N-acetyltransferase	NKFIDM_02511	KMIGAE_02511	ILIHOP_02511	True
+group_3543	Acetyltransferase domain protein	NKFIDM_04900	KMIGAE_04900	ILIHOP_04900	True
+group_3530	DUF1064 domain-containing protein	NKFIDM_06099	KMIGAE_06099	ILIHOP_06099	True
+group_3514	hypothetical protein	NKFIDM_06103	KMIGAE_06103	ILIHOP_06103	True
+group_3508	Lipoprotein	NKFIDM_00325	KMIGAE_00325	ILIHOP_00325	True
+yorD	Bacteriophage SP-beta YorD domain-containing protein	NKFIDM_06044	KMIGAE_06044	ILIHOP_06044	True
+group_3497	hypothetical protein	NKFIDM_06100	KMIGAE_06100	ILIHOP_06100	True
+group_3496	hypothetical protein	NKFIDM_06069	KMIGAE_06069	ILIHOP_06069	True
+group_3488	DUF4309 domain-containing protein	NKFIDM_01120	KMIGAE_01120	ILIHOP_01120	True
+group_3476	AP2 domain-containing protein	NKFIDM_04979	KMIGAE_04979	ILIHOP_04979	True
+group_3471	Transcriptional regulator PadR-like family protein	NKFIDM_00888	KMIGAE_00888	ILIHOP_00888	True
+group_3469	Phage tail protein	NKFIDM_06047	KMIGAE_06047	ILIHOP_06047	True
+group_3468	hypothetical protein	NKFIDM_04952	KMIGAE_04952	ILIHOP_04952	True
+group_3467	copper amine oxidase N-terminal domain-containing protein	NKFIDM_04949	KMIGAE_04949	ILIHOP_04949	True
+group_3461	TIGR04066 family peptide maturation system protein	NKFIDM_00285	KMIGAE_00285	ILIHOP_00285	True
+group_3452	DUF1492 domain-containing protein	NKFIDM_01191	KMIGAE_01191	ILIHOP_01191	True
+group_3450	Phage gp6-like head-tail connector protein	NKFIDM_06056	KMIGAE_06056	ILIHOP_06056	True
+group_3448	UDP-N-acetylglucosamine kinase	NKFIDM_04730	KMIGAE_04730	ILIHOP_04730	True
+group_3443	TetR family transcriptional regulator	NKFIDM_02508	KMIGAE_02508	ILIHOP_02508	True
+group_3434	Phage tail protein	NKFIDM_06055	KMIGAE_06055	ILIHOP_06055	True
+group_3433	Suppressor of fused-like domain-containing protein	NKFIDM_04955	KMIGAE_04955	ILIHOP_04955	True
+group_3424	DUF3486 domain-containing protein	NKFIDM_03569	KMIGAE_03569	ILIHOP_03569	True
+group_3411	Transcriptional regulator PadR-like family protein	NKFIDM_04923	KMIGAE_04923	ILIHOP_04923	True
+group_3404	helix-turn-helix transcriptional regulator	NKFIDM_06612	KMIGAE_06612	ILIHOP_06612	True
+group_3402	hypothetical protein	NKFIDM_06054	KMIGAE_06054	ILIHOP_06054	True
+group_3372	Bacterial regulatory s tetR family protein	NKFIDM_01157	KMIGAE_01157	ILIHOP_01157	True
+group_3371	hypothetical protein	NKFIDM_00284	KMIGAE_00284	ILIHOP_00284	True
+group_3368	2'3'-cyclic-nucleotide 2'-phosphodiesterase	NKFIDM_06040	KMIGAE_06040	ILIHOP_06040	True
+group_3365	hypothetical protein	NKFIDM_04712	KMIGAE_04712	ILIHOP_04712	True
+group_3351	hypothetical protein	NKFIDM_03209	KMIGAE_03209	ILIHOP_03209	True
+group_3346	Enoyl-CoA hydratase/isomerase family protein	NKFIDM_01203	KMIGAE_01203	ILIHOP_01203	True
+group_3342	hypothetical protein	NKFIDM_04748	KMIGAE_04748	ILIHOP_04748	True
+group_3328	Bacterial regulatory s tetR family protein	NKFIDM_03246	KMIGAE_03246	ILIHOP_03246	True
+group_3319	Nucleotidyltransferase family protein	NKFIDM_04927	KMIGAE_04927	ILIHOP_04927	True
+group_3311	ABC transporter family protein	NKFIDM_04912	KMIGAE_04912	ILIHOP_04912	True
+group_3308	Methylase involved in ubiquinone/menaquinone biosynthesis	NKFIDM_01216	KMIGAE_01216	ILIHOP_01216	True
+group_3307	Periplasmic binding family protein	NKFIDM_01190	KMIGAE_01190	ILIHOP_01190	True
+group_3300	DNA repair protein RadC	NKFIDM_06607	KMIGAE_06607	ILIHOP_06607	True
+group_3296	Peptidoglycan DD-metalloendopeptidase family protein	NKFIDM_06034	KMIGAE_06034	ILIHOP_06034	True
+group_3290	DUF3987 domain-containing protein	NKFIDM_01112	KMIGAE_01112	ILIHOP_01112	True
+group_3286	TetR family transcriptional regulator	NKFIDM_04928	KMIGAE_04928	ILIHOP_04928	True
+group_3279	DNA modification methylase	NKFIDM_00335	KMIGAE_00335	ILIHOP_00335	True
+group_3264	hypothetical protein	NKFIDM_05609	KMIGAE_05609	ILIHOP_05609	True
+group_3253	ABC transporter family protein	NKFIDM_04523	KMIGAE_04523	ILIHOP_04523	True
+group_3249	Nuclear transport factor 2 family protein	NKFIDM_02193	KMIGAE_02193	ILIHOP_02193	True
+group_3247	Bacterial regulatory s tetR family protein	NKFIDM_01184	KMIGAE_01184	ILIHOP_01184	True
+group_3234	Siphovirus-type tail component C-terminal domain-containing protein	NKFIDM_06042	KMIGAE_06042	ILIHOP_06042	True
+group_3232	hypothetical protein	NKFIDM_04943	KMIGAE_04943	ILIHOP_04943	True
+group_3228	recombinase zinc beta ribbon domain-containing protein	NKFIDM_01202	KMIGAE_01202	ILIHOP_01202	True
+group_3215	hypothetical protein	NKFIDM_06075	KMIGAE_06075	ILIHOP_06075	True
+group_3214	Uncharacterised protein family (UPF0158)	NKFIDM_04735	KMIGAE_04735	ILIHOP_04735	True
+group_3200	ABC transporter permease	NKFIDM_03556	KMIGAE_03556	ILIHOP_03556	True
+group_3193	DUF4280 domain-containing protein	NKFIDM_05390	KMIGAE_05390	ILIHOP_05391	True
+lysE	Lysine transporter LysE	NKFIDM_04926	KMIGAE_04926	ILIHOP_04926	True
+group_3191	LysM peptidoglycan-binding domain-containing protein	NKFIDM_03587	KMIGAE_03587	ILIHOP_03587	True
+group_3187	DUF2306 domain-containing protein	NKFIDM_01167	KMIGAE_01167	ILIHOP_01167	True
+group_3174	DUF2357 domain-containing protein	NKFIDM_04750	KMIGAE_04750	ILIHOP_04750	True
+group_3162	metallophosphoesterase	NKFIDM_00978	KMIGAE_00978	ILIHOP_00978	True
+group_3159	Methyl-accepting chemotaxis protein	NKFIDM_06595	KMIGAE_06595	ILIHOP_06595	True
+group_3157	hypothetical protein	NKFIDM_05807	KMIGAE_05807	ILIHOP_05807	True
+group_3150	Response regulator	NKFIDM_02210	KMIGAE_02210	ILIHOP_02210	True
+group_3141	Helix-turn-helix domain-containing protein	NKFIDM_06116	KMIGAE_06116	ILIHOP_06116	True
+group_3140	hypothetical protein	NKFIDM_04693	KMIGAE_04693	ILIHOP_04693	True
+cas4	CRISPR-associated protein Cas4	NKFIDM_00342	KMIGAE_00342	ILIHOP_00342	True
+group_3124	Copper amine oxidase-like N-terminal domain-containing protein	NKFIDM_03320	KMIGAE_03320	ILIHOP_03320	True
+group_3114	cAMP-binding domain of CRP or a regulatory subunit of cAMP-dependent protein kinases	NKFIDM_01803	KMIGAE_01803	ILIHOP_01803	True
+group_3108	Pentapeptide repeat-containing protein	NKFIDM_05392	KMIGAE_05392	ILIHOP_05393	True
+group_3107	Transcriptional regulator	NKFIDM_04989	KMIGAE_04989	ILIHOP_04989	True
+group_3093	hypothetical protein	NKFIDM_04950	KMIGAE_04950	ILIHOP_04950	True
+group_3092	WbqC-like family protein	NKFIDM_04692	KMIGAE_04692	ILIHOP_04692	True
+group_3081	DUF554 domain-containing protein	NKFIDM_02191	KMIGAE_02191	ILIHOP_02191	True
+group_3075	Short-chain dehydrogenase	NKFIDM_03222	KMIGAE_03222	ILIHOP_03222	True
+group_3073	Mobile element protein CD1107-like domain-containing protein	NKFIDM_02516	KMIGAE_02516	ILIHOP_02516	True
+group_3071	LUD domain-containing protein	NKFIDM_01804	KMIGAE_01804	ILIHOP_01804	True
+group_3065	HNH endonuclease signature motif containing protein	NKFIDM_06093	KMIGAE_06093	ILIHOP_06093	True
+group_3063	hypothetical protein	NKFIDM_04753	KMIGAE_04753	ILIHOP_04753	True
+group_3050	DUF1643 domain-containing protein	NKFIDM_04754	KMIGAE_04754	ILIHOP_04754	True
+group_3049	GlcNAc-PI de-N-acetylase family protein	NKFIDM_04689	KMIGAE_04689	ILIHOP_04689	True
+hssR	Heme response regulator HssR	NKFIDM_02194	KMIGAE_02194	ILIHOP_02194	True
+group_3035	Response regulator	NKFIDM_01164	KMIGAE_01164	ILIHOP_01164	True
+group_3027	Methyltransferase domain protein	NKFIDM_02167	KMIGAE_02167	ILIHOP_02167	True
+rpe	ribulose-phosphate 3-epimerase	NKFIDM_01207	KMIGAE_01207	ILIHOP_01207	True
+group_3007	Ankyrin repeat-containing protein	NKFIDM_06598	KMIGAE_06598	ILIHOP_06598	True
+group_3006	hypothetical protein	NKFIDM_06113	KMIGAE_06113	ILIHOP_06113	True
+group_2988	M15 family metallopeptidase	NKFIDM_04944	KMIGAE_04944	ILIHOP_04944	True
+group_2985	ABC transporter family protein	NKFIDM_06430	KMIGAE_06430	ILIHOP_06430	True
+cas5b	type I-B CRISPR-associated protein Cas5b	NKFIDM_01394	KMIGAE_01394	ILIHOP_01394	True
+group_2976	LytTr DNA-binding domain protein	NKFIDM_06434	KMIGAE_06434	ILIHOP_06434	True
+group_2972	Antirestriction protein	NKFIDM_02531	KMIGAE_02531	ILIHOP_02531	True
+group_2970	ATP-binding protein	NKFIDM_01114	KMIGAE_01114	ILIHOP_01114	True
+group_2960	hypothetical protein	NKFIDM_00346	KMIGAE_00346	ILIHOP_00346	True
+cas5c	type I-C CRISPR-associated protein Cas5c	NKFIDM_00339	KMIGAE_00339	ILIHOP_00339	True
+ubiE	Methyltransferase domain-containing protein	NKFIDM_02507	KMIGAE_02507	ILIHOP_02507	True
+group_2912	HTH deoR-type domain-containing protein	NKFIDM_01206	KMIGAE_01206	ILIHOP_01206	True
+group_2909	glycoside hydrolase family 73 protein	NKFIDM_03564	KMIGAE_03564	ILIHOP_03564	True
+cas6	CRISPR-associated endoribonuclease Cas6	NKFIDM_01391	KMIGAE_01391	ILIHOP_01391	True
+group_2899	Response regulator	NKFIDM_04535	KMIGAE_04535	ILIHOP_04535	True
+group_2873	glucose-1-phosphate thymidylyltransferase	NKFIDM_05816	KMIGAE_05816	ILIHOP_05816	True
+group_2858	Glutamine amidotransferase	NKFIDM_01168	KMIGAE_01168	ILIHOP_01168	True
+group_2857	type I methionyl aminopeptidase	NKFIDM_01158	KMIGAE_01158	ILIHOP_01158	True
+group_2848	Transport permease protein	NKFIDM_03232	KMIGAE_03232	ILIHOP_03232	True
+group_2846	IS3 family transposase	NKFIDM_01108	KMIGAE_01108	ILIHOP_01108	True
+group_2830	DNA-binding response regulator	NKFIDM_06433	KMIGAE_06433	ILIHOP_06433	True
+group_2827	helix-turn-helix transcriptional regulator	NKFIDM_04991	KMIGAE_04991	ILIHOP_04991	True
+group_2820	Lipoprotein	NKFIDM_00323	KMIGAE_00323	ILIHOP_00323	True
+group_2819	ABC transporter family protein	NKFIDM_00288	KMIGAE_00288	ILIHOP_00288	True
+group_2815	hypothetical protein	NKFIDM_04705	KMIGAE_04705	ILIHOP_04705	True
+group_2812	Putative lipoprotein	NKFIDM_02212	KMIGAE_02212	ILIHOP_02212	True
+group_2804	ABC transporter family protein	NKFIDM_04901	KMIGAE_04901	ILIHOP_04901	True
+group_2800	Methyltransferase domain protein	NKFIDM_02184	KMIGAE_02184	ILIHOP_02184	True
+group_2739	ABC transporter family protein	NKFIDM_02186	KMIGAE_02186	ILIHOP_02186	True
+group_2733	Lipoprotein	NKFIDM_00326	KMIGAE_00326	ILIHOP_00326	True
+group_2715	Phage tail protein	NKFIDM_06051	KMIGAE_06051	ILIHOP_06051	True
+group_2708	23S ribosomal RNA methyltransferase Erm	NKFIDM_02100	KMIGAE_02100	ILIHOP_02100	True
+group_2704	NAD-dependent epimerase/dehydratase family protein	NKFIDM_05822	KMIGAE_05822	ILIHOP_05822	True
+group_2676	ABC transporter family protein	NKFIDM_04902	KMIGAE_04902	ILIHOP_04902	True
+group_2670	DUF6674 domain-containing protein	NKFIDM_02528	KMIGAE_02528	ILIHOP_02528	True
+group_2666	Glycosyltransferase	NKFIDM_06609	KMIGAE_06609	ILIHOP_06609	True
+group_2664	DUF3849 domain-containing protein	NKFIDM_06072	KMIGAE_06072	ILIHOP_06072	True
+group_2663	Transport permease protein	NKFIDM_05831	KMIGAE_05831	ILIHOP_05831	True
+group_2652	Sulfatase-modifying factor enzyme 1 family protein	NKFIDM_04691	KMIGAE_04691	ILIHOP_04691	True
+group_2651	Phospholipase C	NKFIDM_04536	KMIGAE_04536	ILIHOP_04536	True
+group_2645	ABC transporter family protein	NKFIDM_02172	KMIGAE_02172	ILIHOP_02172	True
+group_2635	hypothetical protein	NKFIDM_04749	KMIGAE_04749	ILIHOP_04749	True
+group_2626	Polysaccharide deacetylase family protein	NKFIDM_06257	KMIGAE_06257	ILIHOP_06257	True
+group_2625	Glycosyltransferase family 2 protein	NKFIDM_05820	KMIGAE_05820	ILIHOP_05820	True
+group_2620	ATPase associated with various cellular activities family protein	NKFIDM_02178	KMIGAE_02178	ILIHOP_02178	True
+group_2615	class I SAM-dependent methyltransferase	NKFIDM_03228	KMIGAE_03228	ILIHOP_03228	True
+group_2609	CAAX protease self-immunity family protein	NKFIDM_01162	KMIGAE_01162	ILIHOP_01162	True
+group_2606	TIM barrel protein	NKFIDM_05821	KMIGAE_05821	ILIHOP_05821	True
+group_2604	Bacterial transferase hexapeptide family protein	NKFIDM_04684	KMIGAE_04684	ILIHOP_04684	True
+group_2595	Binding--dependent transport system inner membrane component family protein	NKFIDM_00350	KMIGAE_00350	ILIHOP_00350	True
+group_2593	Alpha/beta hydrolase	NKFIDM_05057	KMIGAE_05057	ILIHOP_05057	True
+group_2589	MerR family transcriptional regulator	NKFIDM_02190	KMIGAE_02190	ILIHOP_02190	True
+group_2546	3'-phosphoadenosine 5'-phosphosulfate sulfotransferase	NKFIDM_03581	KMIGAE_03581	ILIHOP_03581	True
+group_2541	CobQ/CobB/MinD/ParA nucleotide binding domain protein	NKFIDM_01109	KMIGAE_01109	ILIHOP_01109	True
+group_2539	Sugar ABC transporter ATP-binding protein	NKFIDM_00329	KMIGAE_00329	ILIHOP_00329	True
+nikD	Nickel import system ATP-binding protein NikD	NKFIDM_04913	KMIGAE_04913	ILIHOP_04913	True
+group_2508	Binding--dependent transport system inner membrane component family protein	NKFIDM_04914	KMIGAE_04914	ILIHOP_04914	True
+group_2502	DUF3801 domain-containing protein	NKFIDM_01141	KMIGAE_01141	ILIHOP_01141	True
+group_2498	Restriction endonuclease type II DpnII-like domain-containing protein	NKFIDM_00337	KMIGAE_00337	ILIHOP_00337	True
+group_2490	TrbL/VirB6 plasmid conjugal transfer protein	NKFIDM_01146	KMIGAE_01146	ILIHOP_01146	True
+group_2483	ATP-binding protein	NKFIDM_06033	KMIGAE_06033	ILIHOP_06033	True
+group_2482	DUF2815 domain-containing protein	NKFIDM_04975	KMIGAE_04975	ILIHOP_04975	True
+group_2464	AAA domain-containing protein	NKFIDM_01115	KMIGAE_01115	ILIHOP_01115	True
+group_2460	nickel transporter permease	NKFIDM_04903	KMIGAE_04903	ILIHOP_04903	True
+group_2450	hypothetical protein	NKFIDM_06062	KMIGAE_06062	ILIHOP_06062	True
+group_2448	Histidine kinase- DNA gyrase B- and HSP90-like ATPase family protein	NKFIDM_04534	KMIGAE_04534	ILIHOP_04534	True
+group_2421	YdjC-like family protein	NKFIDM_04687	KMIGAE_04687	ILIHOP_04687	True
+group_2411	DnaA ATPase domain-containing protein	NKFIDM_03558	KMIGAE_03558	ILIHOP_03558	True
+group_2407	ParB/RepB/Spo0J family partition protein	NKFIDM_01132	KMIGAE_01132	ILIHOP_01132	True
+group_2402	ATP-dependent DNA ligase	NKFIDM_06070	KMIGAE_06070	ILIHOP_06070	True
+group_2398	DNA-binding protein	NKFIDM_03227	KMIGAE_03227	ILIHOP_03227	True
+group_2393	Binding--dependent transport system inner membrane component family protein	NKFIDM_02170	KMIGAE_02170	ILIHOP_02170	True
+cas7c	type I-C CRISPR-associated protein Cas7/Csd2	NKFIDM_00341	KMIGAE_00341	ILIHOP_00341	True
+group_2382	TrbL/VirB6 plasmid conjugal transfer protein	NKFIDM_02524	KMIGAE_02524	ILIHOP_02524	True
+group_2380	Beta-galactosidase trimerization domain protein	NKFIDM_02221	KMIGAE_02221	ILIHOP_02221	True
+group_2379	ABC transporter family protein	NKFIDM_02171	KMIGAE_02171	ILIHOP_02171	True
+group_2367	Binding--dependent transport system inner membrane component family protein	NKFIDM_02218	KMIGAE_02218	ILIHOP_02218	True
+group_2321	amidase domain-containing protein	NKFIDM_00380	KMIGAE_00380	ILIHOP_00380	True
+group_2313	Sigma-70 family RNA polymerase sigma factor	NKFIDM_03888	KMIGAE_03888	ILIHOP_03888	True
+group_2296	Binding--dependent transport system inner membrane component family protein	NKFIDM_00330	KMIGAE_00330	ILIHOP_00330	True
+group_2292	DUF4309 domain-containing protein	NKFIDM_05832	KMIGAE_05832	ILIHOP_05832	True
+group_2250	putative phage tail protein	NKFIDM_03592	KMIGAE_03592	ILIHOP_03592	True
+group_2234	hypothetical protein	NKFIDM_01106	KMIGAE_01106	ILIHOP_01106	True
+group_2227	Binding--dependent transport system inner membrane component family protein	NKFIDM_02887	KMIGAE_02887	ILIHOP_02887	True
+merR	MerR regulatory family protein	NKFIDM_00327	KMIGAE_00327	ILIHOP_00327	True
+group_2211	Lysozyme	NKFIDM_06036	KMIGAE_06036	ILIHOP_06036	True
+group_2198	FAD/NAD(P)-binding domain-containing protein	NKFIDM_01170	KMIGAE_01170	ILIHOP_01170	True
+group_2184	Binding--dependent transport system inner membrane component family protein	NKFIDM_02217	KMIGAE_02217	ILIHOP_02217	True
+group_2182	LtrC-like protein	NKFIDM_01142	KMIGAE_01142	ILIHOP_01142	True
+cas7i	type I-B CRISPR-associated protein Cas7/Cst2/DevR	NKFIDM_01393	KMIGAE_01393	ILIHOP_01393	True
+group_2162	Methyltransferase domain-containing protein	NKFIDM_01171	KMIGAE_01171	ILIHOP_01171	True
+group_2136	Amidase	NKFIDM_03225	KMIGAE_03225	ILIHOP_03225	True
+group_2086	Alpha/beta hydrolase	NKFIDM_04930	KMIGAE_04930	ILIHOP_04930	True
+group_2085	Putative permease family protein	NKFIDM_04907	KMIGAE_04907	ILIHOP_04907	True
+folE2	GTP cyclohydrolase FolE2	NKFIDM_02181	KMIGAE_02181	ILIHOP_02181	True
+group_2054	Glycosyltransferase	NKFIDM_05817	KMIGAE_05817	ILIHOP_05817	True
+group_2035	site-specific integrase	NKFIDM_04709	KMIGAE_04709	ILIHOP_04709	True
+group_2031	nickel ABC transporter permease	NKFIDM_02169	KMIGAE_02169	ILIHOP_02169	True
+group_2028	DUF3732 domain-containing protein	NKFIDM_01197	KMIGAE_01197	ILIHOP_01197	True
+group_2022	AAA family ATPase	NKFIDM_04972	KMIGAE_04972	ILIHOP_04972	True
+parB	Chromosome partitioning protein ParB	NKFIDM_01110	KMIGAE_01110	ILIHOP_01110	True
+nikB	nickel ABC transporter permease	NKFIDM_04904	KMIGAE_04904	ILIHOP_04904	True
+group_2011	AAA family ATPase	NKFIDM_03551	KMIGAE_03551	ILIHOP_03551	True
+dnaI	primosomal protein DnaI	NKFIDM_06102	KMIGAE_06102	ILIHOP_06102	True
+group_1997	DUF3991 domain-containing protein	NKFIDM_01136	KMIGAE_01136	ILIHOP_01136	True
+group_1996	Sigma-70 region 2 family protein	NKFIDM_00334	KMIGAE_00334	ILIHOP_00334	True
+group_1991	Transcriptional regulator	NKFIDM_04722	KMIGAE_04722	ILIHOP_04722	True
+group_1989	SUMF1/EgtB/PvdO family nonheme iron enzyme	NKFIDM_03561	KMIGAE_03561	ILIHOP_03561	True
+group_1988	Transcriptional regulator	NKFIDM_03219	KMIGAE_03219	ILIHOP_03219	True
+rbsK	ribokinase	NKFIDM_01208	KMIGAE_01208	ILIHOP_01208	True
+group_1976	3'-5' exoribonuclease	NKFIDM_04725	KMIGAE_04725	ILIHOP_04725	True
+group_1975	4Fe-4S ferredoxin-type domain-containing protein	NKFIDM_04697	KMIGAE_04697	ILIHOP_04697	True
+group_1963	ABC transporter transmembrane region family protein	NKFIDM_04526	KMIGAE_04526	ILIHOP_04526	True
+group_1950	Prolyl oligopeptidase family protein	NKFIDM_00886	KMIGAE_00886	ILIHOP_00886	True
+group_1942	Mu-like prophage major head subunit gpT family protein	NKFIDM_04957	KMIGAE_04957	ILIHOP_04957	True
+group_1941	Amidinotransferase family protein	NKFIDM_04698	KMIGAE_04698	ILIHOP_04698	True
+group_1931	Prenyltransferase-like family protein	NKFIDM_00347	KMIGAE_00347	ILIHOP_00347	True
+group_1921	Binding--dependent transport system inner membrane component family protein	NKFIDM_04915	KMIGAE_04915	ILIHOP_04915	True
+group_1919	SUMF1/EgtB/PvdO family nonheme iron enzyme	NKFIDM_03596	KMIGAE_03596	ILIHOP_03596	True
+group_1900	Helix-turn-helix domain protein	NKFIDM_00332	KMIGAE_00332	ILIHOP_00332	True
+group_1898	Glycosyltransferase	NKFIDM_05823	KMIGAE_05823	ILIHOP_05823	True
+group_1888	Branched-chain amino acid transport system / permease component family protein	NKFIDM_01211	KMIGAE_01211	ILIHOP_01211	True
+group_1872	Helicase	NKFIDM_04959	KMIGAE_04959	ILIHOP_04959	True
+group_1871	Helix-turn-helix domain protein	NKFIDM_04911	KMIGAE_04911	ILIHOP_04911	True
+group_1851	Branched-chain amino acid transport system / permease component family protein	NKFIDM_01210	KMIGAE_01210	ILIHOP_01210	True
+group_1850	F0F1-type ATP synthase	NKFIDM_01121	KMIGAE_01121	ILIHOP_01121	True
+cas1b	type I-B CRISPR-associated endonuclease Cas1b	NKFIDM_01397	KMIGAE_01397	ILIHOP_01397	True
+group_1839	hypothetical protein	NKFIDM_06610	KMIGAE_06610	ILIHOP_06610	True
+group_1820	Phage late control D family protein	NKFIDM_03588	KMIGAE_03588	ILIHOP_03588	True
+group_1809	Major capsid protein	NKFIDM_06058	KMIGAE_06058	ILIHOP_06058	True
+group_1801	Radical SAM additional 4Fe4S-binding SPASM domain protein	NKFIDM_04530	KMIGAE_04530	ILIHOP_04530	True
+group_1796	CobW C-terminal domain-containing protein	NKFIDM_02189	KMIGAE_02189	ILIHOP_02189	True
+group_1782	Transposase family protein	NKFIDM_01155	KMIGAE_01155	ILIHOP_01155	True
+group_1776	Radical SAM superfamily protein	NKFIDM_04701	KMIGAE_04701	ILIHOP_04701	True
+group_1773	GerA spore germination family protein	NKFIDM_03035	KMIGAE_03035	ILIHOP_03035	True
+group_1760	GTP-binding protein	NKFIDM_04909	KMIGAE_04909	ILIHOP_04909	True
+group_1758	retron-type reverse transcriptase	NKFIDM_03574	KMIGAE_03574	ILIHOP_03574	True
+group_1740	TIGR03943 family protein	NKFIDM_04908	KMIGAE_04908	ILIHOP_04908	True
+group_1733	Periplasmic binding family protein	NKFIDM_02187	KMIGAE_02187	ILIHOP_02187	True
+group_1728	Radical SAM additional 4Fe4S-binding SPASM domain protein	NKFIDM_06427	KMIGAE_06427	ILIHOP_06427	True
+group_1727	hypothetical protein	NKFIDM_04685	KMIGAE_04685	ILIHOP_04685	True
+group_1714	FecCD transport family protein	NKFIDM_01187	KMIGAE_01187	ILIHOP_01187	True
+group_1697	Periplasmic binding s and sugar binding domain of LacI family protein	NKFIDM_01212	KMIGAE_01212	ILIHOP_01212	True
+group_1693	Glycosyltransferase	NKFIDM_04688	KMIGAE_04688	ILIHOP_04688	True
+group_1689	Periplasmic binding family protein	NKFIDM_01186	KMIGAE_01186	ILIHOP_01186	True
+group_1679	Aspartate ammonia-lyase	NKFIDM_03577	KMIGAE_03577	ILIHOP_03577	True
+group_1676	DUF3732 domain-containing protein	NKFIDM_01196	KMIGAE_01196	ILIHOP_01196	True
+group_1675	DJ-1/PfpI family protein	NKFIDM_01166	KMIGAE_01166	ILIHOP_01166	True
+cas1c	type I-C CRISPR-associated endonuclease Cas1c	NKFIDM_00343	KMIGAE_00343	ILIHOP_00343	True
+group_1671	Seryl-tRNA synthetase	NKFIDM_06059	KMIGAE_06059	ILIHOP_06059	True
+group_1666	Amidohydrolase family protein	NKFIDM_02192	KMIGAE_02192	ILIHOP_02192	True
+group_1646	FecCD transport family protein	NKFIDM_02185	KMIGAE_02185	ILIHOP_02185	True
+group_1645	FecCD transport family protein	NKFIDM_01188	KMIGAE_01188	ILIHOP_01188	True
+group_1641	hypothetical protein	NKFIDM_06105	KMIGAE_06105	ILIHOP_06105	True
+group_1629	Z1 domain-containing protein	NKFIDM_04760	KMIGAE_04760	ILIHOP_04760	True
+group_1628	Radical SAM additional 4Fe4S-binding SPASM domain protein	NKFIDM_04531	KMIGAE_04531	ILIHOP_04531	True
+group_1625	Lipoprotein	NKFIDM_03529	KMIGAE_03529	ILIHOP_03529	True
+group_1608	S8 family serine peptidase	NKFIDM_06432	KMIGAE_06432	ILIHOP_06432	True
+group_1603	transcriptional regulator	NKFIDM_03575	KMIGAE_03575	ILIHOP_03575	True
+group_1596	Subtilase family protein	NKFIDM_04537	KMIGAE_04537	ILIHOP_04537	True
+group_1595	Replication protein	NKFIDM_06611	KMIGAE_06611	ILIHOP_06611	True
+group_1582	D12 class N6 adenine-specific DNA methyltransferase family protein	NKFIDM_00336	KMIGAE_00336	ILIHOP_00336	True
+group_1568	REase associating with pPIWI RE domain-containing protein	NKFIDM_04728	KMIGAE_04728	ILIHOP_04728	True
+group_1567	Thymidylate synthase family protein	NKFIDM_04700	KMIGAE_04700	ILIHOP_04700	True
+group_1563	GTP-binding protein	NKFIDM_02188	KMIGAE_02188	ILIHOP_02188	True
+group_1557	undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase	NKFIDM_04690	KMIGAE_04690	ILIHOP_04690	True
+group_1521	histidine kinase	NKFIDM_02195	KMIGAE_02195	ILIHOP_02195	True
+group_1495	Spore germination protein KB	NKFIDM_01178	KMIGAE_01178	ILIHOP_01178	True
+group_1487	DNA polymerase III subunit beta	NKFIDM_06101	KMIGAE_06101	ILIHOP_06101	True
+group_1460	reverse transcriptase/maturase family protein	NKFIDM_03600	KMIGAE_03600	ILIHOP_03600	True
+group_1452	Copper amine oxidase-like N-terminal domain-containing protein	NKFIDM_01122	KMIGAE_01122	ILIHOP_01122	True
+group_1451	SAF domain-containing protein	NKFIDM_01113	KMIGAE_01113	ILIHOP_01113	True
+group_1444	FAD-dependent oxidoreductase	NKFIDM_05824	KMIGAE_05824	ILIHOP_05824	True
+group_1434	S8 family serine peptidase	NKFIDM_00287	KMIGAE_00287	ILIHOP_00287	True
+group_1431	baseplate J/gp47 family protein	NKFIDM_03591	KMIGAE_03591	ILIHOP_03591	True
+group_1428	Short chain dehydrogenase family protein	NKFIDM_01245	KMIGAE_01245	ILIHOP_01245	True
+group_1424	DUF418 domain-containing protein	NKFIDM_02213	KMIGAE_02213	ILIHOP_02213	True
+group_1423	Putative conjugative transposon recombinase	NKFIDM_01201	KMIGAE_01201	ILIHOP_01201	True
+group_1419	Fido domain-containing protein	NKFIDM_04724	KMIGAE_04724	ILIHOP_04724	True
+group_1402	Integrase	NKFIDM_04708	KMIGAE_04708	ILIHOP_04708	True
+group_1397	Plasmid-partitioning protein	NKFIDM_06111	KMIGAE_06111	ILIHOP_06111	True
+group_1393	Plasmid pRiA4b Orf3-like domain-containing protein	NKFIDM_04736	KMIGAE_04736	ILIHOP_04736	True
+group_1356	ImmA/IrrE family metallo-endopeptidase	NKFIDM_06592	KMIGAE_06592	ILIHOP_06592	True
+group_1346	Radical SAM additional 4Fe4S-binding SPASM domain protein	NKFIDM_06428	KMIGAE_06428	ILIHOP_06428	True
+group_1297	PD-(D/E)XK endonuclease-like domain-containing protein	NKFIDM_04976	KMIGAE_04976	ILIHOP_04976	True
+group_1282	Spore germination GerAC-like C-terminal domain-containing protein	NKFIDM_01177	KMIGAE_01177	ILIHOP_01177	True
+group_1245	Sugar (And other) transporter family protein	NKFIDM_04910	KMIGAE_04910	ILIHOP_04910	True
+cobW	CobW C-terminal domain-containing protein	NKFIDM_02174	KMIGAE_02174	ILIHOP_02174	True
+group_1223	Methyltransferase domain-containing protein	NKFIDM_05829	KMIGAE_05829	ILIHOP_05829	True
+group_1214	AMP-binding enzyme family protein	NKFIDM_04699	KMIGAE_04699	ILIHOP_04699	True
+group_1210	Major Facilitator Superfamily protein	NKFIDM_04931	KMIGAE_04931	ILIHOP_04931	True
+group_1198	Bacterial transferase hexapeptide family protein	NKFIDM_04686	KMIGAE_04686	ILIHOP_04686	True
+group_1192	restriction endonuclease subunit S	NKFIDM_04718	KMIGAE_04718	ILIHOP_04718	True
+group_1165	ABC-three component systems C-terminal domain-containing protein	NKFIDM_01199	KMIGAE_01199	ILIHOP_01199	True
+group_1125	terminase small subunit	NKFIDM_06064	KMIGAE_06064	ILIHOP_06064	True
+group_1105	IS110 family transposase	NKFIDM_05561	KMIGAE_05561	ILIHOP_05561	True
+group_1088	NADH peroxidase	NKFIDM_04929	KMIGAE_04929	ILIHOP_04929	True
+group_1067	Radical SAM additional 4Fe4S-binding SPASM domain protein	NKFIDM_06426	KMIGAE_06426	ILIHOP_06426	True
+group_1040	Glycosyl hydrolase	NKFIDM_05828	KMIGAE_05828	ILIHOP_05828	True
+group_1035	ATP-binding cassette domain-containing protein	NKFIDM_05830	KMIGAE_05830	ILIHOP_05830	True
+group_1004	phage portal protein	NKFIDM_06060	KMIGAE_06060	ILIHOP_06060	True
+rarA	Recombination factor protein RarA	NKFIDM_03218	KMIGAE_03218	ILIHOP_03218	True
+group_993	methyl-accepting chemotaxis protein	NKFIDM_01133	KMIGAE_01133	ILIHOP_01133	True
+group_983	histidine kinase	NKFIDM_01163	KMIGAE_01163	ILIHOP_01163	True
+group_973	Bacterial extracellular solute-binding family protein	NKFIDM_00331	KMIGAE_00331	ILIHOP_00331	True
+group_924	Sugar (Glycoside-Pentoside-Hexuronide) transporter domain protein	NKFIDM_01244	KMIGAE_01244	ILIHOP_01244	True
+group_913	Restriction endonuclease	NKFIDM_04710	KMIGAE_04710	ILIHOP_04710	True
+group_879	MFS-type transporter YcnB	NKFIDM_01172	KMIGAE_01172	ILIHOP_01172	True
+group_875	DEAD/DEAH box helicase	NKFIDM_04968	KMIGAE_04968	ILIHOP_04968	True
+group_874	restriction endonuclease subunit S	NKFIDM_04758	KMIGAE_04758	ILIHOP_04758	True
+ltrA	group II intron reverse transcriptase/maturase	NKFIDM_01500	KMIGAE_01500	ILIHOP_01500	True
+group_864	Drug resistance MFS transporter drug:H+ antiporter-2 family protein	NKFIDM_04924	KMIGAE_04924	ILIHOP_04924	True
+group_861	Phage structural protein	NKFIDM_04951	KMIGAE_04951	ILIHOP_04951	True
+group_853	MobA/VirD2-like nuclease domain-containing protein	NKFIDM_02509	KMIGAE_02509	ILIHOP_02509	True
+group_842	Relaxase/mobilization nuclease domain protein	NKFIDM_01140	KMIGAE_01140	ILIHOP_01140	True
+group_831	MATE efflux family protein	NKFIDM_00903	KMIGAE_00903	ILIHOP_00903	True
+group_818	phage tail sheath subtilisin-like domain-containing protein	NKFIDM_03583	KMIGAE_03583	ILIHOP_03583	True
+group_804	DEAD/DEAH box helicase family protein	NKFIDM_06063	KMIGAE_06063	ILIHOP_06063	True
+group_802	histidine kinase	NKFIDM_02211	KMIGAE_02211	ILIHOP_02211	True
+group_766	sensor histidine kinase	NKFIDM_00345	KMIGAE_00345	ILIHOP_00345	True
+group_765	terminase large subunit domain-containing protein	NKFIDM_04963	KMIGAE_04963	ILIHOP_04963	True
+ccpM	Cys-rich peptide radical SAM maturase CcpM	NKFIDM_00283	KMIGAE_00283	ILIHOP_00283	True
+group_757	site-specific DNA-methyltransferase (adenine-specific)	NKFIDM_04719	KMIGAE_04719	ILIHOP_04719	True
+group_742	DUF5704 domain-containing protein	NKFIDM_01124	KMIGAE_01124	ILIHOP_01124	True
+group_741	Recombinase family protein	NKFIDM_06117	KMIGAE_06117	ILIHOP_06117	True
+group_737	Spore germination protein KA	NKFIDM_01176	KMIGAE_01176	ILIHOP_01176	True
+group_719	ParB/RepB/Spo0J family partition protein	NKFIDM_02533	KMIGAE_02533	ILIHOP_02533	True
+group_716	AMP-binding enzyme family protein	NKFIDM_04695	KMIGAE_04695	ILIHOP_04695	True
+group_695	dienelactone hydrolase	NKFIDM_03223	KMIGAE_03223	ILIHOP_03223	True
+group_690	Phage portal protein	NKFIDM_03572	KMIGAE_03572	ILIHOP_03572	True
+group_683	LCP family protein	NKFIDM_06597	KMIGAE_06597	ILIHOP_06597	True
+group_672	hypothetical protein	NKFIDM_04947	KMIGAE_04947	ILIHOP_04947	True
+group_663	Tyr recombinase domain-containing protein	NKFIDM_04707	KMIGAE_04707	ILIHOP_04707	True
+group_657	heme ABC exporter ATP-binding protein CcmA	NKFIDM_01209	KMIGAE_01209	ILIHOP_01209	True
+group_626	Nuclease SbcCD subunit C	NKFIDM_06106	KMIGAE_06106	ILIHOP_06106	True
+group_619	nickel ABC transporter substrate-binding protein	NKFIDM_04905	KMIGAE_04905	ILIHOP_04905	True
+group_612	phage tail protein	NKFIDM_04954	KMIGAE_04954	ILIHOP_04954	True
+group_610	SAM-dependent methyltransferase	NKFIDM_01134	KMIGAE_01134	ILIHOP_01134	True
+group_590	Xylan beta-14-xylosidase	NKFIDM_02222	KMIGAE_02222	ILIHOP_02222	True
+group_582	NlpC/p60-like transpeptidase family protein	NKFIDM_04696	KMIGAE_04696	ILIHOP_04696	True
+group_580	Extracellular solute-binding protein family 1	NKFIDM_02219	KMIGAE_02219	ILIHOP_02219	True
+group_579	Helix-turn-helix domain protein	NKFIDM_02216	KMIGAE_02216	ILIHOP_02216	True
+group_563	Putative lipoprotein	NKFIDM_06391	KMIGAE_06391	ILIHOP_06391	True
+nikA	nickel ABC transporter substrate-binding protein	NKFIDM_02168	KMIGAE_02168	ILIHOP_02168	True
+group_514	ABC transporter substrate-binding protein	NKFIDM_04916	KMIGAE_04916	ILIHOP_04916	True
+sWIM	SWIM-type domain-containing protein	NKFIDM_04732	KMIGAE_04732	ILIHOP_04732	True
+group_503	Rhamnan synthesis F family protein	NKFIDM_05827	KMIGAE_05827	ILIHOP_05827	True
+group_496	DUF4368 domain-containing protein	NKFIDM_02502	KMIGAE_02502	ILIHOP_02502	True
+group_481	DNA integrase	NKFIDM_04704	KMIGAE_04704	ILIHOP_04704	True
+group_477	ABC transporter family protein	NKFIDM_06425	KMIGAE_06425	ILIHOP_06425	True
+group_448	Phage terminase large subunit	NKFIDM_03571	KMIGAE_03571	ILIHOP_03571	True
+group_445	YfhO family protein	NKFIDM_05819	KMIGAE_05819	ILIHOP_05819	True
+group_437	Histidine kinase family protein	NKFIDM_02284	KMIGAE_02284	ILIHOP_02284	True
+group_432	ABC transporter family protein	NKFIDM_04702	KMIGAE_04702	ILIHOP_04702	True
+group_418	S-layer-like y domain-containing protein	NKFIDM_06600	KMIGAE_06600	ILIHOP_06600	True
+group_408	VirD4-like conjugal transfer protein CD1115 family	NKFIDM_01144	KMIGAE_01144	ILIHOP_01144	True
+group_403	LXG domain-containing protein	NKFIDM_04647	KMIGAE_04647	ILIHOP_04647	True
+group_399	ABC transporter family protein	NKFIDM_00281	KMIGAE_00281	ILIHOP_00281	True
+group_385	AAA+ ATPase domain-containing protein	NKFIDM_04711	KMIGAE_04711	ILIHOP_04711	True
+nlpC	NLP/P60 protein	NKFIDM_02518	KMIGAE_02518	ILIHOP_02518	True
+group_368	histidine kinase	NKFIDM_02215	KMIGAE_02215	ILIHOP_02215	True
+group_356	VirD4-like conjugal transfer protein CD1115 family	NKFIDM_02526	KMIGAE_02526	ILIHOP_02526	True
+group_347	histidine kinase	NKFIDM_00333	KMIGAE_00333	ILIHOP_00333	True
+group_344	site-specific DNA-methyltransferase	NKFIDM_06594	KMIGAE_06594	ILIHOP_06594	True
+tadA	Flp pilus assembly complex ATPase component TadA	NKFIDM_01116	KMIGAE_01116	ILIHOP_01116	True
+group_334	Flavin oxidoreductase / NADH oxidase family protein	NKFIDM_04515	KMIGAE_04515	ILIHOP_04515	True
+group_320	FtsX-like permease family protein	NKFIDM_00289	KMIGAE_00289	ILIHOP_00289	True
+group_316	type I-B CRISPR-associated protein Cas8b1/Cst1	NKFIDM_01392	KMIGAE_01392	ILIHOP_01392	True
+cas8c	type I-C CRISPR-associated protein Cas8c/Csd1	NKFIDM_00340	KMIGAE_00340	ILIHOP_00340	True
+group_303	Recombinase	NKFIDM_01129	KMIGAE_01129	ILIHOP_01129	True
+group_288	DNA polymerase I	NKFIDM_04974	KMIGAE_04974	ILIHOP_04974	True
+group_284	NlpC/P60 family protein	NKFIDM_01194	KMIGAE_01194	ILIHOP_01194	True
+group_261	Fibronectin type III-like domain-containing protein	NKFIDM_01243	KMIGAE_01243	ILIHOP_01243	True
+group_259	DNA cytosine methyltransferase	NKFIDM_06097	KMIGAE_06097	ILIHOP_06097	True
+gspF	Type II secretion system protein GspF domain-containing protein	NKFIDM_01117	KMIGAE_01117	ILIHOP_01117	True
+group_243	Mu transposase C-terminal domain-containing protein	NKFIDM_03550	KMIGAE_03550	ILIHOP_03550	True
+group_238	Phage SU10 portal protein	NKFIDM_04961	KMIGAE_04961	ILIHOP_04961	True
+group_236	DUF5704 domain-containing protein	NKFIDM_01123	KMIGAE_01123	ILIHOP_01123	True
+group_227	Cytosine-specific methyltransferase	NKFIDM_00361	KMIGAE_00361	ILIHOP_00361	True
+group_223	class I SAM-dependent DNA methyltransferase	NKFIDM_04759	KMIGAE_04759	ILIHOP_04759	True
+group_215	Phage minor structural N-terminal region domain protein	NKFIDM_06041	KMIGAE_06041	ILIHOP_06041	True
+group_206	NlpC/P60 family protein	NKFIDM_01154	KMIGAE_01154	ILIHOP_01154	True
+rloC	Translation-disabling ACNase RloC	NKFIDM_04716	KMIGAE_04716	ILIHOP_04716	True
+group_180	excinuclease ABC subunit UvrA	NKFIDM_00654	KMIGAE_00654	ILIHOP_00654	True
+group_171	CRISPR-associated helicase Cas3'	NKFIDM_01395	KMIGAE_01395	ILIHOP_01395	True
+group_166	NlpC/P60 family protein	NKFIDM_06392	KMIGAE_06392	ILIHOP_06392	True
+group_160	Tail fiber protein	NKFIDM_06045	KMIGAE_06045	ILIHOP_06045	True
+group_156	VirB4-like conjugal transfer ATPase CD1110 family	NKFIDM_01151	KMIGAE_01151	ILIHOP_01151	True
+virB4	VirB4-like conjugal transfer ATPase CD1110 family	NKFIDM_02519	KMIGAE_02519	ILIHOP_02519	True
+group_146	FAD dependent oxidoreductase family protein	NKFIDM_00328	KMIGAE_00328	ILIHOP_00328	True
+group_141	FtsX-like permease family protein	NKFIDM_06429	KMIGAE_06429	ILIHOP_06429	True
+group_140	virulence-associated E family protein	NKFIDM_04970	KMIGAE_04970	ILIHOP_04970	True
+group_127	CRISPR-associated endonuclease Cas3-HD	NKFIDM_00338	KMIGAE_00338	ILIHOP_00338	True
+group_122	Helix-turn-helix domain protein	NKFIDM_01242	KMIGAE_01242	ILIHOP_01242	True
+group_121	Piwi domain-containing protein	NKFIDM_04726	KMIGAE_04726	ILIHOP_04726	True
+group_112	FtsX-like permease family protein	NKFIDM_04532	KMIGAE_04532	ILIHOP_04532	True
+group_110	ATP-dependent helicase C-terminal domain-containing protein	NKFIDM_01195	KMIGAE_01195	ILIHOP_01195	True
+luxR	Bacterial regulatory s luxR family protein	NKFIDM_01180	KMIGAE_01180	ILIHOP_01180	True
+group_103	ABC-type transport system permease	NKFIDM_06584	KMIGAE_06584	ILIHOP_06584	True
+group_98	Glycosyl hydrolases family 2 sugar binding domain protein	NKFIDM_02220	KMIGAE_02220	ILIHOP_02220	True
+group_93	DEAD/DEAH box helicase	NKFIDM_04715	KMIGAE_04715	ILIHOP_04715	True
+group_83	DEAD/DEAH box helicase	NKFIDM_04714	KMIGAE_04714	ILIHOP_04714	True
+group_74	PD-(D/E)XK endonuclease-like domain-containing protein	NKFIDM_04721	KMIGAE_04721	ILIHOP_04721	True
+group_66	hypothetical protein	NKFIDM_04757	KMIGAE_04757	ILIHOP_04757	True
+group_61	Fibronectin type III domain protein	NKFIDM_01183	KMIGAE_01183	ILIHOP_01183	True
+group_60	DEAD/DEAH box helicase family protein	NKFIDM_06593	KMIGAE_06593	ILIHOP_06593	True
+group_58	Tape measure protein N-terminal domain-containing protein	NKFIDM_03586	KMIGAE_03586	ILIHOP_03586	True
+group_57	pPIWI-RE three-gene island domain-containing protein	NKFIDM_04727	KMIGAE_04727	ILIHOP_04727	True
+group_47	Phage late control D family protein	NKFIDM_05389	KMIGAE_05389	ILIHOP_05390	True
+group_44	p-loop containing nucleoside triphosphate hydrolase	NKFIDM_06596	KMIGAE_06596	ILIHOP_06596	True
+yfhO	YfhO family protein	NKFIDM_05826	KMIGAE_05826	ILIHOP_05826	True
+group_42	DNA 3'-5' helicase	NKFIDM_04720	KMIGAE_04720	ILIHOP_04720	True
+group_41	type I site-specific deoxyribonuclease	NKFIDM_04717	KMIGAE_04717	ILIHOP_04717	True
+group_16	LPD38 domain-containing protein	NKFIDM_04946	KMIGAE_04946	ILIHOP_04946	True
+group_15	SLH domain-containing protein	NKFIDM_01185	KMIGAE_01185	ILIHOP_01185	True
+group_12	Fibronectin type III domain protein	NKFIDM_01181	KMIGAE_01181	ILIHOP_01181	True
+group_10	Transglycosylase	NKFIDM_06048	KMIGAE_06048	ILIHOP_06048	True
+group_6	Helicase	NKFIDM_01127	KMIGAE_01127	ILIHOP_01127	True
