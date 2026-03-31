@@ -152,4 +152,4 @@ Raw data files are **not tracked in git** (`.gitignore` excludes `data/`). The `
 
 ## License
 
-This project is part of a research portfolio. Please contact the author before reuse.
+Please contact the author before reuse.
